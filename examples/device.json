@@ -1,0 +1,46 @@
+{
+  "schema": "pasada.device/0.1.0",
+  "project_id": "PASADA-MANDAUE-LEAR",
+  "device_id": "PUCK-A-AC_NW_IN-IN-L1-U05",
+  "role": "sensor",
+  "intersection_id": "J-A",
+  "location": {
+    "latitude": 10.330511874314237,
+    "longitude": 123.94760185652532
+  },
+  "location_status": "provisional",
+  "installation_ready": true,
+  "intersection_reference": {
+    "latitude": 10.3304625,
+    "longitude": 123.9478423,
+    "purpose": "Junction reference; not the cabinet position"
+  },
+  "sensor": {
+    "lane_id": "A-AC_NW_IN-IN-L1",
+    "approach": "N",
+    "placement": "upstream",
+    "offset_m": 5,
+    "reference_latitude": 10.330488341804394,
+    "reference_longitude": 123.94764080451982
+  },
+  "controller_id": "CTRL-A",
+  "esp_now_channel": 6,
+  "timing": {
+    "min_green_s": 10,
+    "max_green_s": 30,
+    "fixed_green_s": 20,
+    "yellow_s": 3,
+    "all_red_s": 2,
+    "pedestrian_service_s": 7,
+    "pedestrian_max_wait_s": 90,
+    "heartbeat_s": 1,
+    "heartbeat_timeout_s": 5,
+    "recovery_stable_s": 60,
+    "downstream_capacity_veh": 18
+  },
+  "model": "pressure-v0",
+  "security_mode": "simulation",
+  "output_mode": "serial-only",
+  "radio_capacity_resolved": false,
+  "firmware_version": "0.1.0"
+}

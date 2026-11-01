@@ -1,0 +1,3140 @@
+{
+  "schema": "pasada.study-results/0.1.0",
+  "study_date": "2026-11-01",
+  "source": "recorded-sumo",
+  "simulator": "SUMO 1.28.0",
+  "scope": "Reconstructed motor-only Mandaue experiments. Separate from the interactive browser queue model. Not field results or trained RL.",
+  "matched": {
+    "package": "PASADA_Matched_SUMO_Comparison.zip",
+    "library_file_id": "libfile_541c037705688191a616391a712aa3dd",
+    "package_sha256": "951a4ab99755fd83080007e56ffc770f6dbf0c115c161c5b9c17d325dda4160e",
+    "members": {
+      "manuscript_tables.json": "a48fb3403c0e81a2aad12a8b3b8ea8d46e285a29af62c87fe2710e67cc305350",
+      "protocol.json": "2898b7cbc4e3e158e3eb1e42d537451d1c189d17eae429cea08b028d5185e8ea",
+      "audit.json": "c9fb54d418652556bb9e1b0af2da0860b00647589817502ebccc8191defd5a02"
+    },
+    "tables": {
+      "table8": [
+        [
+          "Case",
+          "Control",
+          "Travel s",
+          "P95 travel s",
+          "Waiting s",
+          "Time lost s",
+          "Stops / veh"
+        ],
+        [
+          "J1 AM",
+          "Fixed",
+          "470.3",
+          "836.9",
+          "307.8",
+          "416.0",
+          "4.3"
+        ],
+        [
+          "J1 AM",
+          "PASADA",
+          "406.2",
+          "1,081.1",
+          "227.9",
+          "352.0",
+          "4.4"
+        ],
+        [
+          "J1 PM",
+          "Fixed",
+          "426.0",
+          "734.2",
+          "314.2",
+          "371.2",
+          "2.1"
+        ],
+        [
+          "J1 PM",
+          "PASADA",
+          "333.6",
+          "1,124.0",
+          "210.7",
+          "279.4",
+          "2.5"
+        ],
+        [
+          "J2 AM",
+          "Fixed",
+          "417.4",
+          "899.3",
+          "263.7",
+          "356.4",
+          "4.6"
+        ],
+        [
+          "J2 AM",
+          "PASADA",
+          "350.6",
+          "832.0",
+          "214.4",
+          "289.1",
+          "3.6"
+        ],
+        [
+          "J2 PM",
+          "Fixed",
+          "642.1",
+          "1,007.8",
+          "459.0",
+          "581.0",
+          "5.7"
+        ],
+        [
+          "J2 PM",
+          "PASADA",
+          "400.2",
+          "790.8",
+          "251.9",
+          "342.7",
+          "4.7"
+        ],
+        [
+          "J3 AM",
+          "Fixed",
+          "396.6",
+          "970.0",
+          "271.5",
+          "346.5",
+          "9.3"
+        ],
+        [
+          "J3 AM",
+          "PASADA",
+          "327.9",
+          "794.8",
+          "211.6",
+          "278.1",
+          "7.9"
+        ],
+        [
+          "J3 PM",
+          "Fixed",
+          "531.7",
+          "1,214.9",
+          "411.5",
+          "484.5",
+          "5.5"
+        ],
+        [
+          "J3 PM",
+          "PASADA",
+          "420.7",
+          "948.5",
+          "281.0",
+          "370.3",
+          "7.8"
+        ],
+        [
+          "Network AM",
+          "Fixed",
+          "473.4",
+          "715.0",
+          "298.2",
+          "411.3",
+          "6.3"
+        ],
+        [
+          "Network AM",
+          "PASADA",
+          "368.2",
+          "738.6",
+          "201.4",
+          "308.1",
+          "5.3"
+        ],
+        [
+          "Network PM",
+          "Fixed",
+          "443.1",
+          "959.6",
+          "316.9",
+          "380.7",
+          "3.2"
+        ],
+        [
+          "Network PM",
+          "PASADA",
+          "313.7",
+          "975.2",
+          "189.4",
+          "255.0",
+          "3.1"
+        ]
+      ],
+      "table9": [
+        [
+          "Case",
+          "Control",
+          "Scheduled",
+          "Completed",
+          "Active",
+          "Not inserted",
+          "Accrued s / veh"
+        ],
+        [
+          "J1 AM",
+          "Fixed",
+          "8,297",
+          "2,804.3",
+          "520.0",
+          "4,972.7",
+          "1,327.0"
+        ],
+        [
+          "J1 AM",
+          "PASADA",
+          "8,297",
+          "2,798.7",
+          "511.3",
+          "4,987.0",
+          "1,308.0"
+        ],
+        [
+          "J1 PM",
+          "Fixed",
+          "6,208",
+          "2,983.0",
+          "443.3",
+          "2,781.7",
+          "1,067.1"
+        ],
+        [
+          "J1 PM",
+          "PASADA",
+          "6,208",
+          "2,932.3",
+          "396.3",
+          "2,879.3",
+          "1,034.6"
+        ],
+        [
+          "J2 AM",
+          "Fixed",
+          "3,580",
+          "979.0",
+          "208.7",
+          "2,392.3",
+          "1,403.0"
+        ],
+        [
+          "J2 AM",
+          "PASADA",
+          "3,580",
+          "1,047.7",
+          "158.7",
+          "2,373.7",
+          "1,347.2"
+        ],
+        [
+          "J2 PM",
+          "Fixed",
+          "4,942",
+          "876.0",
+          "264.3",
+          "3,801.7",
+          "1,574.9"
+        ],
+        [
+          "J2 PM",
+          "PASADA",
+          "4,942",
+          "1,015.3",
+          "149.7",
+          "3,777.0",
+          "1,503.4"
+        ],
+        [
+          "J3 AM",
+          "Fixed",
+          "5,579",
+          "992.3",
+          "215.0",
+          "4,371.7",
+          "1,529.6"
+        ],
+        [
+          "J3 AM",
+          "PASADA",
+          "5,579",
+          "1,211.0",
+          "204.7",
+          "4,163.3",
+          "1,455.5"
+        ],
+        [
+          "J3 PM",
+          "Fixed",
+          "6,053",
+          "1,119.3",
+          "286.3",
+          "4,647.3",
+          "1,570.5"
+        ],
+        [
+          "J3 PM",
+          "PASADA",
+          "6,053",
+          "1,414.0",
+          "250.0",
+          "4,389.0",
+          "1,430.2"
+        ],
+        [
+          "Network AM",
+          "Fixed",
+          "15,509",
+          "3,247.3",
+          "684.0",
+          "11,577.7",
+          "1,530.6"
+        ],
+        [
+          "Network AM",
+          "PASADA",
+          "15,509",
+          "3,994.0",
+          "662.0",
+          "10,853.0",
+          "1,442.1"
+        ],
+        [
+          "Network PM",
+          "Fixed",
+          "14,702",
+          "3,558.0",
+          "706.7",
+          "10,437.3",
+          "1,477.6"
+        ],
+        [
+          "Network PM",
+          "PASADA",
+          "14,702",
+          "4,111.3",
+          "626.3",
+          "9,964.3",
+          "1,378.2"
+        ]
+      ],
+      "table10": [
+        [
+          "Case",
+          "Control",
+          "Mean halted",
+          "P95 halted",
+          "Max tail m",
+          "Exits in hour"
+        ],
+        [
+          "J1 AM",
+          "Fixed",
+          "152.4",
+          "200.0",
+          "236.8",
+          "3,667.3"
+        ],
+        [
+          "J1 AM",
+          "PASADA",
+          "114.6",
+          "144.7",
+          "236.8",
+          "3,639.0"
+        ],
+        [
+          "J1 PM",
+          "Fixed",
+          "142.7",
+          "199.4",
+          "236.8",
+          "3,550.7"
+        ],
+        [
+          "J1 PM",
+          "PASADA",
+          "94.3",
+          "137.0",
+          "236.8",
+          "3,514.3"
+        ],
+        [
+          "J2 AM",
+          "Fixed",
+          "19.5",
+          "31.7",
+          "88.7",
+          "1,386.7"
+        ],
+        [
+          "J2 AM",
+          "PASADA",
+          "17.5",
+          "28.7",
+          "89.0",
+          "1,396.0"
+        ],
+        [
+          "J2 PM",
+          "Fixed",
+          "41.0",
+          "57.7",
+          "95.4",
+          "1,485.7"
+        ],
+        [
+          "J2 PM",
+          "PASADA",
+          "24.2",
+          "40.7",
+          "94.7",
+          "1,525.0"
+        ],
+        [
+          "J3 AM",
+          "Fixed",
+          "18.3",
+          "25.7",
+          "65.6",
+          "1,659.0"
+        ],
+        [
+          "J3 AM",
+          "PASADA",
+          "18.8",
+          "25.7",
+          "65.6",
+          "1,795.7"
+        ],
+        [
+          "J3 PM",
+          "Fixed",
+          "19.8",
+          "27.0",
+          "65.1",
+          "1,828.7"
+        ],
+        [
+          "J3 PM",
+          "PASADA",
+          "20.7",
+          "27.3",
+          "65.5",
+          "2,028.3"
+        ],
+        [
+          "Network AM",
+          "Fixed",
+          "179.4",
+          "228.7",
+          "236.8",
+          "5,138.0"
+        ],
+        [
+          "Network AM",
+          "PASADA",
+          "148.4",
+          "189.7",
+          "236.8",
+          "5,661.7"
+        ],
+        [
+          "Network PM",
+          "Fixed",
+          "176.1",
+          "236.0",
+          "236.8",
+          "5,324.3"
+        ],
+        [
+          "Network PM",
+          "PASADA",
+          "127.3",
+          "173.7",
+          "236.8",
+          "5,590.3"
+        ]
+      ],
+      "paired": [
+        {
+          "case": "J1_AM",
+          "all_demand_time_reduction_percent": 1.431507203942611,
+          "all_demand_time_reduction_sd": 0.6213138170061612,
+          "completion_change_pp": -0.06829777831344568,
+          "completion_change_pp_sd": 0.20956653177044032,
+          "completed_travel_reduction_percent": 13.621826801093032,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            1.9083644418937258,
+            0.7288736300570582,
+            1.6572835398770493
+          ],
+          "completion_changes_by_seed": [
+            0.16873568759793045,
+            -0.2289984331686128,
+            -0.14463058936965467
+          ]
+        },
+        {
+          "case": "J1_PM",
+          "all_demand_time_reduction_percent": 3.037802168816698,
+          "all_demand_time_reduction_sd": 1.671024485765319,
+          "completion_change_pp": -0.8161512027491421,
+          "completion_change_pp_sd": 0.3032175237005036,
+          "completed_travel_reduction_percent": 21.702288895917235,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            2.1439450137911713,
+            2.0038231287399975,
+            4.965638363918925
+          ],
+          "completion_changes_by_seed": [
+            -0.9664948453608204,
+            -1.014819587628871,
+            -0.46713917525773496
+          ]
+        },
+        {
+          "case": "J2_AM",
+          "all_demand_time_reduction_percent": 3.9746001104219237,
+          "all_demand_time_reduction_sd": 0.5746815996787594,
+          "completion_change_pp": 1.9180633147113586,
+          "completion_change_pp_sd": 0.22750077696220783,
+          "completed_travel_reduction_percent": 15.983636661527104,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            3.4777053112617207,
+            4.603941996618718,
+            3.8421530233853325
+          ],
+          "completion_changes_by_seed": [
+            1.7597765363128488,
+            2.1787709497206684,
+            1.8156424581005588
+          ]
+        },
+        {
+          "case": "J2_PM",
+          "all_demand_time_reduction_percent": 4.544664943172048,
+          "all_demand_time_reduction_sd": 0.510671833636137,
+          "completion_change_pp": 2.8193713746121674,
+          "completion_change_pp_sd": 0.5897070820017365,
+          "completed_travel_reduction_percent": 37.67165903172522,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            5.022350276642642,
+            4.006409078147815,
+            4.605235474725687
+          ],
+          "completion_changes_by_seed": [
+            3.075677863213272,
+            2.1448806151355733,
+            3.2375556454876566
+          ]
+        },
+        {
+          "case": "J3_AM",
+          "all_demand_time_reduction_percent": 4.841758215602752,
+          "all_demand_time_reduction_sd": 0.9204134627326812,
+          "completion_change_pp": 3.9194598793093136,
+          "completion_change_pp_sd": 0.7731059620607448,
+          "completed_travel_reduction_percent": 17.23186688643569,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            4.919194667667413,
+            3.8850728663583243,
+            5.721007112782518
+          ],
+          "completion_changes_by_seed": [
+            4.122602616956442,
+            3.0650654239110935,
+            4.570711597060406
+          ]
+        },
+        {
+          "case": "J3_PM",
+          "all_demand_time_reduction_percent": 8.93375803469739,
+          "all_demand_time_reduction_sd": 1.2661040584548793,
+          "completion_change_pp": 4.868109477394129,
+          "completion_change_pp_sd": 0.3221896024298713,
+          "completed_travel_reduction_percent": 20.730531051212942,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            9.707497599307992,
+            7.472637443012333,
+            9.62113906177185
+          ],
+          "completion_changes_by_seed": [
+            5.187510325458451,
+            4.543201718156286,
+            4.873616388567651
+          ]
+        },
+        {
+          "case": "CORRIDOR_AM",
+          "all_demand_time_reduction_percent": 5.78060110842751,
+          "all_demand_time_reduction_sd": 0.4827069372057661,
+          "completion_change_pp": 4.814408837879081,
+          "completion_change_pp_sd": 0.20209038189294629,
+          "completed_travel_reduction_percent": 22.235961023141332,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            5.517647982553135,
+            6.337692200511957,
+            5.48646314221744
+          ],
+          "completion_changes_by_seed": [
+            4.848797472435361,
+            4.997098458959311,
+            4.59733058224257
+          ]
+        },
+        {
+          "case": "CORRIDOR_PM",
+          "all_demand_time_reduction_percent": 6.7318639380960015,
+          "all_demand_time_reduction_sd": 0.3941123390031847,
+          "completion_change_pp": 3.763660272978735,
+          "completion_change_pp_sd": 0.19061215759292405,
+          "completed_travel_reduction_percent": 29.19825814495458,
+          "paired_seeds": [
+            7100,
+            7101,
+            7102
+          ],
+          "all_demand_changes_by_seed": [
+            6.334071253086226,
+            7.122189825261834,
+            6.739330735939944
+          ],
+          "completion_changes_by_seed": [
+            3.550537341858252,
+            3.917834308257383,
+            3.82260916882057
+          ]
+        }
+      ],
+      "audit": {
+        "status": "PASS",
+        "runs": 48,
+        "source_movement_cells_checked": 372,
+        "cohort_vehicle_records_checked": 389220,
+        "collisions": 0,
+        "teleports": 0,
+        "phase_errors": 0,
+        "canonical_native_outputs": "SHA256-checked complete .xml.gz mirrors captured immediately after SUMO close; XML parsed and trip accounting recomputed independently.",
+        "post_process_raw_copies_differing_from_canonical": [
+          "results/paired_nov01/seed7101/CORRIDOR_AM/fixed/tripinfo.xml"
+        ],
+        "note": "Output/accounting checks and finite motor-only diagnostics, not field/pedestrian acceptance."
+      }
+    },
+    "protocol": {
+      "protocol": "paired-local-rule-2026-11-01-v1",
+      "controllers": [
+        "fixed",
+        "rule"
+      ],
+      "seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "cases": [
+        "J1_AM",
+        "J1_PM",
+        "J2_AM",
+        "J2_PM",
+        "J3_AM",
+        "J3_PM",
+        "CORRIDOR_AM",
+        "CORRIDOR_PM"
+      ],
+      "selection": "Existing transparent rule fixed before these measurements; no fitting or learned-checkpoint selection.",
+      "demand_scale": 1.0,
+      "warmup_s": 600,
+      "study_s": [
+        600,
+        4200
+      ],
+      "cutoff_s": 4200,
+      "step_s": 0.5,
+      "sample_s": 5,
+      "primary": "Study-cohort mean accumulated scheduled-to-exit time at common cutoff, including unfinished and uninserted trips; a restricted lower bound, not an estimate of eventual travel time.",
+      "secondary": [
+        "completed-cohort duration and p95",
+        "completed-cohort waitingTime/timeLoss/waitingCount",
+        "study-hour arrivals",
+        "study-cohort completion/active/uninserted counts",
+        "incoming-approach halting vehicles and farthest-stopped tail extent"
+      ],
+      "source_scope": "Team manual hourly class/site marginals; reconstructed routes/arrival times and conditional fixed signal program; lane-based motor-only model.",
+      "queue_definition": "Incoming approach halting count at speed <=0.1 m/s sampled every5s; tail extent is distance from lane end to rearmost stopped vehicle rear on modeled incoming edges. Exact SUMO state is evaluation-only.",
+      "acceptance": "Finite motor-only simulation diagnostics, not full Table4 field/pedestrian acceptance. Any collision/teleport is retained and flagged; no failed seed removed.",
+      "fingerprints": {
+        "scenarios/CORRIDOR_PM.sumocfg": "3fce76e37d7ce36c09320526fa34d09070a1c21f5a5c75693940511e355df6a5",
+        "scenarios/ST50_CORRIDOR_AM_crossings.add.xml": "4767d030e5d4990e4e0910a150f90cf3f8b409a0bcaa1f7e09c24a43f9dc134e",
+        "scenarios/CORRIDOR_AM_crossings.add.xml": "d18ec1da7ce126feec39a08c7d973601ae2ea821af553f6d4cba13260d14461c",
+        "scenarios/J1_AM_fixed.add.xml": "afc38b458a6d1fcb579641330672ca7acfc742f8390f08c86e9833fda2793d1f",
+        "scenarios/J3_PM.rou.xml": "c472ea27f3c1ad52a0a891d5e36ceb109faf1dfd8389d03693bde3630831c5ed",
+        "scenarios/CORRIDOR_PM.rou.xml": "146c338e63b548920b316faa33c6b9418c31fe91c7fb9fabb025f1948b91091c",
+        "scenarios/J3_PM.sumocfg": "00804ea6b2f9f1d7795c4bbecb2f0ebdd1c87dd334987dff1fb62f2e852b7657",
+        "scenarios/ST50_J2_PM.sumocfg": "a8eafa048cc158707fca039e389726e20357f59c31e9eadb9ba640b339e02a79",
+        "scenarios/J1_PM_fixed.add.xml": "7ea78651eeb6d2d3dc1bf8041717d85aa933be3306684167e089e4951d42812c",
+        "scenarios/ST50_J3_AM.sumocfg": "a525e74823b0a1daeaccdc4c12452c184378ade64600a810781b9a4a138fb747",
+        "scenarios/J3_AM.rou.xml": "1ae714ff7de82003d44729f495af4cd6402e8994a74535ffce8a2fdb643896ca",
+        "scenarios/J2_AM_crossings.add.xml": "4e14b52496875918fd9ad56610eda013f8ef3e4a43e0c13e47f26ee56543b310",
+        "scenarios/J2_PM.rou.xml": "087684db552154bf962975da61ac65ce0c5688cef59b8f1d5d6a955703ec68b7",
+        "scenarios/ST50_J1_AM.sumocfg": "d173cc87f0489bfb15dafb2ee2d2e9492bb92c7a59df524f55d00ff967fb9197",
+        "scenarios/ST50_J3_PM_crossings.add.xml": "a01bf6dce5d059fcfb8d7fa902e042757eb05f50cf57e00961850159da404711",
+        "scenarios/ST50_J2_AM.sumocfg": "037b17a3b8e257df8dc5c47f151e9d6c9d2595346516623668d607b73647f2f3",
+        "scenarios/CORRIDOR_PM_crossings.add.xml": "c4e3154d27a29290f658d2ee071a2fc462a2b1c745b1807e11c9e05ea6454821",
+        "scenarios/ST50_J3_PM.sumocfg": "8b47b8d27d0179a7e47e5328800f3337708ee6552aa69e9b22b133d70a764acc",
+        "scenarios/CORRIDOR_AM.rou.xml": "d413f1af46d5e844de93d5abdb73bd94986c181b64369fcb9bb7faa807c34ad6",
+        "scenarios/J2_PM_crossings.add.xml": "89703178a8785a84ce9123db238876879f01b76716851d3b9b7857906aca3159",
+        "scenarios/J1_PM_crossings.add.xml": "7353db9a260f24c0de422205b80ce0453d3f8280a2aa051b80ec67569666bc59",
+        "scenarios/J1_provisional_tls.add.xml": "9b19e6eadca1c0dd75a167bc3e02a98c46e1719bae5f6a0179a14b36e19676a9",
+        "scenarios/J2_provisional_tls.add.xml": "2b08ca7fc474dcea3de7678f5574726e3844d8d1a92af8e0846ffdae45128369",
+        "scenarios/ST50_J1_AM_crossings.add.xml": "c3b2982acebab194693155006fe98d4c52355215e7911404d94a91ab4d0eb5ce",
+        "scenarios/J2_AM.rou.xml": "9e9a5d8c137a6b3362f215361e27b804a62e61ccf70e74872e98ace41f977356",
+        "scenarios/J1_AM.rou.xml": "e1733810cdbbb10786be300907f9f4bcdefb493087c443442edb286b7e5f3329",
+        "scenarios/J1_PM.sumocfg": "0d3f4212c3884d2a1e169d4951581a4a296868605568df932fbdc4891bbfa578",
+        "scenarios/J1_AM_crossings.add.xml": "2f25adf25687b5f41307c28469ebd619ec5314ef36d524ec6eb5ec556425c713",
+        "scenarios/CORRIDOR_provisional_tls.add.xml": "74a93afb6398fedb00183ead2f1630a40665fd1c180bf519f75cc6a57d962dfe",
+        "scenarios/ST50_J1_PM.sumocfg": "f97538f63f17d025eca5d650458c34b7ee49fc284eb390e279a0f720532e35d3",
+        "scenarios/ST50_J2_AM_crossings.add.xml": "f19775f7cf2d21264e480627332cc85bbf3e738214700f98e5ad08596584c1e3",
+        "scenarios/ST50_J3_AM_crossings.add.xml": "ddf48689ad3afa8b01de117fa120e267b2c11434fb9ebdcca3cbaed226687b3c",
+        "scenarios/J3_AM_fixed.add.xml": "a5c521488ba616e6d4b647f4d05dd83ce24f6782209a2b6b5b427770ab4ebb74",
+        "scenarios/J1_AM.sumocfg": "134126a857e7c1ed2521656cb0cec6dcb1d6e175d5f8be36683f28da75b5e064",
+        "scenarios/J2_view.xml": "2b09c8b503280d5f099e3671bf2aabc183b82d7de1d814a02ea2c4c4822cf4a0",
+        "scenarios/CORRIDOR_AM_fixed.add.xml": "bd477b481bf9f333cc5601c9ff8d723efcf4fe147c60a68e93260c7968749973",
+        "scenarios/J1_PM.rou.xml": "6dfa262757e79e60025ae8fedd9fb8e85daf15c47b6304fcc076a775815d65e2",
+        "scenarios/J3_AM_crossings.add.xml": "49e512cdd88cc4da18972b5c024b53148a5d5b5a481cef2d260a3d60d16c79c6",
+        "scenarios/ST50_J1_PM_crossings.add.xml": "260662b271fca04995c938096f86f6d343f2a4d6c59e89e2c96c72133e6ab26f",
+        "scenarios/ST50_CORRIDOR_AM.sumocfg": "5579a974e3282b1ed7660dfa608a75235e41517899d0667b6090964d878611f3",
+        "scenarios/J1_view.xml": "bfc3b864795eb6699c297b686d13b8efe8d9fd722116c64547cd52ee97c3fae9",
+        "scenarios/J3_PM_fixed.add.xml": "8887aa9fc578834f7cc4e7b17b5e89f7957fa413947a3e463aae53d58138a8ca",
+        "scenarios/ST50_CORRIDOR_PM_crossings.add.xml": "6f89ca0cf9a1eddb8c1869a4ccfc17359a99e927937fc7a1279db58af923d1e9",
+        "scenarios/CORRIDOR_PM_fixed.add.xml": "960452aaad122ce2394e1b34b7825b0b8b1915e007893006d37f4ba6184376bc",
+        "scenarios/J2_AM.sumocfg": "68340737b6112492b1318f1cca55429cb7d70e0ae00ed110540b1e54d5396a83",
+        "scenarios/CORRIDOR_view.xml": "ef649f367f62b5fb9fd044a91106c841f8778a51ad645632096a6c87afee9b38",
+        "scenarios/ST50_J2_PM_crossings.add.xml": "d77003cf32946a3c9254d01dfd36792b10775ee3602a29ff0e92096196b4b81a",
+        "scenarios/J2_PM.sumocfg": "7046a0e35929a4c5e961db06583eb372c483817907bad2896ae7ead7133d9c2a",
+        "scenarios/J3_view.xml": "505f282e2dd80e6fe0e60d706ebd81b9cbde1dcf1f4088184efcea4758089b89",
+        "scenarios/J3_AM.sumocfg": "aa2ced2f4501a928b6c98d24adb6d7a9ea61b223253ce17523fe718ed273e0b8",
+        "scenarios/J3_provisional_tls.add.xml": "d88143e8b7d8c4728590fc44988757b921f9fc7683b8c4e602b2fa722c011882",
+        "scenarios/J3_PM_crossings.add.xml": "347231e6ab9001eb900a3675586ba4c4e217185f2af815a2dabcff237d5601d5",
+        "scenarios/CORRIDOR_AM.sumocfg": "e5ba5c3c6dd50a72fb8da4d3065af51a2e2a7b66589a21a34578542ce04ded3b",
+        "scenarios/J2_PM_fixed.add.xml": "80c4b19312c959b4705ae4a69ff072c18f784f504bd27d059742532bdf2e5bf5",
+        "scenarios/J2_AM_fixed.add.xml": "ba57cbf0a44811ee55272137e2fe2e0e3fa07a809aafb7bec83bb5124479e05b",
+        "scenarios/ST50_CORRIDOR_PM.sumocfg": "72c3c1380860cf855303214d1695de2c377fd13e61d27096865ce05c41c5828a",
+        "network/J1_keep_edges.txt": "e05e13d38f0c5a075d6008f3e6d2c9bb08c796908c086b43f0a3b4320ada25e0",
+        "network/mandaue.osm.xml": "2b38a6f2f9eaf4c777dd9e08a64d86065a44df892ae1fdc64bfda6e1a627697f",
+        "network/mandaue.net.xml": "b5fa6cc4725a4e58c288d3ea06af6fdf52bc4ef4e978da873cb53a4785b9289b",
+        "network/study_locations.add.xml": "325985e1ef3d443c2873fc281f70e8e06beed66c548f629fee55953bb23174d2",
+        "network/isolated_J2.net.xml": "bd7bcbf150ccc9387bac2e93d51929703a5a0db4c64648d37d5482411e404624",
+        "network/J3_keep_edges.txt": "cf4cf6aa6685627740a546c4491907047e23660605804ef019b4cc7465508a84",
+        "network/J2_keep_edges.txt": "ccf2f5d3d3939da02d3d5b20d0dd603c6856306b937524c5652be8a07a3ef01b",
+        "network/isolated_J3.net.xml": "605954cc03100dd5795ccc0149802836a3cec72f261f591272bec38583db7468",
+        "network/raw_import.net.xml": "1bcb7c507ddc9f967583834005cdaef38dd2133145147dcb758c12b7afebb591",
+        "network/isolated_J1.net.xml": "d6d229047a960f2bc21c7c3662ff723ca3877dc61fbd7b380ffd4746de35fbf3",
+        "network/junction_repairs.nod.xml": "c2ee8d72b3d352fdd62c5720cb79f1b4558562dfb3136d61a55bbb0747e488e6",
+        "data/reference_movements.json": "1b212798a1bf5350babb2e23f6061b3fea6252ef38397be0eef40122a9052f24",
+        "data/field_validation_template.csv": "53595ae40a17d62400f7871ce0aa4f81d091c11d4b7690a48b37084bb788635c",
+        "data/turn_counts_template.csv": "f976b1f8692d5ac1232c6eeca69e68976269d9d02fa25f7a550d58696c08863e",
+        "data/link_observations_template.csv": "342dd36ac4c0cf2d738ec6fd3b06708d1751be8ebb829e983cc22f91616f624e",
+        "data/demand_settings.json": "d037b55082c9885f73c95b017fbb05eb6a893544e698aa2dc6de74bf3ebaf49d",
+        "data/signal_phases_template.csv": "2d06b764168fb18ff6a3d3a3f6c49547bd46db8ccd6a148b5a9114b1f71f7b5b",
+        "data/sensor_channels_template.csv": "8fdcab2fb6a115320541faadf76759d9409b91efc6d01eadac90be84ec3cbc7c",
+        "data/source_timing_summaries.csv": "a84b6c383a0526dd8bb083ab2c90b74d9d1c8cc60a42c3097829f3918fa96b18",
+        "data/source_class_counts.csv": "18e557b955d695f0e43e8d8ba2d19383a2de7704453d2e1f1f91a385f68ab3e3",
+        "data/DATA_DICTIONARY.md": "4f670d03925bf7d4bd32d9e3fc133c83f341e7cfc8ff9c9bd48a825a53a66fba",
+        "data/vehicle_behavior_assumptions.csv": "af1d7b9143dc1d34d39e1b4bfd8b7b81bab08c5300f217343e1e5198b87cefb5",
+        "data/source_site_totals.csv": "55a61362b1aa254b0e4868d5726553ef788d27c5220b980d09a95cb0a182b5f5",
+        "data/reference_blueprints/CORRIDOR_PM.rou.xml": "146c338e63b548920b316faa33c6b9418c31fe91c7fb9fabb025f1948b91091c",
+        "data/reference_blueprints/CORRIDOR_AM.rou.xml": "d413f1af46d5e844de93d5abdb73bd94986c181b64369fcb9bb7faa807c34ad6",
+        "model/sensors/feature_contract.json": "5a5876c2c6bca006007bf4e288c5dab620fb5818856fdfb2fe89f55952adb504",
+        "model/sensors/feature_contract_v2.json": "5b05e728ca10363574496d1540e4fb573e835fafa36a6a052ab73a699b21f275",
+        "model/sensors/puck_layout.png": "c343b7c8706ae917b6393489201b0c1856f37ffc0974dbb12043d95981f96f12",
+        "model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "model/sensors/pucks.add.xml": "0501160a598f08ce2c5d9cdb23dfad90bdafb621912764d09b54b1daf93d039a",
+        "model/sensors/puck_locations.csv": "a8f5e5aac417c35fab2107965673baee0abcb5946d1fbdd951cbf2776833c812",
+        "learning/common.py": "560309b9da9b4c0aa5a64c020110a803b376a23b68d8e8dc9160be15c40ede3b",
+        "learning/control.py": "1d3e1eb65da8b77d4d7c76f3e9b87cb093e314eb30be3fe243ccdb5472763afd",
+        "learning/environment.py": "b926c981e878632989b533b10e726eaf1845151d2c430a7ef824c342c61bd8bb",
+        "measurement/paired_study.py": "b096fcbcaf013f11a2632c23f65c76970d27fad77bc8136931bfeca0f12e1d5b"
+      }
+    },
+    "audit": {
+      "status": "PASS",
+      "runs": 48,
+      "source_movement_cells_checked": 372,
+      "cohort_vehicle_records_checked": 389220,
+      "collisions": 0,
+      "teleports": 0,
+      "phase_errors": 0,
+      "canonical_native_outputs": "SHA256-checked complete .xml.gz mirrors captured immediately after SUMO close; XML parsed and trip accounting recomputed independently.",
+      "post_process_raw_copies_differing_from_canonical": [
+        "results/paired_nov01/seed7101/CORRIDOR_AM/fixed/tripinfo.xml"
+      ],
+      "note": "Output/accounting checks and finite motor-only diagnostics, not field/pedestrian acceptance."
+    }
+  },
+  "emergency": {
+    "package": "PASADA_Emergency_Beacon_Comparison.zip",
+    "library_file_id": "libfile_c9c5f3ab55e48191bd4c8f2ca571f725",
+    "package_sha256": "ef57476c36e1ac5aaf6c4b17c41516bc40470aa281357edf5a4ea1e83e050531",
+    "members": {
+      "manuscript_tables.json": "79b1eb7ae8668d78c38d11011c5c3bf062e38aba2f9525a1f830c2af2abea270",
+      "protocol.json": "2ba21da08a3618f3d3614c6281d20dd131482cd2ccc419d46b0b6772a962e6b0",
+      "audit.json": "7ec639c989065b1c9ef4b17b831a6d5616f52262c75c9f781ddb2fcf4a0c041c"
+    },
+    "tables": {
+      "table11": [
+        [
+          "Case",
+          "Fixed total s",
+          "Local total s",
+          "Beacon total s",
+          "Fixed road s",
+          "Local road s",
+          "Beacon road s"
+        ],
+        [
+          "J1 AM",
+          "919.2",
+          "1,792.5",
+          "1,672.2",
+          "919.2",
+          "1,696.3",
+          "1,576.0"
+        ],
+        [
+          "J1 PM",
+          "1,087.2",
+          "2,720.0",
+          "2,720.0",
+          "1,049.7",
+          "1,028.2",
+          "1,028.2"
+        ],
+        [
+          "J2 AM",
+          "198.0",
+          "94.0",
+          "124.5",
+          "198.0",
+          "94.0",
+          "124.5"
+        ],
+        [
+          "J2 PM",
+          "706.3",
+          "195.2",
+          "124.3",
+          "706.3",
+          "195.2",
+          "124.3"
+        ],
+        [
+          "J3 AM",
+          "1,579.0",
+          "872.3",
+          "942.5",
+          "605.0",
+          "379.7",
+          "449.8"
+        ],
+        [
+          "J3 PM",
+          "1,982.5",
+          "355.0",
+          "266.5",
+          "665.5",
+          "335.7",
+          "247.2"
+        ],
+        [
+          "Network AM",
+          "1,861.2",
+          "1,383.2",
+          "1,166.0",
+          "774.3",
+          "761.0",
+          "543.8"
+        ],
+        [
+          "Network PM",
+          "2,480.2",
+          "2,331.2",
+          "2,123.5",
+          "1,054.7",
+          "773.2",
+          "565.5"
+        ]
+      ],
+      "table12": [
+        [
+          "Case",
+          "Stopped s F/L/P",
+          "Stops F/L/P",
+          "Green lag s F/L/P",
+          "Pass in cap P",
+          "Ordinary time Δ%",
+          "Completion Δpp"
+        ],
+        [
+          "J1 AM",
+          "755.0 / 1,382.3 / 1,268.8",
+          "4.7 / 12.3 / 12.0",
+          "151.8 / 118.5 / 8.0",
+          "0/3",
+          "-0.12",
+          "+0.29"
+        ],
+        [
+          "J1 PM",
+          "908.2 / 791.3 / 791.3",
+          "4.3 / 9.7 / 9.7",
+          "92.0 / 0.0 / 0.0",
+          "3/3",
+          "+0.00",
+          "+0.00"
+        ],
+        [
+          "J2 AM",
+          "122.8 / 25.7 / 51.0",
+          "2.0 / 1.0 / 0.7",
+          "46.5 / 35.7 / 8.0",
+          "0/3",
+          "+0.28",
+          "-0.50"
+        ],
+        [
+          "J2 PM",
+          "516.3 / 124.7 / 57.0",
+          "5.3 / 1.7 / 1.0",
+          "94.5 / 22.7 / 8.3",
+          "1/3",
+          "+0.13",
+          "-0.19"
+        ],
+        [
+          "J3 AM",
+          "418.5 / 218.7 / 278.0",
+          "11.3 / 7.0 / 8.0",
+          "52.8 / 31.3 / 5.5",
+          "0/3",
+          "+0.18",
+          "-0.16"
+        ],
+        [
+          "J3 PM",
+          "543.2 / 207.0 / 116.0",
+          "5.7 / 5.7 / 4.3",
+          "125.8 / 35.7 / 5.7",
+          "0/3",
+          "+0.01",
+          "-0.56"
+        ],
+        [
+          "Network AM",
+          "516.3 / 484.3 / 287.0",
+          "8.7 / 7.7 / 5.3",
+          "49.0 / 61.7 / 6.9",
+          "4/9",
+          "+0.04",
+          "-0.16"
+        ],
+        [
+          "Network PM",
+          "773.3 / 502.5 / 321.8",
+          "7.7 / 6.7 / 4.7",
+          "74.6 / 62.3 / 7.1",
+          "4/9",
+          "+0.05",
+          "-0.15"
+        ]
+      ],
+      "table13": [
+        [
+          "Case",
+          "20 s total",
+          "60 s total",
+          "EV time saved %",
+          "Ordinary time Δ%",
+          "Pass 20 / 60"
+        ],
+        [
+          "J3 AM",
+          "942.5",
+          "765.3",
+          "+18.8",
+          "-0.38",
+          "0/3 / 2/3"
+        ],
+        [
+          "J3 PM",
+          "266.5",
+          "238.3",
+          "+8.0",
+          "-0.35",
+          "0/3 / 2/3"
+        ]
+      ],
+      "summary": [
+        {
+          "case": "J1_AM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 919.1666666666666,
+          "dispatch_to_arrival_s_sd": 106.67981689773063,
+          "duration": 919.1666666666666,
+          "duration_sd": 106.67981689773063,
+          "departDelay": 0.0,
+          "departDelay_sd": 0.0,
+          "waitingTime": 755.0,
+          "waitingTime_sd": 104.84750831564858,
+          "timeLoss": 858.1433333333333,
+          "timeLoss_sd": 108.11188201734961,
+          "waitingCount": 4.666666666666667,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1329.4919031376792,
+          "ordinary_mean_accumulated_s_sd": 3.410031410116387,
+          "ordinary_completion_percent": 33.65473464304367,
+          "ordinary_completion_percent_sd": 0.09361761438054947,
+          "ordinary_completed_mean_wait_s": 308.7277400807902,
+          "ordinary_completed_mean_wait_s_sd": 0.8178394088090299,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 151.83333333333334,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J1_AM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1792.5,
+          "dispatch_to_arrival_s_sd": 224.22031576108353,
+          "duration": 1696.3333333333333,
+          "duration_sd": 207.77652257493708,
+          "departDelay": 96.16666666666667,
+          "departDelay_sd": 35.25029550703559,
+          "waitingTime": 1382.3333333333333,
+          "waitingTime_sd": 200.98279362505968,
+          "timeLoss": 1635.42,
+          "timeLoss_sd": 209.64699830906233,
+          "waitingCount": 12.333333333333334,
+          "waitingCount_sd": 1.1547005383792515,
+          "ordinary_mean_accumulated_s": 1301.8375300711082,
+          "ordinary_mean_accumulated_s_sd": 13.826025575523364,
+          "ordinary_completion_percent": 33.63062954481539,
+          "ordinary_completion_percent_sd": 0.3977949875693736,
+          "ordinary_completed_mean_wait_s": 226.53609946260013,
+          "ordinary_completed_mean_wait_s_sd": 9.28645404731214,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 118.5,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J1_AM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1672.1666666666667,
+          "dispatch_to_arrival_s_sd": 120.89906258252515,
+          "duration": 1576.0,
+          "duration_sd": 99.9737465537828,
+          "departDelay": 96.16666666666667,
+          "departDelay_sd": 35.25029550703559,
+          "waitingTime": 1268.8333333333333,
+          "waitingTime_sd": 103.41340983321908,
+          "timeLoss": 1515.1133333333332,
+          "timeLoss_sd": 102.21562127841968,
+          "waitingCount": 12.0,
+          "waitingCount_sd": 1.0,
+          "ordinary_mean_accumulated_s": 1300.25360415411,
+          "ordinary_mean_accumulated_s_sd": 9.482383972359962,
+          "ordinary_completion_percent": 33.9198907235547,
+          "ordinary_completion_percent_sd": 0.1933423231773091,
+          "ordinary_completed_mean_wait_s": 222.1171163099104,
+          "ordinary_completed_mean_wait_s_sd": 7.6792448704980965,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 8.0,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J1_PM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1087.1666666666667,
+          "dispatch_to_arrival_s_sd": 5.686240703077327,
+          "duration": 1049.6666666666667,
+          "duration_sd": 7.251436639269031,
+          "departDelay": 37.5,
+          "departDelay_sd": 2.179449471770337,
+          "waitingTime": 908.1666666666666,
+          "waitingTime_sd": 10.610529361598003,
+          "timeLoss": 987.87,
+          "timeLoss_sd": 3.000799893361752,
+          "waitingCount": 4.333333333333333,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1067.5628641537821,
+          "ordinary_mean_accumulated_s_sd": 5.349470427046574,
+          "ordinary_completion_percent": 48.06164089347079,
+          "ordinary_completion_percent_sd": 0.20140677978426838,
+          "ordinary_completed_mean_wait_s": 313.13841400725653,
+          "ordinary_completed_mean_wait_s_sd": 0.9682623117413048,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 92.0,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J1_PM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 2720.0,
+          "dispatch_to_arrival_s_sd": 191.91208924921847,
+          "duration": 1028.1666666666667,
+          "duration_sd": 189.71118399644584,
+          "departDelay": 1691.8333333333333,
+          "departDelay_sd": 288.751767671357,
+          "waitingTime": 791.3333333333334,
+          "waitingTime_sd": 209.12575961208924,
+          "timeLoss": 966.3266666666666,
+          "timeLoss_sd": 191.06321894423672,
+          "waitingCount": 9.666666666666666,
+          "waitingCount_sd": 5.507570547286102,
+          "ordinary_mean_accumulated_s": 1020.3067698668417,
+          "ordinary_mean_accumulated_s_sd": 37.10353759483178,
+          "ordinary_completion_percent": 47.94888316151203,
+          "ordinary_completion_percent_sd": 1.4714452727067642,
+          "ordinary_completed_mean_wait_s": 211.74809345878572,
+          "ordinary_completed_mean_wait_s_sd": 9.299965205920149,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 0.0,
+          "passed_active_n": 3,
+          "expired_n": 3
+        },
+        {
+          "case": "J1_PM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 2720.0,
+          "dispatch_to_arrival_s_sd": 191.91208924921847,
+          "duration": 1028.1666666666667,
+          "duration_sd": 189.71118399644584,
+          "departDelay": 1691.8333333333333,
+          "departDelay_sd": 288.751767671357,
+          "waitingTime": 791.3333333333334,
+          "waitingTime_sd": 209.12575961208924,
+          "timeLoss": 966.37,
+          "timeLoss_sd": 191.04246412774307,
+          "waitingCount": 9.666666666666666,
+          "waitingCount_sd": 5.507570547286102,
+          "ordinary_mean_accumulated_s": 1020.3067698668417,
+          "ordinary_mean_accumulated_s_sd": 37.10353759483178,
+          "ordinary_completion_percent": 47.94888316151203,
+          "ordinary_completion_percent_sd": 1.4714452727067642,
+          "ordinary_completed_mean_wait_s": 211.74809345878572,
+          "ordinary_completed_mean_wait_s_sd": 9.299965205920149,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 0.0,
+          "passed_active_n": 3,
+          "expired_n": 3
+        },
+        {
+          "case": "J2_AM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 198.0,
+          "dispatch_to_arrival_s_sd": 4.272001872658765,
+          "duration": 198.0,
+          "duration_sd": 4.272001872658765,
+          "departDelay": 0.0,
+          "departDelay_sd": 0.0,
+          "waitingTime": 122.83333333333333,
+          "waitingTime_sd": 1.5275252316519468,
+          "timeLoss": 149.98333333333335,
+          "timeLoss_sd": 1.240859916885593,
+          "waitingCount": 2.0,
+          "waitingCount_sd": 0.0,
+          "ordinary_mean_accumulated_s": 1404.564141899442,
+          "ordinary_mean_accumulated_s_sd": 0.4956103146328368,
+          "ordinary_completion_percent": 27.216014897579143,
+          "ordinary_completion_percent_sd": 0.1259566970062263,
+          "ordinary_completed_mean_wait_s": 262.91489045847123,
+          "ordinary_completed_mean_wait_s_sd": 3.7881412166862427,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 46.5,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J2_AM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 94.0,
+          "dispatch_to_arrival_s_sd": 15.588457268119896,
+          "duration": 94.0,
+          "duration_sd": 15.588457268119896,
+          "departDelay": 0.0,
+          "departDelay_sd": 0.0,
+          "waitingTime": 25.666666666666668,
+          "waitingTime_sd": 17.46663486002193,
+          "timeLoss": 45.980000000000004,
+          "timeLoss_sd": 19.860271901461974,
+          "waitingCount": 1.0,
+          "waitingCount_sd": 0.0,
+          "ordinary_mean_accumulated_s": 1334.2001754189946,
+          "ordinary_mean_accumulated_s_sd": 10.375412129425959,
+          "ordinary_completion_percent": 29.934823091247672,
+          "ordinary_completion_percent_sd": 0.5651393260891439,
+          "ordinary_completed_mean_wait_s": 176.72363346807526,
+          "ordinary_completed_mean_wait_s_sd": 39.0923417911087,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 35.666666666666664,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J2_AM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 124.5,
+          "dispatch_to_arrival_s_sd": 54.33461143691008,
+          "duration": 124.5,
+          "duration_sd": 54.33461143691008,
+          "departDelay": 0.0,
+          "departDelay_sd": 0.0,
+          "waitingTime": 51.0,
+          "waitingTime_sd": 44.19275958796871,
+          "timeLoss": 76.47333333333333,
+          "timeLoss_sd": 52.6287472141731,
+          "waitingCount": 0.6666666666666666,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1337.8975217877096,
+          "ordinary_mean_accumulated_s_sd": 14.298617790717437,
+          "ordinary_completion_percent": 29.432029795158286,
+          "ordinary_completion_percent_sd": 1.0033857563164288,
+          "ordinary_completed_mean_wait_s": 172.6000775244287,
+          "ordinary_completed_mean_wait_s_sd": 40.019423897613535,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 8.0,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J2_PM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 706.3333333333334,
+          "dispatch_to_arrival_s_sd": 8.098353742170895,
+          "duration": 706.3333333333334,
+          "duration_sd": 8.098353742170895,
+          "departDelay": 0.0,
+          "departDelay_sd": 0.0,
+          "waitingTime": 516.3333333333334,
+          "waitingTime_sd": 6.331139971074193,
+          "timeLoss": 660.4733333333334,
+          "timeLoss_sd": 4.6798753544654845,
+          "waitingCount": 5.333333333333333,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1577.1227487521924,
+          "ordinary_mean_accumulated_s_sd": 2.256938567800594,
+          "ordinary_completion_percent": 17.651423175502494,
+          "ordinary_completion_percent_sd": 0.1219691172266638,
+          "ordinary_completed_mean_wait_s": 462.67320360179605,
+          "ordinary_completed_mean_wait_s_sd": 2.0019276007961473,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 94.5,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J2_PM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 195.16666666666666,
+          "dispatch_to_arrival_s_sd": 40.55038018728472,
+          "duration": 195.16666666666666,
+          "duration_sd": 40.55038018728472,
+          "departDelay": 0.0,
+          "departDelay_sd": 0.0,
+          "waitingTime": 124.66666666666667,
+          "waitingTime_sd": 39.0042732701602,
+          "timeLoss": 149.48333333333335,
+          "timeLoss_sd": 37.87962293018943,
+          "waitingCount": 1.6666666666666667,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1497.7202126669367,
+          "ordinary_mean_accumulated_s_sd": 23.835148729014573,
+          "ordinary_completion_percent": 20.54498853365709,
+          "ordinary_completion_percent_sd": 1.1599868471532533,
+          "ordinary_completed_mean_wait_s": 247.82082717573917,
+          "ordinary_completed_mean_wait_s_sd": 33.89579914390136,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 22.666666666666668,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J2_PM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 124.33333333333333,
+          "dispatch_to_arrival_s_sd": 57.5854437625806,
+          "duration": 124.33333333333333,
+          "duration_sd": 57.5854437625806,
+          "departDelay": 0.0,
+          "departDelay_sd": 0.0,
+          "waitingTime": 57.0,
+          "waitingTime_sd": 49.38623289946298,
+          "timeLoss": 78.38666666666667,
+          "timeLoss_sd": 58.49750621465272,
+          "waitingCount": 1.0,
+          "waitingCount_sd": 1.0,
+          "ordinary_mean_accumulated_s": 1499.6520216511537,
+          "ordinary_mean_accumulated_s_sd": 19.038015885677186,
+          "ordinary_completion_percent": 20.356131121003642,
+          "ordinary_completion_percent_sd": 0.9465006526528928,
+          "ordinary_completed_mean_wait_s": 246.33371868532097,
+          "ordinary_completed_mean_wait_s_sd": 11.135486592130642,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 8.333333333333334,
+          "passed_active_n": 1,
+          "expired_n": 2
+        },
+        {
+          "case": "J3_AM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1579.0,
+          "dispatch_to_arrival_s_sd": 58.058160494455905,
+          "duration": 605.0,
+          "duration_sd": 76.27089877535205,
+          "departDelay": 974.0,
+          "departDelay_sd": 26.443335644354704,
+          "waitingTime": 418.5,
+          "waitingTime_sd": 85.85452812752511,
+          "timeLoss": 552.8466666666667,
+          "timeLoss_sd": 77.60354910268816,
+          "waitingCount": 11.333333333333334,
+          "waitingCount_sd": 2.8867513459481287,
+          "ordinary_mean_accumulated_s": 1526.1048698093982,
+          "ordinary_mean_accumulated_s_sd": 3.8756626010196014,
+          "ordinary_completion_percent": 17.86461134014459,
+          "ordinary_completion_percent_sd": 0.254332277633898,
+          "ordinary_completed_mean_wait_s": 267.1409634836451,
+          "ordinary_completed_mean_wait_s_sd": 7.410863713779963,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 52.833333333333336,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J3_AM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 872.3333333333334,
+          "dispatch_to_arrival_s_sd": 73.23307540540226,
+          "duration": 379.6666666666667,
+          "duration_sd": 117.27034294029046,
+          "departDelay": 492.6666666666667,
+          "departDelay_sd": 175.19298882470534,
+          "waitingTime": 218.66666666666666,
+          "waitingTime_sd": 113.89615152995,
+          "timeLoss": 327.43333333333334,
+          "timeLoss_sd": 116.47019418432055,
+          "waitingCount": 7.0,
+          "waitingCount_sd": 2.0,
+          "ordinary_mean_accumulated_s": 1463.3206492202871,
+          "ordinary_mean_accumulated_s_sd": 10.86592880279559,
+          "ordinary_completion_percent": 21.53313019059569,
+          "ordinary_completion_percent_sd": 0.4723105496557737,
+          "ordinary_completed_mean_wait_s": 223.21187163292925,
+          "ordinary_completed_mean_wait_s_sd": 9.795219384921388,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 31.333333333333332,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J3_AM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 942.5,
+          "dispatch_to_arrival_s_sd": 89.68416805657507,
+          "duration": 449.8333333333333,
+          "duration_sd": 107.20346698373767,
+          "departDelay": 492.6666666666667,
+          "departDelay_sd": 175.19298882470534,
+          "waitingTime": 278.0,
+          "waitingTime_sd": 95.73531218939019,
+          "timeLoss": 397.6666666666667,
+          "timeLoss_sd": 108.81030343369753,
+          "waitingCount": 8.0,
+          "waitingCount_sd": 1.7320508075688772,
+          "ordinary_mean_accumulated_s": 1465.8559303339875,
+          "ordinary_mean_accumulated_s_sd": 4.251889581920075,
+          "ordinary_completion_percent": 21.37181095775826,
+          "ordinary_completion_percent_sd": 0.5396194749326921,
+          "ordinary_completed_mean_wait_s": 225.16716117907964,
+          "ordinary_completed_mean_wait_s_sd": 15.606673642628405,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 5.5,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J3_AM",
+          "arm": "priority60",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 765.3333333333334,
+          "dispatch_to_arrival_s_sd": 133.63413984956588,
+          "duration": 272.6666666666667,
+          "duration_sd": 82.09953308840029,
+          "departDelay": 492.6666666666667,
+          "departDelay_sd": 175.19298882470534,
+          "waitingTime": 116.0,
+          "waitingTime_sd": 55.1837838499681,
+          "timeLoss": 220.44666666666666,
+          "timeLoss_sd": 80.12715478121841,
+          "waitingCount": 5.666666666666667,
+          "waitingCount_sd": 3.7859388972001824,
+          "ordinary_mean_accumulated_s": 1460.2644264802502,
+          "ordinary_mean_accumulated_s_sd": 8.760807735240613,
+          "ordinary_completion_percent": 21.80797036505945,
+          "ordinary_completion_percent_sd": 0.24335797161278974,
+          "ordinary_completed_mean_wait_s": 226.6720903611699,
+          "ordinary_completed_mean_wait_s_sd": 10.423005093355169,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 5.5,
+          "passed_active_n": 2,
+          "expired_n": 1
+        },
+        {
+          "case": "J3_PM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1982.5,
+          "dispatch_to_arrival_s_sd": 8.789197915623474,
+          "duration": 665.5,
+          "duration_sd": 68.8712567040852,
+          "departDelay": 1317.0,
+          "departDelay_sd": 74.64583042608609,
+          "waitingTime": 543.1666666666666,
+          "waitingTime_sd": 83.03663849972091,
+          "timeLoss": 611.2333333333333,
+          "timeLoss_sd": 75.0462319729201,
+          "waitingCount": 5.666666666666667,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1569.4454863704038,
+          "ordinary_mean_accumulated_s_sd": 4.117228146746587,
+          "ordinary_completion_percent": 18.48119389834242,
+          "ordinary_completion_percent_sd": 0.18197821071488965,
+          "ordinary_completed_mean_wait_s": 411.568711563321,
+          "ordinary_completed_mean_wait_s_sd": 4.46335903184859,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 125.83333333333333,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J3_PM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 355.0,
+          "dispatch_to_arrival_s_sd": 57.421685799008024,
+          "duration": 335.6666666666667,
+          "duration_sd": 53.13740051351151,
+          "departDelay": 19.333333333333332,
+          "departDelay_sd": 33.4863156129983,
+          "waitingTime": 207.0,
+          "waitingTime_sd": 56.7031745143074,
+          "timeLoss": 281.3466666666667,
+          "timeLoss_sd": 60.28854728166317,
+          "waitingCount": 5.666666666666667,
+          "waitingCount_sd": 1.1547005383792515,
+          "ordinary_mean_accumulated_s": 1419.4712311801356,
+          "ordinary_mean_accumulated_s_sd": 6.261263556605269,
+          "ordinary_completion_percent": 23.718266424362575,
+          "ordinary_completion_percent_sd": 0.2528985627667841,
+          "ordinary_completed_mean_wait_s": 270.44479892299677,
+          "ordinary_completed_mean_wait_s_sd": 12.984915915846463,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 35.666666666666664,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J3_PM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 266.5,
+          "dispatch_to_arrival_s_sd": 72.31355336311444,
+          "duration": 247.16666666666666,
+          "duration_sd": 78.40652608892536,
+          "departDelay": 19.333333333333332,
+          "departDelay_sd": 33.4863156129983,
+          "waitingTime": 116.0,
+          "waitingTime_sd": 84.96469855181033,
+          "timeLoss": 192.77,
+          "timeLoss_sd": 85.05147323826908,
+          "waitingCount": 4.333333333333333,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1419.674821686221,
+          "ordinary_mean_accumulated_s_sd": 4.347182392722425,
+          "ordinary_completion_percent": 23.162068395836776,
+          "ordinary_completion_percent_sd": 0.39477294384102113,
+          "ordinary_completed_mean_wait_s": 259.3977273305951,
+          "ordinary_completed_mean_wait_s_sd": 26.806674887762433,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 5.666666666666667,
+          "passed_active_n": 0,
+          "expired_n": 3
+        },
+        {
+          "case": "J3_PM",
+          "arm": "priority60",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 238.33333333333334,
+          "dispatch_to_arrival_s_sd": 43.11708864630511,
+          "duration": 219.0,
+          "duration_sd": 67.78458526833369,
+          "departDelay": 19.333333333333332,
+          "departDelay_sd": 33.4863156129983,
+          "waitingTime": 103.66666666666667,
+          "waitingTime_sd": 66.80256981084884,
+          "timeLoss": 164.6,
+          "timeLoss_sd": 71.51414055975224,
+          "waitingCount": 3.6666666666666665,
+          "waitingCount_sd": 1.5275252316519468,
+          "ordinary_mean_accumulated_s": 1414.6841283661036,
+          "ordinary_mean_accumulated_s_sd": 11.0723200365754,
+          "ordinary_completion_percent": 23.872459937221212,
+          "ordinary_completion_percent_sd": 0.565337473393976,
+          "ordinary_completed_mean_wait_s": 270.34776299305264,
+          "ordinary_completed_mean_wait_s_sd": 7.428040799552197,
+          "qualified_requests": 3,
+          "green_observed": 3,
+          "request_to_green_s": 5.666666666666667,
+          "passed_active_n": 2,
+          "expired_n": 2
+        },
+        {
+          "case": "CORRIDOR_AM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1861.1666666666667,
+          "dispatch_to_arrival_s_sd": 116.80146973961129,
+          "duration": 774.3333333333334,
+          "duration_sd": 151.67756371109516,
+          "departDelay": 1086.8333333333333,
+          "departDelay_sd": 50.89531740085067,
+          "waitingTime": 516.3333333333334,
+          "waitingTime_sd": 130.25007997438362,
+          "timeLoss": 621.7133333333333,
+          "timeLoss_sd": 154.62944491051286,
+          "waitingCount": 8.666666666666666,
+          "waitingCount_sd": 2.0816659994661326,
+          "ordinary_mean_accumulated_s": 1530.9896476454608,
+          "ordinary_mean_accumulated_s_sd": 0.8597610791380879,
+          "ordinary_completion_percent": 20.92118554817633,
+          "ordinary_completion_percent_sd": 0.09351262672343814,
+          "ordinary_completed_mean_wait_s": 296.8355081785342,
+          "ordinary_completed_mean_wait_s_sd": 3.4400933539968293,
+          "qualified_requests": 9,
+          "green_observed": 9,
+          "request_to_green_s": 49.0,
+          "passed_active_n": 2,
+          "expired_n": 7
+        },
+        {
+          "case": "CORRIDOR_AM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1383.1666666666667,
+          "dispatch_to_arrival_s_sd": 227.84771961407324,
+          "duration": 761.0,
+          "duration_sd": 77.07788269017254,
+          "departDelay": 622.1666666666666,
+          "departDelay_sd": 154.69513028319065,
+          "waitingTime": 484.3333333333333,
+          "waitingTime_sd": 88.98361272354215,
+          "timeLoss": 608.46,
+          "timeLoss_sd": 77.32201562297764,
+          "waitingCount": 7.666666666666667,
+          "waitingCount_sd": 1.5275252316519468,
+          "ordinary_mean_accumulated_s": 1443.1608385668585,
+          "ordinary_mean_accumulated_s_sd": 11.430288846810239,
+          "ordinary_completion_percent": 25.735594386055407,
+          "ordinary_completion_percent_sd": 0.41509121636697355,
+          "ordinary_completed_mean_wait_s": 207.16952901489236,
+          "ordinary_completed_mean_wait_s_sd": 0.9954156165186115,
+          "qualified_requests": 9,
+          "green_observed": 9,
+          "request_to_green_s": 61.72222222222222,
+          "passed_active_n": 0,
+          "expired_n": 9
+        },
+        {
+          "case": "CORRIDOR_AM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 1166.0,
+          "dispatch_to_arrival_s_sd": 339.6258971280017,
+          "duration": 543.8333333333334,
+          "duration_sd": 188.90495846677328,
+          "departDelay": 622.1666666666666,
+          "departDelay_sd": 154.69513028319065,
+          "waitingTime": 287.0,
+          "waitingTime_sd": 194.5,
+          "timeLoss": 391.36,
+          "timeLoss_sd": 189.583875105453,
+          "waitingCount": 5.333333333333333,
+          "waitingCount_sd": 1.5275252316519468,
+          "ordinary_mean_accumulated_s": 1443.7624247426272,
+          "ordinary_mean_accumulated_s_sd": 11.775916413460699,
+          "ordinary_completion_percent": 25.572248371913084,
+          "ordinary_completion_percent_sd": 0.5545167322200015,
+          "ordinary_completed_mean_wait_s": 207.82225729235833,
+          "ordinary_completed_mean_wait_s_sd": 4.742419964978947,
+          "qualified_requests": 9,
+          "green_observed": 9,
+          "request_to_green_s": 6.888888888888889,
+          "passed_active_n": 4,
+          "expired_n": 8
+        },
+        {
+          "case": "CORRIDOR_PM",
+          "arm": "fixed",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 2480.1666666666665,
+          "dispatch_to_arrival_s_sd": 441.18741293619576,
+          "duration": 1054.6666666666667,
+          "duration_sd": 428.67042507424435,
+          "departDelay": 1425.5,
+          "departDelay_sd": 46.130250378683186,
+          "waitingTime": 773.3333333333334,
+          "waitingTime_sd": 394.9969409164245,
+          "timeLoss": 885.3633333333333,
+          "timeLoss_sd": 412.35298863150405,
+          "waitingCount": 7.666666666666667,
+          "waitingCount_sd": 4.725815626252609,
+          "ordinary_mean_accumulated_s": 1479.057842583778,
+          "ordinary_mean_accumulated_s_sd": 1.2355857012506086,
+          "ordinary_completion_percent": 24.11236566453544,
+          "ordinary_completion_percent_sd": 0.1156305264589843,
+          "ordinary_completed_mean_wait_s": 318.6005467039756,
+          "ordinary_completed_mean_wait_s_sd": 1.0746990529514555,
+          "qualified_requests": 9,
+          "green_observed": 9,
+          "request_to_green_s": 74.55555555555556,
+          "passed_active_n": 1,
+          "expired_n": 8
+        },
+        {
+          "case": "CORRIDOR_PM",
+          "arm": "local",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 2331.1666666666665,
+          "dispatch_to_arrival_s_sd": 250.52760992220664,
+          "duration": 773.1666666666666,
+          "duration_sd": 97.72708597586103,
+          "departDelay": 1558.0,
+          "departDelay_sd": 300.3314835311143,
+          "waitingTime": 502.5,
+          "waitingTime_sd": 88.27655407864536,
+          "timeLoss": 603.73,
+          "timeLoss_sd": 79.35785279353263,
+          "waitingCount": 6.666666666666667,
+          "waitingCount_sd": 1.1547005383792515,
+          "ordinary_mean_accumulated_s": 1369.6831996780454,
+          "ordinary_mean_accumulated_s_sd": 2.8743757253855207,
+          "ordinary_completion_percent": 28.347617104248855,
+          "ordinary_completion_percent_sd": 0.1054461157596105,
+          "ordinary_completed_mean_wait_s": 182.31783902568714,
+          "ordinary_completed_mean_wait_s_sd": 7.557303072211135,
+          "qualified_requests": 9,
+          "green_observed": 9,
+          "request_to_green_s": 62.333333333333336,
+          "passed_active_n": 0,
+          "expired_n": 9
+        },
+        {
+          "case": "CORRIDOR_PM",
+          "arm": "priority20",
+          "runs": 3,
+          "probe_completed": 3,
+          "dispatch_to_arrival_s": 2123.5,
+          "dispatch_to_arrival_s_sd": 249.46091878288271,
+          "duration": 565.5,
+          "duration_sd": 84.94262769658118,
+          "departDelay": 1558.0,
+          "departDelay_sd": 300.3314835311143,
+          "waitingTime": 321.8333333333333,
+          "waitingTime_sd": 100.08787805390487,
+          "timeLoss": 396.22333333333336,
+          "timeLoss_sd": 99.16422557219579,
+          "waitingCount": 4.666666666666667,
+          "waitingCount_sd": 0.5773502691896257,
+          "ordinary_mean_accumulated_s": 1370.35332392418,
+          "ordinary_mean_accumulated_s_sd": 2.2503168276584242,
+          "ordinary_completion_percent": 28.200244864644265,
+          "ordinary_completion_percent_sd": 0.211184528584682,
+          "ordinary_completed_mean_wait_s": 186.7420016618245,
+          "ordinary_completed_mean_wait_s_sd": 14.96118854953579,
+          "qualified_requests": 9,
+          "green_observed": 9,
+          "request_to_green_s": 7.111111111111111,
+          "passed_active_n": 4,
+          "expired_n": 6
+        }
+      ],
+      "pairs": [
+        {
+          "case": "J1_AM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": -701.0,
+              "EV_time_reduction_percent": -71.34860050890585,
+              "ordinary_time_cost_percent": -2.488539590504309,
+              "ordinary_completion_change_pp": 0.108472942027241
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": -808.0,
+              "EV_time_reduction_percent": -82.53319713993871,
+              "ordinary_time_cost_percent": -2.958497208280532,
+              "ordinary_completion_change_pp": 0.3254188260817159
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": -750.0,
+              "EV_time_reduction_percent": -94.22110552763819,
+              "ordinary_time_cost_percent": -1.1461195359259255,
+              "ordinary_completion_change_pp": 0.3615764734241296
+            }
+          ],
+          "EV_seconds_saved": -753.0,
+          "EV_seconds_saved_sd": 53.563046963368315,
+          "EV_time_reduction_percent": -82.70096772549425,
+          "EV_time_reduction_percent_sd": 11.437175424247775,
+          "ordinary_time_cost_percent": -2.197718778236922,
+          "ordinary_time_cost_percent_sd": 0.9405374875294829,
+          "ordinary_completion_change_pp": 0.26515608051102885,
+          "ordinary_completion_change_pp_sd": 0.13689064350488664
+        },
+        {
+          "case": "J1_AM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 181.5,
+              "EV_time_reduction_percent": 9.731903485254692,
+              "ordinary_time_cost_percent": -0.19782136270402437,
+              "ordinary_completion_change_pp": 0.09642039291310311
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 184.5,
+              "EV_time_reduction_percent": 9.358356581283287,
+              "ordinary_time_cost_percent": 0.2590513975923405,
+              "ordinary_completion_change_pp": -0.1205254911413789
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": -5.0,
+              "EV_time_reduction_percent": -0.3244646333549643,
+              "ordinary_time_cost_percent": -0.4190832353148848,
+              "ordinary_completion_change_pp": 0.8918886344461896
+            }
+          ],
+          "EV_seconds_saved": 120.33333333333333,
+          "EV_seconds_saved_sd": 108.55221477857249,
+          "EV_time_reduction_percent": 6.255265144394339,
+          "EV_time_reduction_percent_sd": 5.70127330370307,
+          "ordinary_time_cost_percent": -0.11928440014218954,
+          "ordinary_time_cost_percent_sd": 0.3458217545982086,
+          "ordinary_completion_change_pp": 0.2892611787393046,
+          "ordinary_completion_change_pp_sd": 0.5330443386162734
+        },
+        {
+          "case": "J1_PM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": -1855.0,
+              "EV_time_reduction_percent": -171.36258660508082,
+              "ordinary_time_cost_percent": -6.7927198432360845,
+              "ordinary_completion_change_pp": 0.9987113402061851
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": -1489.0,
+              "EV_time_reduction_percent": -137.17181022570244,
+              "ordinary_time_cost_percent": -0.9464406293309044,
+              "ordinary_completion_change_pp": -1.5947164948453576
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": -1554.5,
+              "EV_time_reduction_percent": -142.15820759030635,
+              "ordinary_time_cost_percent": -5.564875135186636,
+              "ordinary_completion_change_pp": 0.25773195876288213
+            }
+          ],
+          "EV_seconds_saved": -1632.8333333333333,
+          "EV_seconds_saved_sd": 195.169370889321,
+          "EV_time_reduction_percent": -150.2308681403632,
+          "EV_time_reduction_percent_sd": 18.469655752706867,
+          "ordinary_time_cost_percent": -4.434678535917875,
+          "ordinary_time_cost_percent_sd": 3.0826536338816832,
+          "ordinary_completion_change_pp": -0.11275773195876344,
+          "ordinary_completion_change_pp_sd": 1.3358195769276997
+        },
+        {
+          "case": "J1_PM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 0.0,
+              "EV_time_reduction_percent": 0.0,
+              "ordinary_time_cost_percent": 0.0,
+              "ordinary_completion_change_pp": 0.0
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 0.0,
+              "EV_time_reduction_percent": 0.0,
+              "ordinary_time_cost_percent": 0.0,
+              "ordinary_completion_change_pp": 0.0
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 0.0,
+              "EV_time_reduction_percent": 0.0,
+              "ordinary_time_cost_percent": 0.0,
+              "ordinary_completion_change_pp": 0.0
+            }
+          ],
+          "EV_seconds_saved": 0.0,
+          "EV_seconds_saved_sd": 0.0,
+          "EV_time_reduction_percent": 0.0,
+          "EV_time_reduction_percent_sd": 0.0,
+          "ordinary_time_cost_percent": 0.0,
+          "ordinary_time_cost_percent_sd": 0.0,
+          "ordinary_completion_change_pp": 0.0,
+          "ordinary_completion_change_pp_sd": 0.0
+        },
+        {
+          "case": "J2_AM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 135.5,
+              "EV_time_reduction_percent": 68.60759493670886,
+              "ordinary_time_cost_percent": -3.5639227373985825,
+              "ordinary_completion_change_pp": 1.0055865921787728
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 43.0,
+              "EV_time_reduction_percent": 22.164948453608247,
+              "ordinary_time_cost_percent": -5.442808480007309,
+              "ordinary_completion_change_pp": 2.4022346368715084
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 42.0,
+              "EV_time_reduction_percent": 20.74074074074074,
+              "ordinary_time_cost_percent": -5.232295291043821,
+              "ordinary_completion_change_pp": 3.240223463687151
+            }
+          ],
+          "EV_seconds_saved": 73.5,
+          "EV_seconds_saved_sd": 53.69590300944756,
+          "EV_time_reduction_percent": 37.17109471035262,
+          "EV_time_reduction_percent_sd": 27.23411925808544,
+          "ordinary_time_cost_percent": -4.7463421694832375,
+          "ordinary_time_cost_percent_sd": 1.0294006682096348,
+          "ordinary_completion_change_pp": 2.2160148975791443,
+          "ordinary_completion_change_pp_sd": 1.1288971743931222
+        },
+        {
+          "case": "J2_AM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 41.0,
+              "EV_time_reduction_percent": 39.80582524271845,
+              "ordinary_time_cost_percent": 1.891825588330881,
+              "ordinary_completion_change_pp": -1.2290502793296092
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": -48.0,
+              "EV_time_reduction_percent": -46.601941747572816,
+              "ordinary_time_cost_percent": 0.10428129699673024,
+              "ordinary_completion_change_pp": -0.977653631284916
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": -84.5,
+              "EV_time_reduction_percent": -111.1842105263158,
+              "ordinary_time_cost_percent": -1.1468865263341244,
+              "ordinary_completion_change_pp": 0.6983240223463696
+            }
+          ],
+          "EV_seconds_saved": -30.5,
+          "EV_seconds_saved_sd": 64.55424075922511,
+          "EV_time_reduction_percent": -39.32677567705672,
+          "EV_time_reduction_percent_sd": 75.7574666709411,
+          "ordinary_time_cost_percent": 0.28307345299782893,
+          "ordinary_time_cost_percent_sd": 1.5272255253362577,
+          "ordinary_completion_change_pp": -0.5027932960893852,
+          "ordinary_completion_change_pp_sd": 1.0477653258944728
+        },
+        {
+          "case": "J2_PM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 543.5,
+              "EV_time_reduction_percent": 77.97704447632712,
+              "ordinary_time_cost_percent": -5.720273859132875,
+              "ordinary_completion_change_pp": 3.399433427762041
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 653.5,
+              "EV_time_reduction_percent": 91.84820801124386,
+              "ordinary_time_cost_percent": -5.599167818779158,
+              "ordinary_completion_change_pp": 3.217320922703358
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 549.0,
+              "EV_time_reduction_percent": 77.26952850105559,
+              "ordinary_time_cost_percent": -3.414467779494328,
+              "ordinary_completion_change_pp": 1.4973694860380427
+            }
+          ],
+          "EV_seconds_saved": 582.0,
+          "EV_seconds_saved_sd": 61.98185218271555,
+          "EV_time_reduction_percent": 82.36492699620885,
+          "EV_time_reduction_percent_sd": 8.22037765686033,
+          "ordinary_time_cost_percent": -4.911303152468787,
+          "ordinary_time_cost_percent_sd": 1.2977109726719698,
+          "ordinary_completion_change_pp": 2.704707945501147,
+          "ordinary_completion_change_pp_sd": 1.0495431662865249
+        },
+        {
+          "case": "J2_PM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 0.0,
+              "EV_time_reduction_percent": 0.0,
+              "ordinary_time_cost_percent": 0.550871133246272,
+              "ordinary_completion_change_pp": -0.5463375151760417
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 176.5,
+              "EV_time_reduction_percent": 75.26652452025586,
+              "ordinary_time_cost_percent": 0.03166792450879443,
+              "ordinary_completion_change_pp": -0.040469445568596996
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 36.0,
+              "EV_time_reduction_percent": 18.227848101265824,
+              "ordinary_time_cost_percent": -0.18497358957930915,
+              "ordinary_completion_change_pp": 0.020234722784298498
+            }
+          ],
+          "EV_seconds_saved": 70.83333333333333,
+          "EV_seconds_saved_sd": 93.26351555315365,
+          "EV_time_reduction_percent": 31.16479087384056,
+          "EV_time_reduction_percent_sd": 39.265580277963856,
+          "ordinary_time_cost_percent": 0.13252182272525243,
+          "ordinary_time_cost_percent_sd": 0.3781474522149473,
+          "ordinary_completion_change_pp": -0.18885741265344672,
+          "ordinary_completion_change_pp_sd": 0.3110711603291567
+        },
+        {
+          "case": "J3_AM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 774.0,
+              "EV_time_reduction_percent": 47.94053886652215,
+              "ordinary_time_cost_percent": -3.9746104089726435,
+              "ordinary_completion_change_pp": 3.0650654239110935
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 601.5,
+              "EV_time_reduction_percent": 37.34864948773673,
+              "ordinary_time_cost_percent": -4.083927092081976,
+              "ordinary_completion_change_pp": 3.298082093565153
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 534.0,
+              "EV_time_reduction_percent": 35.317460317460316,
+              "ordinary_time_cost_percent": -3.785082744648774,
+              "ordinary_completion_change_pp": 4.158451335364759
+            }
+          ],
+          "EV_seconds_saved": 636.5,
+          "EV_seconds_saved_sd": 123.76893794486563,
+          "EV_time_reduction_percent": 40.2022162239064,
+          "EV_time_reduction_percent_sd": 6.778101530095041,
+          "ordinary_time_cost_percent": -3.9478734152344646,
+          "ordinary_time_cost_percent_sd": 0.15120560877100647,
+          "ordinary_completion_change_pp": 3.5071996176136686,
+          "ordinary_completion_change_pp_sd": 0.5759086663608016
+        },
+        {
+          "case": "J3_AM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": -23.0,
+              "EV_time_reduction_percent": -2.8134556574923546,
+              "ordinary_time_cost_percent": 0.4062830028887005,
+              "ordinary_completion_change_pp": -0.4660333393081224
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": -165.0,
+              "EV_time_reduction_percent": -19.549763033175356,
+              "ordinary_time_cost_percent": 0.5313936276966303,
+              "ordinary_completion_change_pp": -0.9858397562287173
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": -22.5,
+              "EV_time_reduction_percent": -2.3547880690737832,
+              "ordinary_time_cost_percent": -0.4106266306050298,
+              "ordinary_completion_change_pp": 0.9679153970245551
+            }
+          ],
+          "EV_seconds_saved": -70.16666666666667,
+          "EV_seconds_saved_sd": 82.12845629459581,
+          "EV_time_reduction_percent": -8.239335586580498,
+          "EV_time_reduction_percent_sd": 9.797801832946059,
+          "ordinary_time_cost_percent": 0.17568333332676703,
+          "ordinary_time_cost_percent_sd": 0.5115981796920669,
+          "ordinary_completion_change_pp": -0.16131923283742822,
+          "ordinary_completion_change_pp_sd": 1.0118931834574263
+        },
+        {
+          "case": "J3_AM",
+          "candidate": "priority60",
+          "baseline": "priority20",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 181.0,
+              "EV_time_reduction_percent": 21.534800713860797,
+              "ordinary_time_cost_percent": -0.5509285266725127,
+              "ordinary_completion_change_pp": 0.7528230865746544
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 288.0,
+              "EV_time_reduction_percent": 28.543111992071356,
+              "ordinary_time_cost_percent": -0.6242877877307031,
+              "ordinary_completion_change_pp": 1.003764115432876
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 62.5,
+              "EV_time_reduction_percent": 6.3905930470347645,
+              "ordinary_time_cost_percent": 0.029411770438219055,
+              "ordinary_completion_change_pp": -0.44810898010396016
+            }
+          ],
+          "EV_seconds_saved": 177.16666666666666,
+          "EV_seconds_saved_sd": 112.79886228740666,
+          "EV_time_reduction_percent": 18.822835250988973,
+          "EV_time_reduction_percent_sd": 11.322525840394823,
+          "ordinary_time_cost_percent": -0.38193484798833227,
+          "ordinary_time_cost_percent_sd": 0.35811998780292903,
+          "ordinary_completion_change_pp": 0.43615940730119007,
+          "ordinary_completion_change_pp_sd": 0.7760095268192165
+        },
+        {
+          "case": "J3_PM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 1639.0,
+              "EV_time_reduction_percent": 82.94534412955466,
+              "ordinary_time_cost_percent": -9.185296971376722,
+              "ordinary_completion_change_pp": 4.642326119279694
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 1800.0,
+              "EV_time_reduction_percent": 90.3387703889586,
+              "ordinary_time_cost_percent": -9.542010135341684,
+              "ordinary_completion_change_pp": 4.9396993226499255
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 1709.0,
+              "EV_time_reduction_percent": 86.3567458312279,
+              "ordinary_time_cost_percent": -9.900215231981678,
+              "ordinary_completion_change_pp": 4.460598050553447
+            }
+          ],
+          "EV_seconds_saved": 1716.0,
+          "EV_seconds_saved_sd": 80.72793816269557,
+          "EV_time_reduction_percent": 86.54695344991372,
+          "EV_time_reduction_percent_sd": 3.7003813542614123,
+          "ordinary_time_cost_percent": -9.542507446233362,
+          "ordinary_time_cost_percent_sd": 0.35745938975664904,
+          "ordinary_completion_change_pp": 4.680874497494355,
+          "ordinary_completion_change_pp_sd": 0.24186564520070114
+        },
+        {
+          "case": "J3_PM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 56.5,
+              "EV_time_reduction_percent": 14.358322744599747,
+              "ordinary_time_cost_percent": -0.07373014787357972,
+              "ordinary_completion_change_pp": -0.2808524698496626
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 96.5,
+              "EV_time_reduction_percent": 33.391003460207614,
+              "ordinary_time_cost_percent": 0.22849859684370444,
+              "ordinary_completion_change_pp": -0.49562200561705083
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 112.5,
+              "EV_time_reduction_percent": 29.41176470588235,
+              "ordinary_time_cost_percent": -0.11038541644023538,
+              "ordinary_completion_change_pp": -0.8921196101106865
+            }
+          ],
+          "EV_seconds_saved": 88.5,
+          "EV_seconds_saved_sd": 28.844410203711913,
+          "EV_time_reduction_percent": 25.720363636896572,
+          "EV_time_reduction_percent_sd": 10.038952395277603,
+          "ordinary_time_cost_percent": 0.014794344176629781,
+          "ordinary_time_cost_percent_sd": 0.1859785817894579,
+          "ordinary_completion_change_pp": -0.5561980285258,
+          "ordinary_completion_change_pp_sd": 0.3101031604229527
+        },
+        {
+          "case": "J3_PM",
+          "candidate": "priority60",
+          "baseline": "priority20",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 49.0,
+              "EV_time_reduction_percent": 14.540059347181009,
+              "ordinary_time_cost_percent": -0.42266805021067294,
+              "ordinary_completion_change_pp": 0.39649760449363924
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": -24.0,
+              "EV_time_reduction_percent": -12.467532467532468,
+              "ordinary_time_cost_percent": -1.0001157059292283,
+              "ordinary_completion_change_pp": 1.0077647447546667
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 59.5,
+              "EV_time_reduction_percent": 22.037037037037038,
+              "ordinary_time_cost_percent": 0.3677133605825832,
+              "ordinary_completion_change_pp": 0.7269122749050041
+            }
+          ],
+          "EV_seconds_saved": 28.166666666666668,
+          "EV_seconds_saved_sd": 45.48168129404775,
+          "EV_time_reduction_percent": 8.036521305561859,
+          "EV_time_reduction_percent_sd": 18.14837002234657,
+          "ordinary_time_cost_percent": -0.35169013185243936,
+          "ordinary_time_cost_percent_sd": 0.686671309630375,
+          "ordinary_completion_change_pp": 0.7103915413844367,
+          "ordinary_completion_change_pp_sd": 0.30596826660254633
+        },
+        {
+          "case": "CORRIDOR_AM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 700.0,
+              "EV_time_reduction_percent": 38.96465349290287,
+              "ordinary_time_cost_percent": -6.456875453173681,
+              "ordinary_completion_change_pp": 5.300148300986525
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 924.5,
+              "EV_time_reduction_percent": 51.61920714684534,
+              "ordinary_time_cost_percent": -5.772253155999325,
+              "ordinary_completion_change_pp": 4.558643368366756
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 461.0,
+              "EV_time_reduction_percent": 23.096192384769537,
+              "ordinary_time_cost_percent": -4.862651599006556,
+              "ordinary_completion_change_pp": 4.094396801856988
+            }
+          ],
+          "EV_seconds_saved": 695.1666666666666,
+          "EV_seconds_saved_sd": 231.78779806826185,
+          "EV_time_reduction_percent": 37.89335100817258,
+          "EV_time_reduction_percent_sd": 14.291653492152001,
+          "ordinary_time_cost_percent": -5.697260069393187,
+          "ordinary_time_cost_percent_sd": 0.799753334833877,
+          "ordinary_completion_change_pp": 4.651062823736756,
+          "ordinary_completion_change_pp_sd": 0.6081654266821217
+        },
+        {
+          "case": "CORRIDOR_AM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 230.0,
+              "EV_time_reduction_percent": 17.338861666038447,
+              "ordinary_time_cost_percent": -0.0612974134251683,
+              "ordinary_completion_change_pp": 0.15474885550325723
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 322.5,
+              "EV_time_reduction_percent": 27.12363330529857,
+              "ordinary_time_cost_percent": 0.15742423787169518,
+              "ordinary_completion_change_pp": -0.4062157456960449
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 99.0,
+              "EV_time_reduction_percent": 6.05875152998776,
+              "ordinary_time_cost_percent": 0.028664642055988492,
+              "ordinary_completion_change_pp": -0.23857115223418646
+            }
+          ],
+          "EV_seconds_saved": 217.16666666666666,
+          "EV_seconds_saved_sd": 112.30130601793255,
+          "EV_time_reduction_percent": 16.84041550044159,
+          "EV_time_reduction_percent_sd": 10.541283009527541,
+          "ordinary_time_cost_percent": 0.04159715550083846,
+          "ordinary_time_cost_percent_sd": 0.10993283228639024,
+          "ordinary_completion_change_pp": -0.16334601414232472,
+          "ordinary_completion_change_pp_sd": 0.2879486707737644
+        },
+        {
+          "case": "CORRIDOR_PM",
+          "candidate": "priority20",
+          "baseline": "fixed",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": -128.0,
+              "EV_time_reduction_percent": -5.774870290999323,
+              "ordinary_time_cost_percent": -7.317767702300714,
+              "ordinary_completion_change_pp": 4.217113317915928
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 381.5,
+              "EV_time_reduction_percent": 17.073170731707318,
+              "ordinary_time_cost_percent": -7.50192081552586,
+              "ordinary_completion_change_pp": 4.176302543871582
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 816.5,
+              "EV_time_reduction_percent": 27.312259575179795,
+              "ordinary_time_cost_percent": -7.229023398753071,
+              "ordinary_completion_change_pp": 3.870221738538973
+            }
+          ],
+          "EV_seconds_saved": 356.6666666666667,
+          "EV_seconds_saved_sd": 472.73944550178305,
+          "EV_time_reduction_percent": 12.870186671962596,
+          "EV_time_reduction_percent_sd": 16.93925461613355,
+          "ordinary_time_cost_percent": -7.349570638859882,
+          "ordinary_time_cost_percent_sd": 0.13920064691176967,
+          "ordinary_completion_change_pp": 4.087879200108827,
+          "ordinary_completion_change_pp_sd": 0.18959814807191344
+        },
+        {
+          "case": "CORRIDOR_PM",
+          "candidate": "priority20",
+          "baseline": "local",
+          "by_seed": [
+            {
+              "seed": 7300,
+              "EV_seconds_saved": 77.0,
+              "EV_time_reduction_percent": 3.179847202147429,
+              "ordinary_time_cost_percent": -0.0019407316674304185,
+              "ordinary_completion_change_pp": -0.013603591348118727
+            },
+            {
+              "seed": 7301,
+              "EV_seconds_saved": 195.0,
+              "EV_time_reduction_percent": 9.521484375,
+              "ordinary_time_cost_percent": 0.09512487984746835,
+              "ordinary_completion_change_pp": -0.020405387022176313
+            },
+            {
+              "seed": 7302,
+              "EV_seconds_saved": 351.0,
+              "EV_time_reduction_percent": 13.90649762282092,
+              "ordinary_time_cost_percent": 0.05378694905154818,
+              "ordinary_completion_change_pp": -0.40810774044347653
+            }
+          ],
+          "EV_seconds_saved": 207.66666666666666,
+          "EV_seconds_saved_sd": 137.43847108191116,
+          "EV_time_reduction_percent": 8.869276399989449,
+          "EV_time_reduction_percent_sd": 5.3929851421855615,
+          "ordinary_time_cost_percent": 0.04899036574386204,
+          "ordinary_time_cost_percent_sd": 0.04871025193181608,
+          "ordinary_completion_change_pp": -0.14737223960459053,
+          "ordinary_completion_change_pp_sd": 0.22582917693331048
+        }
+      ],
+      "audit": {
+        "status": "PASS",
+        "runs": 78,
+        "main_runs": 72,
+        "cap_sensitivity_runs": 6,
+        "EVs_completed": 78,
+        "collisions": 0,
+        "teleports": 0,
+        "wrong_approach_matches": 0,
+        "unverified_matches": 0,
+        "late_first_matches": [],
+        "phase_checks": "Native event states checked independently: minimum green, full yellow/all-red, request-bound priority jumps and cyclic ordinary return.",
+        "physical_authentication_or_radio_test": false
+      }
+    },
+    "protocol": {
+      "version": "emergency-2026-11-01-v1",
+      "tasks": [
+        [
+          "J1_AM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "fixed",
+          7300,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "local",
+          7300,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "priority20",
+          7300,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "fixed",
+          7301,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "local",
+          7301,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "priority20",
+          7301,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "J1_AM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "J1_PM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "J2_AM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "J2_PM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "J3_PM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "CORRIDOR_AM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "fixed",
+          7302,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "local",
+          7302,
+          "main"
+        ],
+        [
+          "CORRIDOR_PM",
+          "priority20",
+          7302,
+          "main"
+        ],
+        [
+          "J3_AM",
+          "priority60",
+          7300,
+          "cap_sensitivity"
+        ],
+        [
+          "J3_PM",
+          "priority60",
+          7300,
+          "cap_sensitivity"
+        ],
+        [
+          "J3_AM",
+          "priority60",
+          7301,
+          "cap_sensitivity"
+        ],
+        [
+          "J3_PM",
+          "priority60",
+          7301,
+          "cap_sensitivity"
+        ],
+        [
+          "J3_AM",
+          "priority60",
+          7302,
+          "cap_sensitivity"
+        ],
+        [
+          "J3_PM",
+          "priority60",
+          7302,
+          "cap_sensitivity"
+        ]
+      ],
+      "dispatch_s": 1800,
+      "demand": "Original full-count background plus ONE identical controlled probe in every arm; not an observed emergency incident.",
+      "source": {
+        "network_route": "CORRIDOR_r046",
+        "isolated_movements": {
+          "J1": "J1_m00",
+          "J2": "J2_m03",
+          "J3": "J3_m08"
+        },
+        "dispatch_s": 1800,
+        "selection": "Shortest existing simple three-site journey containing A. Soriano/Ouano through movement; local probes use its matching movement visits. Selected geometrically before performance runs.",
+        "cases": {
+          "J1_AM": {
+            "probe_route": "J1_m00",
+            "original_scheduled": 9680,
+            "with_probe": 9681,
+            "route_sha256": "5fbec51d5c930fd25b7b0f0c8ad1057b63537d2977476837c7858cd2769700ff"
+          },
+          "J1_PM": {
+            "probe_route": "J1_m00",
+            "original_scheduled": 7243,
+            "with_probe": 7244,
+            "route_sha256": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66"
+          },
+          "J2_AM": {
+            "probe_route": "J2_m03",
+            "original_scheduled": 4177,
+            "with_probe": 4178,
+            "route_sha256": "f3cb169e6a9b472a82a24fe68c872bcfc7b73567b49e44e53878390f6151101a"
+          },
+          "J2_PM": {
+            "probe_route": "J2_m03",
+            "original_scheduled": 5766,
+            "with_probe": 5767,
+            "route_sha256": "9874d8b0cf47de9a83693528732461d605e8e994f3ccf9bd2a5829b4369c997e"
+          },
+          "J3_AM": {
+            "probe_route": "J3_m08",
+            "original_scheduled": 6508,
+            "with_probe": 6509,
+            "route_sha256": "eb7b6cdf2b346b4ed8f5ec085e1e66fa8740f1fd480b8db2c30fb98d10d2e378"
+          },
+          "J3_PM": {
+            "probe_route": "J3_m08",
+            "original_scheduled": 7062,
+            "with_probe": 7063,
+            "route_sha256": "9f7903f767afc7562bac818c75ea2f043e32052d203fdffc1f0562d8e2a7c952"
+          },
+          "CORRIDOR_AM": {
+            "probe_route": "CORRIDOR_r046",
+            "original_scheduled": 18154,
+            "with_probe": 18155,
+            "route_sha256": "f35a23c3f389cd433f9c6b45005f65bb1f4b9353ba028f865275943d5ab961b6"
+          },
+          "CORRIDOR_PM": {
+            "probe_route": "CORRIDOR_r046",
+            "original_scheduled": 17215,
+            "with_probe": 17216,
+            "route_sha256": "7921e03dc0578eb613b87af2a2eb34614eb4819527bf7e6fcaf6cade6cc8633d"
+          }
+        }
+      },
+      "cutoff_ordinary_s": 4200,
+      "maximum_EV_horizon_s": 14400,
+      "stopping": "After 4200 and EV arrival, else 14400; incomplete EVs remain censored.",
+      "beacon": {
+        "frequency_hz": 1,
+        "delivery_delay_s": 0.5,
+        "freshness_s": 3,
+        "fix_window_s": 5,
+        "minimum_fixes": 3,
+        "nominal_error_bound_m": 0.5,
+        "position_model": "Exact SUMO coordinates as ideal GNSS fixes; no sampled position noise or physical RF measurement.",
+        "gate_m": 150,
+        "heading_gate_degrees": 45,
+        "lateral_gate_m": 12,
+        "caps_s": [
+          20,
+          60
+        ],
+        "cap_semantics": "Elapsed from first accepted request INCLUDING transition time. No renewal for the same site encounter."
+      },
+      "control": "Protected stage transfer after >=10s green, 4s yellow, 4s all red; no abrupt conflicting green. Cyclic local operation resumes on release. No pedestrian inputs in this motor-only test.",
+      "EV_behavior": "Same passenger-class 5m/2m ordinary driver proxy in all arms, emergency GUI shape only; no bluelight device, red-light exemption, speed/lane mode override or teleport.",
+      "fingerprints": {
+        "emergency/beacon.py": "e27ab4549d48a4e6d13848b1c96e6f5fcf99ea0dc7b116d17b6ceba18574283b",
+        "emergency/run_study.py": "7fbe700ed2ef4666b2a373be29592ae4b6f3fc0a386701bff1702ecee680bdfa",
+        "emergency/input_manifest.json": "39989be1c85728c2f50d9bb4a3dc772d221561447cb5dc864f0ea9292676b847",
+        "emergency/test_beacon.py": "74bd14cd2513e9467e0c8fc09a827f9baf1561eddbbc8f375244b398b055a857",
+        "learning/common.py": "560309b9da9b4c0aa5a64c020110a803b376a23b68d8e8dc9160be15c40ede3b",
+        "learning/control.py": "1d3e1eb65da8b77d4d7c76f3e9b87cb093e314eb30be3fe243ccdb5472763afd",
+        "learning/environment.py": "b926c981e878632989b533b10e726eaf1845151d2c430a7ef824c342c61bd8bb",
+        "emergency/inputs/J2_AM/geometry.json": "2a67c6c172d211a4b3a6e9f01e1bbc73d3a12ef4598b816e453e338d4b8c6cd9",
+        "emergency/inputs/J3_AM/geometry.json": "87d47f732e6214a488b8d008c0b909f152b52f71d409cf2137e2cb7855de47f2",
+        "emergency/inputs/J1_PM/geometry.json": "83bd369625e80c1ab395b9c54ea50a411faf0e182fdcdb8815d3516aca489c47",
+        "emergency/inputs/J1_AM/geometry.json": "83bd369625e80c1ab395b9c54ea50a411faf0e182fdcdb8815d3516aca489c47",
+        "emergency/inputs/J3_PM/geometry.json": "87d47f732e6214a488b8d008c0b909f152b52f71d409cf2137e2cb7855de47f2",
+        "emergency/inputs/CORRIDOR_AM/geometry.json": "53135ab4070bff29ba8aff95eb2d61a00da720d9b307acaabcc0fd0f3da1bc9f",
+        "emergency/inputs/J2_PM/geometry.json": "2a67c6c172d211a4b3a6e9f01e1bbc73d3a12ef4598b816e453e338d4b8c6cd9",
+        "emergency/inputs/CORRIDOR_PM/geometry.json": "53135ab4070bff29ba8aff95eb2d61a00da720d9b307acaabcc0fd0f3da1bc9f",
+        "emergency/inputs/J2_AM/scenarios/J2_AM.rou.xml": "f3cb169e6a9b472a82a24fe68c872bcfc7b73567b49e44e53878390f6151101a",
+        "emergency/inputs/J2_AM/scenarios/J2_AM.sumocfg": "78f4b7fe49303a6191daabbd3e013e5b43d7b765e53ad52309981f30a021c25b",
+        "emergency/inputs/J2_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "emergency/inputs/J3_AM/scenarios/J3_AM.rou.xml": "eb7b6cdf2b346b4ed8f5ec085e1e66fa8740f1fd480b8db2c30fb98d10d2e378",
+        "emergency/inputs/J3_AM/scenarios/J3_AM.sumocfg": "a10e771b8c27c8829679e27bfd59c0faf64bd752726b233919bbe1c795489e38",
+        "emergency/inputs/J3_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "emergency/inputs/J1_PM/scenarios/J1_PM.sumocfg": "8424c1b3baff99081a4a97548afcb0d969dd43f5702c7afec43c5f7fff8d6ada",
+        "emergency/inputs/J1_PM/scenarios/J1_PM.rou.xml": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66",
+        "emergency/inputs/J1_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "emergency/inputs/J1_AM/scenarios/J1_AM.rou.xml": "5fbec51d5c930fd25b7b0f0c8ad1057b63537d2977476837c7858cd2769700ff",
+        "emergency/inputs/J1_AM/scenarios/J1_AM.sumocfg": "ffa9bd2e90f646023baf509758460c33a2034d8ba44f415f4e08b688812b8af5",
+        "emergency/inputs/J1_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "emergency/inputs/J3_PM/scenarios/J3_PM.rou.xml": "9f7903f767afc7562bac818c75ea2f043e32052d203fdffc1f0562d8e2a7c952",
+        "emergency/inputs/J3_PM/scenarios/J3_PM.sumocfg": "2d1f498bb1a17cb221066c3c8d38146fdfbfd172d2fc9ca73cc9943bf5bf3df6",
+        "emergency/inputs/J3_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "emergency/inputs/CORRIDOR_AM/scenarios/CORRIDOR_AM.rou.xml": "f35a23c3f389cd433f9c6b45005f65bb1f4b9353ba028f865275943d5ab961b6",
+        "emergency/inputs/CORRIDOR_AM/scenarios/CORRIDOR_AM.sumocfg": "36b76fbeff4e83ce3f5dbbf6c6b3ec4153eb50397384eb4a00dfb34bd27f4078",
+        "emergency/inputs/CORRIDOR_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "emergency/inputs/J2_PM/scenarios/J2_PM.rou.xml": "9874d8b0cf47de9a83693528732461d605e8e994f3ccf9bd2a5829b4369c997e",
+        "emergency/inputs/J2_PM/scenarios/J2_PM.sumocfg": "176a6f3275ac7365357c50b8aba4d6e1b942ddee215044f61a21d32b71b9b3d5",
+        "emergency/inputs/J2_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "emergency/inputs/CORRIDOR_PM/scenarios/CORRIDOR_PM.sumocfg": "d05d8cee89f37552606d77d42736c68887a17542e038daeed42daebe1b395d35",
+        "emergency/inputs/CORRIDOR_PM/scenarios/CORRIDOR_PM.rou.xml": "7921e03dc0578eb613b87af2a2eb34614eb4819527bf7e6fcaf6cade6cc8633d",
+        "emergency/inputs/CORRIDOR_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "scenarios/CORRIDOR_PM.sumocfg": "3fce76e37d7ce36c09320526fa34d09070a1c21f5a5c75693940511e355df6a5",
+        "scenarios/ST50_CORRIDOR_AM_crossings.add.xml": "4767d030e5d4990e4e0910a150f90cf3f8b409a0bcaa1f7e09c24a43f9dc134e",
+        "scenarios/CORRIDOR_AM_crossings.add.xml": "d18ec1da7ce126feec39a08c7d973601ae2ea821af553f6d4cba13260d14461c",
+        "scenarios/J1_AM_fixed.add.xml": "afc38b458a6d1fcb579641330672ca7acfc742f8390f08c86e9833fda2793d1f",
+        "scenarios/J3_PM.rou.xml": "c472ea27f3c1ad52a0a891d5e36ceb109faf1dfd8389d03693bde3630831c5ed",
+        "scenarios/CORRIDOR_PM.rou.xml": "146c338e63b548920b316faa33c6b9418c31fe91c7fb9fabb025f1948b91091c",
+        "scenarios/J3_PM.sumocfg": "00804ea6b2f9f1d7795c4bbecb2f0ebdd1c87dd334987dff1fb62f2e852b7657",
+        "scenarios/ST50_J2_PM.sumocfg": "a8eafa048cc158707fca039e389726e20357f59c31e9eadb9ba640b339e02a79",
+        "scenarios/J1_PM_fixed.add.xml": "7ea78651eeb6d2d3dc1bf8041717d85aa933be3306684167e089e4951d42812c",
+        "scenarios/ST50_J3_AM.sumocfg": "a525e74823b0a1daeaccdc4c12452c184378ade64600a810781b9a4a138fb747",
+        "scenarios/J3_AM.rou.xml": "1ae714ff7de82003d44729f495af4cd6402e8994a74535ffce8a2fdb643896ca",
+        "scenarios/J2_AM_crossings.add.xml": "4e14b52496875918fd9ad56610eda013f8ef3e4a43e0c13e47f26ee56543b310",
+        "scenarios/J2_PM.rou.xml": "087684db552154bf962975da61ac65ce0c5688cef59b8f1d5d6a955703ec68b7",
+        "scenarios/ST50_J1_AM.sumocfg": "d173cc87f0489bfb15dafb2ee2d2e9492bb92c7a59df524f55d00ff967fb9197",
+        "scenarios/ST50_J3_PM_crossings.add.xml": "a01bf6dce5d059fcfb8d7fa902e042757eb05f50cf57e00961850159da404711",
+        "scenarios/ST50_J2_AM.sumocfg": "037b17a3b8e257df8dc5c47f151e9d6c9d2595346516623668d607b73647f2f3",
+        "scenarios/CORRIDOR_PM_crossings.add.xml": "c4e3154d27a29290f658d2ee071a2fc462a2b1c745b1807e11c9e05ea6454821",
+        "scenarios/ST50_J3_PM.sumocfg": "8b47b8d27d0179a7e47e5328800f3337708ee6552aa69e9b22b133d70a764acc",
+        "scenarios/CORRIDOR_AM.rou.xml": "d413f1af46d5e844de93d5abdb73bd94986c181b64369fcb9bb7faa807c34ad6",
+        "scenarios/J2_PM_crossings.add.xml": "89703178a8785a84ce9123db238876879f01b76716851d3b9b7857906aca3159",
+        "scenarios/J1_PM_crossings.add.xml": "7353db9a260f24c0de422205b80ce0453d3f8280a2aa051b80ec67569666bc59",
+        "scenarios/J1_provisional_tls.add.xml": "9b19e6eadca1c0dd75a167bc3e02a98c46e1719bae5f6a0179a14b36e19676a9",
+        "scenarios/J2_provisional_tls.add.xml": "2b08ca7fc474dcea3de7678f5574726e3844d8d1a92af8e0846ffdae45128369",
+        "scenarios/ST50_J1_AM_crossings.add.xml": "c3b2982acebab194693155006fe98d4c52355215e7911404d94a91ab4d0eb5ce",
+        "scenarios/J2_AM.rou.xml": "9e9a5d8c137a6b3362f215361e27b804a62e61ccf70e74872e98ace41f977356",
+        "scenarios/J1_AM.rou.xml": "e1733810cdbbb10786be300907f9f4bcdefb493087c443442edb286b7e5f3329",
+        "scenarios/J1_PM.sumocfg": "0d3f4212c3884d2a1e169d4951581a4a296868605568df932fbdc4891bbfa578",
+        "scenarios/J1_AM_crossings.add.xml": "2f25adf25687b5f41307c28469ebd619ec5314ef36d524ec6eb5ec556425c713",
+        "scenarios/CORRIDOR_provisional_tls.add.xml": "74a93afb6398fedb00183ead2f1630a40665fd1c180bf519f75cc6a57d962dfe",
+        "scenarios/ST50_J1_PM.sumocfg": "f97538f63f17d025eca5d650458c34b7ee49fc284eb390e279a0f720532e35d3",
+        "scenarios/ST50_J2_AM_crossings.add.xml": "f19775f7cf2d21264e480627332cc85bbf3e738214700f98e5ad08596584c1e3",
+        "scenarios/ST50_J3_AM_crossings.add.xml": "ddf48689ad3afa8b01de117fa120e267b2c11434fb9ebdcca3cbaed226687b3c",
+        "scenarios/J3_AM_fixed.add.xml": "a5c521488ba616e6d4b647f4d05dd83ce24f6782209a2b6b5b427770ab4ebb74",
+        "scenarios/J1_AM.sumocfg": "134126a857e7c1ed2521656cb0cec6dcb1d6e175d5f8be36683f28da75b5e064",
+        "scenarios/J2_view.xml": "2b09c8b503280d5f099e3671bf2aabc183b82d7de1d814a02ea2c4c4822cf4a0",
+        "scenarios/CORRIDOR_AM_fixed.add.xml": "bd477b481bf9f333cc5601c9ff8d723efcf4fe147c60a68e93260c7968749973",
+        "scenarios/J1_PM.rou.xml": "6dfa262757e79e60025ae8fedd9fb8e85daf15c47b6304fcc076a775815d65e2",
+        "scenarios/J3_AM_crossings.add.xml": "49e512cdd88cc4da18972b5c024b53148a5d5b5a481cef2d260a3d60d16c79c6",
+        "scenarios/ST50_J1_PM_crossings.add.xml": "260662b271fca04995c938096f86f6d343f2a4d6c59e89e2c96c72133e6ab26f",
+        "scenarios/ST50_CORRIDOR_AM.sumocfg": "5579a974e3282b1ed7660dfa608a75235e41517899d0667b6090964d878611f3",
+        "scenarios/J1_view.xml": "bfc3b864795eb6699c297b686d13b8efe8d9fd722116c64547cd52ee97c3fae9",
+        "scenarios/J3_PM_fixed.add.xml": "8887aa9fc578834f7cc4e7b17b5e89f7957fa413947a3e463aae53d58138a8ca",
+        "scenarios/ST50_CORRIDOR_PM_crossings.add.xml": "6f89ca0cf9a1eddb8c1869a4ccfc17359a99e927937fc7a1279db58af923d1e9",
+        "scenarios/CORRIDOR_PM_fixed.add.xml": "960452aaad122ce2394e1b34b7825b0b8b1915e007893006d37f4ba6184376bc",
+        "scenarios/J2_AM.sumocfg": "68340737b6112492b1318f1cca55429cb7d70e0ae00ed110540b1e54d5396a83",
+        "scenarios/CORRIDOR_view.xml": "ef649f367f62b5fb9fd044a91106c841f8778a51ad645632096a6c87afee9b38",
+        "scenarios/ST50_J2_PM_crossings.add.xml": "d77003cf32946a3c9254d01dfd36792b10775ee3602a29ff0e92096196b4b81a",
+        "scenarios/J2_PM.sumocfg": "7046a0e35929a4c5e961db06583eb372c483817907bad2896ae7ead7133d9c2a",
+        "scenarios/J3_view.xml": "505f282e2dd80e6fe0e60d706ebd81b9cbde1dcf1f4088184efcea4758089b89",
+        "scenarios/J3_AM.sumocfg": "aa2ced2f4501a928b6c98d24adb6d7a9ea61b223253ce17523fe718ed273e0b8",
+        "scenarios/J3_provisional_tls.add.xml": "d88143e8b7d8c4728590fc44988757b921f9fc7683b8c4e602b2fa722c011882",
+        "scenarios/J3_PM_crossings.add.xml": "347231e6ab9001eb900a3675586ba4c4e217185f2af815a2dabcff237d5601d5",
+        "scenarios/CORRIDOR_AM.sumocfg": "e5ba5c3c6dd50a72fb8da4d3065af51a2e2a7b66589a21a34578542ce04ded3b",
+        "scenarios/J2_PM_fixed.add.xml": "80c4b19312c959b4705ae4a69ff072c18f784f504bd27d059742532bdf2e5bf5",
+        "scenarios/J2_AM_fixed.add.xml": "ba57cbf0a44811ee55272137e2fe2e0e3fa07a809aafb7bec83bb5124479e05b",
+        "scenarios/ST50_CORRIDOR_PM.sumocfg": "72c3c1380860cf855303214d1695de2c377fd13e61d27096865ce05c41c5828a",
+        "network/J1_keep_edges.txt": "e05e13d38f0c5a075d6008f3e6d2c9bb08c796908c086b43f0a3b4320ada25e0",
+        "network/mandaue.osm.xml": "2b38a6f2f9eaf4c777dd9e08a64d86065a44df892ae1fdc64bfda6e1a627697f",
+        "network/mandaue.net.xml": "b5fa6cc4725a4e58c288d3ea06af6fdf52bc4ef4e978da873cb53a4785b9289b",
+        "network/study_locations.add.xml": "325985e1ef3d443c2873fc281f70e8e06beed66c548f629fee55953bb23174d2",
+        "network/isolated_J2.net.xml": "bd7bcbf150ccc9387bac2e93d51929703a5a0db4c64648d37d5482411e404624",
+        "network/J3_keep_edges.txt": "cf4cf6aa6685627740a546c4491907047e23660605804ef019b4cc7465508a84",
+        "network/J2_keep_edges.txt": "ccf2f5d3d3939da02d3d5b20d0dd603c6856306b937524c5652be8a07a3ef01b",
+        "network/isolated_J3.net.xml": "605954cc03100dd5795ccc0149802836a3cec72f261f591272bec38583db7468",
+        "network/raw_import.net.xml": "1bcb7c507ddc9f967583834005cdaef38dd2133145147dcb758c12b7afebb591",
+        "network/isolated_J1.net.xml": "d6d229047a960f2bc21c7c3662ff723ca3877dc61fbd7b380ffd4746de35fbf3",
+        "network/junction_repairs.nod.xml": "c2ee8d72b3d352fdd62c5720cb79f1b4558562dfb3136d61a55bbb0747e488e6",
+        "data/reference_movements.json": "1b212798a1bf5350babb2e23f6061b3fea6252ef38397be0eef40122a9052f24",
+        "data/field_validation_template.csv": "53595ae40a17d62400f7871ce0aa4f81d091c11d4b7690a48b37084bb788635c",
+        "data/turn_counts_template.csv": "f976b1f8692d5ac1232c6eeca69e68976269d9d02fa25f7a550d58696c08863e",
+        "data/link_observations_template.csv": "342dd36ac4c0cf2d738ec6fd3b06708d1751be8ebb829e983cc22f91616f624e",
+        "data/demand_settings.json": "d037b55082c9885f73c95b017fbb05eb6a893544e698aa2dc6de74bf3ebaf49d",
+        "data/signal_phases_template.csv": "2d06b764168fb18ff6a3d3a3f6c49547bd46db8ccd6a148b5a9114b1f71f7b5b",
+        "data/sensor_channels_template.csv": "8fdcab2fb6a115320541faadf76759d9409b91efc6d01eadac90be84ec3cbc7c",
+        "data/source_timing_summaries.csv": "a84b6c383a0526dd8bb083ab2c90b74d9d1c8cc60a42c3097829f3918fa96b18",
+        "data/source_class_counts.csv": "18e557b955d695f0e43e8d8ba2d19383a2de7704453d2e1f1f91a385f68ab3e3",
+        "data/DATA_DICTIONARY.md": "4f670d03925bf7d4bd32d9e3fc133c83f341e7cfc8ff9c9bd48a825a53a66fba",
+        "data/vehicle_behavior_assumptions.csv": "af1d7b9143dc1d34d39e1b4bfd8b7b81bab08c5300f217343e1e5198b87cefb5",
+        "data/source_site_totals.csv": "55a61362b1aa254b0e4868d5726553ef788d27c5220b980d09a95cb0a182b5f5",
+        "data/reference_blueprints/CORRIDOR_PM.rou.xml": "146c338e63b548920b316faa33c6b9418c31fe91c7fb9fabb025f1948b91091c",
+        "data/reference_blueprints/CORRIDOR_AM.rou.xml": "d413f1af46d5e844de93d5abdb73bd94986c181b64369fcb9bb7faa807c34ad6",
+        "model/sensors/feature_contract.json": "5a5876c2c6bca006007bf4e288c5dab620fb5818856fdfb2fe89f55952adb504",
+        "model/sensors/feature_contract_v2.json": "5b05e728ca10363574496d1540e4fb573e835fafa36a6a052ab73a699b21f275",
+        "model/sensors/puck_layout.png": "c343b7c8706ae917b6393489201b0c1856f37ffc0974dbb12043d95981f96f12",
+        "model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+        "model/sensors/pucks.add.xml": "0501160a598f08ce2c5d9cdb23dfad90bdafb621912764d09b54b1daf93d039a",
+        "model/sensors/puck_locations.csv": "a8f5e5aac417c35fab2107965673baee0abcb5946d1fbdd951cbf2776833c812"
+      }
+    },
+    "audit": {
+      "status": "PASS",
+      "runs": 78,
+      "main_runs": 72,
+      "cap_sensitivity_runs": 6,
+      "EVs_completed": 78,
+      "collisions": 0,
+      "teleports": 0,
+      "wrong_approach_matches": 0,
+      "unverified_matches": 0,
+      "late_first_matches": [],
+      "phase_checks": "Native event states checked independently: minimum green, full yellow/all-red, request-bound priority jumps and cyclic ordinary return.",
+      "physical_authentication_or_radio_test": false
+    }
+  }
+}

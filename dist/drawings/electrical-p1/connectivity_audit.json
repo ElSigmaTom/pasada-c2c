@@ -1,0 +1,1161 @@
+{
+  "tool": "KiCad 7.0.11 native schematic parser and exported XML netlist",
+  "scope": "Connectivity assertions only; not a full ERC or physical electrical validation.",
+  "sheets": [
+    {
+      "sheet": "01_sensor_puck",
+      "checks": [
+        {
+          "check": "Sensor SDA",
+          "passed": true,
+          "pins": [
+            [
+              "U104",
+              "6"
+            ],
+            [
+              "U105",
+              "SDA"
+            ],
+            [
+              "R103",
+              "2"
+            ]
+          ],
+          "nets": [
+            "Net-(U104-GPIO6)",
+            "Net-(U104-GPIO6)",
+            "Net-(U104-GPIO6)"
+          ]
+        },
+        {
+          "check": "Sensor SCL",
+          "passed": true,
+          "pins": [
+            [
+              "U104",
+              "7"
+            ],
+            [
+              "U105",
+              "SCL"
+            ],
+            [
+              "R104",
+              "2"
+            ]
+          ],
+          "nets": [
+            "Net-(U104-GPIO7)",
+            "Net-(U104-GPIO7)",
+            "Net-(U104-GPIO7)"
+          ]
+        },
+        {
+          "check": "Regulated load supply",
+          "passed": true,
+          "pins": [
+            [
+              "JP101",
+              "2"
+            ],
+            [
+              "U104",
+              "3V3"
+            ],
+            [
+              "U105",
+              "VIN"
+            ],
+            [
+              "C101",
+              "1"
+            ],
+            [
+              "C102",
+              "1"
+            ],
+            [
+              "R103",
+              "1"
+            ],
+            [
+              "R104",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/+3V3_SENSOR",
+            "/+3V3_SENSOR",
+            "/+3V3_SENSOR",
+            "/+3V3_SENSOR",
+            "/+3V3_SENSOR",
+            "/+3V3_SENSOR",
+            "/+3V3_SENSOR"
+          ]
+        },
+        {
+          "check": "Regulator to removable run link",
+          "passed": true,
+          "pins": [
+            [
+              "U103",
+              "OUT+"
+            ],
+            [
+              "JP101",
+              "1"
+            ]
+          ],
+          "nets": [
+            "Net-(JP101-A)",
+            "Net-(JP101-A)"
+          ]
+        },
+        {
+          "check": "Protected battery supply",
+          "passed": true,
+          "pins": [
+            [
+              "U101",
+              "BAT+"
+            ],
+            [
+              "U102",
+              "P+"
+            ],
+            [
+              "U103",
+              "IN+"
+            ],
+            [
+              "SW101",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/BAT_PROTECTED",
+            "/BAT_PROTECTED",
+            "/BAT_PROTECTED",
+            "/BAT_PROTECTED"
+          ]
+        },
+        {
+          "check": "All system returns on protected side",
+          "passed": true,
+          "pins": [
+            [
+              "U102",
+              "P-"
+            ],
+            [
+              "U101",
+              "IN-"
+            ],
+            [
+              "U101",
+              "BAT-"
+            ],
+            [
+              "U103",
+              "IN-"
+            ],
+            [
+              "U103",
+              "OUT-"
+            ],
+            [
+              "U104",
+              "GND"
+            ],
+            [
+              "U105",
+              "GND"
+            ]
+          ],
+          "nets": [
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND"
+          ]
+        },
+        {
+          "check": "Cell negative enters protection only",
+          "passed": true,
+          "pins": [
+            [
+              "BT101",
+              "2"
+            ],
+            [
+              "U102",
+              "B-"
+            ]
+          ],
+          "nets": [
+            "/CELL_NEG",
+            "/CELL_NEG"
+          ]
+        },
+        {
+          "check": "Cell negative is not system ground",
+          "passed": true,
+          "pins": [
+            [
+              "BT101",
+              "2"
+            ],
+            [
+              "U104",
+              "GND"
+            ]
+          ],
+          "nets": [
+            "/CELL_NEG",
+            "GND"
+          ]
+        },
+        {
+          "check": "Cell positive enters protection",
+          "passed": true,
+          "pins": [
+            [
+              "BT101",
+              "1"
+            ],
+            [
+              "U102",
+              "B+"
+            ]
+          ],
+          "nets": [
+            "Net-(BT101-+)",
+            "Net-(BT101-+)"
+          ]
+        },
+        {
+          "check": "Switch common through series resistor",
+          "passed": true,
+          "pins": [
+            [
+              "SW101",
+              "2"
+            ],
+            [
+              "R101",
+              "1"
+            ]
+          ],
+          "nets": [
+            "Net-(SW101-B)",
+            "Net-(SW101-B)"
+          ]
+        },
+        {
+          "check": "Enable node",
+          "passed": true,
+          "pins": [
+            [
+              "R101",
+              "2"
+            ],
+            [
+              "U103",
+              "EN"
+            ],
+            [
+              "R102",
+              "1"
+            ]
+          ],
+          "nets": [
+            "Net-(U103-EN*)",
+            "Net-(U103-EN*)",
+            "Net-(U103-EN*)"
+          ]
+        },
+        {
+          "check": "Enable OFF / pulldown return",
+          "passed": true,
+          "pins": [
+            [
+              "SW101",
+              "3"
+            ],
+            [
+              "R102",
+              "2"
+            ],
+            [
+              "U104",
+              "GND"
+            ]
+          ],
+          "nets": [
+            "GND",
+            "GND",
+            "GND"
+          ]
+        },
+        {
+          "check": "Module 5V not externally driven",
+          "passed": true,
+          "pins": [
+            [
+              "U104",
+              "5V"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U104-Pad5V)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO2",
+          "passed": true,
+          "pins": [
+            [
+              "U104",
+              "2"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U104-GPIO2-Pad2)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO8",
+          "passed": true,
+          "pins": [
+            [
+              "U104",
+              "8"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U104-GPIO8-Pad8)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO9",
+          "passed": true,
+          "pins": [
+            [
+              "U104",
+              "9"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U104-GPIO9-Pad9)"
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sheet": "02_emergency_beacon",
+      "checks": [
+        {
+          "check": "GPS TX to MCU RX",
+          "passed": true,
+          "pins": [
+            [
+              "U202",
+              "5"
+            ],
+            [
+              "U201",
+              "20"
+            ]
+          ],
+          "nets": [
+            "/GPS_TX__MCU_RX",
+            "/GPS_TX__MCU_RX"
+          ]
+        },
+        {
+          "check": "MCU TX to GPS RX",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "21"
+            ],
+            [
+              "U202",
+              "4"
+            ]
+          ],
+          "nets": [
+            "/MCU_TX__GPS_RX",
+            "/MCU_TX__GPS_RX"
+          ]
+        },
+        {
+          "check": "USB5V feeds GPS VIN",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "5V"
+            ],
+            [
+              "U202",
+              "2"
+            ],
+            [
+              "C204",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/+5V_USB",
+            "/+5V_USB",
+            "/+5V_USB"
+          ]
+        },
+        {
+          "check": "3V3 pullup and local decoupling",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "3V3"
+            ],
+            [
+              "R201",
+              "1"
+            ],
+            [
+              "C202",
+              "1"
+            ],
+            [
+              "C203",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/+3V3_MCU",
+            "/+3V3_MCU",
+            "/+3V3_MCU",
+            "/+3V3_MCU"
+          ]
+        },
+        {
+          "check": "Active-low emergency contact",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "0"
+            ],
+            [
+              "R201",
+              "2"
+            ],
+            [
+              "SW201",
+              "1"
+            ],
+            [
+              "C201",
+              "1"
+            ]
+          ],
+          "nets": [
+            "GND",
+            "GND",
+            "GND",
+            "GND"
+          ]
+        },
+        {
+          "check": "All beacon returns",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "GND"
+            ],
+            [
+              "U202",
+              "3"
+            ],
+            [
+              "SW201",
+              "2"
+            ],
+            [
+              "C201",
+              "2"
+            ],
+            [
+              "D201",
+              "1"
+            ]
+          ],
+          "nets": [
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND"
+          ]
+        },
+        {
+          "check": "GPS onboard regulator output not tied to MCU regulator",
+          "passed": true,
+          "pins": [
+            [
+              "U202",
+              "9"
+            ],
+            [
+              "U201",
+              "3V3"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U202-3.3V_OUT-Pad9)",
+            "/+3V3_MCU"
+          ]
+        },
+        {
+          "check": "LED series resistor",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "3"
+            ],
+            [
+              "R202",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/STATUS_LED",
+            "/STATUS_LED"
+          ]
+        },
+        {
+          "check": "LED anode after resistor",
+          "passed": true,
+          "pins": [
+            [
+              "R202",
+              "2"
+            ],
+            [
+              "D201",
+              "2"
+            ]
+          ],
+          "nets": [
+            "Net-(D201-A)",
+            "Net-(D201-A)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO2",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "2"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U201-GPIO2-Pad2)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO8",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "8"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U201-GPIO8-Pad8)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO9",
+          "passed": true,
+          "pins": [
+            [
+              "U201",
+              "9"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U201-GPIO9-Pad9)"
+          ]
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sheet": "03_intersection_coordinator",
+      "checks": [
+        {
+          "check": "SPI SCK",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "5"
+            ],
+            [
+              "U302",
+              "4"
+            ]
+          ],
+          "nets": [
+            "Net-(U301-GPIO5)",
+            "Net-(U301-GPIO5)"
+          ]
+        },
+        {
+          "check": "SPI MOSI",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "6"
+            ],
+            [
+              "U302",
+              "3"
+            ]
+          ],
+          "nets": [
+            "Net-(U301-GPIO6)",
+            "Net-(U301-GPIO6)"
+          ]
+        },
+        {
+          "check": "SPI MISO",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "7"
+            ],
+            [
+              "U302",
+              "2"
+            ]
+          ],
+          "nets": [
+            "Net-(U301-GPIO7)",
+            "Net-(U301-GPIO7)"
+          ]
+        },
+        {
+          "check": "SPI NSS with pullup",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "10"
+            ],
+            [
+              "U302",
+              "5"
+            ],
+            [
+              "R303",
+              "1"
+            ]
+          ],
+          "nets": [
+            "Net-(U301-GPIO10)",
+            "Net-(U301-GPIO10)",
+            "Net-(U301-GPIO10)"
+          ]
+        },
+        {
+          "check": "Radio reset",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "3"
+            ],
+            [
+              "U302",
+              "6"
+            ],
+            [
+              "R304",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/RF_RESET_N",
+            "/RF_RESET_N",
+            "/RF_RESET_N"
+          ]
+        },
+        {
+          "check": "Radio IRQ pad14",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "4"
+            ],
+            [
+              "U302",
+              "14"
+            ]
+          ],
+          "nets": [
+            "/RF_IRQ_DIO0",
+            "/RF_IRQ_DIO0"
+          ]
+        },
+        {
+          "check": "RTC SDA",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "0"
+            ],
+            [
+              "U304",
+              "15"
+            ],
+            [
+              "R301",
+              "1"
+            ]
+          ],
+          "nets": [
+            "Net-(U301-GPIO0)",
+            "Net-(U301-GPIO0)",
+            "Net-(U301-GPIO0)"
+          ]
+        },
+        {
+          "check": "RTC SCL",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "1"
+            ],
+            [
+              "U304",
+              "16"
+            ],
+            [
+              "R302",
+              "1"
+            ]
+          ],
+          "nets": [
+            "Net-(U301-GPIO1)",
+            "Net-(U301-GPIO1)",
+            "Net-(U301-GPIO1)"
+          ]
+        },
+        {
+          "check": "RTC 3V3 and pullups",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "3V3"
+            ],
+            [
+              "U304",
+              "2"
+            ],
+            [
+              "R301",
+              "2"
+            ],
+            [
+              "R302",
+              "2"
+            ],
+            [
+              "R303",
+              "2"
+            ],
+            [
+              "J302",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/+3V3_MCU",
+            "/+3V3_MCU",
+            "/+3V3_MCU",
+            "/+3V3_MCU",
+            "/+3V3_MCU",
+            "/+3V3_MCU"
+          ]
+        },
+        {
+          "check": "Radio supply is regulator output to pad13",
+          "passed": true,
+          "pins": [
+            [
+              "U303",
+              "5"
+            ],
+            [
+              "U302",
+              "13"
+            ],
+            [
+              "R304",
+              "2"
+            ],
+            [
+              "C302",
+              "1"
+            ],
+            [
+              "C303",
+              "1"
+            ],
+            [
+              "C304",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/+3V3_RF",
+            "/+3V3_RF",
+            "/+3V3_RF",
+            "/+3V3_RF",
+            "/+3V3_RF",
+            "/+3V3_RF"
+          ]
+        },
+        {
+          "check": "Two 3V3 regulator outputs not shorted",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "3V3"
+            ],
+            [
+              "U303",
+              "5"
+            ]
+          ],
+          "nets": [
+            "/+3V3_MCU",
+            "/+3V3_RF"
+          ]
+        },
+        {
+          "check": "RF regulator input and enable",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "5V"
+            ],
+            [
+              "U303",
+              "1"
+            ],
+            [
+              "U303",
+              "3"
+            ],
+            [
+              "C301",
+              "1"
+            ]
+          ],
+          "nets": [
+            "/+5V_USB",
+            "/+5V_USB",
+            "/+5V_USB",
+            "/+5V_USB"
+          ]
+        },
+        {
+          "check": "RTC backup battery",
+          "passed": true,
+          "pins": [
+            [
+              "BT301",
+              "1"
+            ],
+            [
+              "U304",
+              "14"
+            ]
+          ],
+          "nets": [
+            "Net-(BT301-+)",
+            "Net-(BT301-+)"
+          ]
+        },
+        {
+          "check": "RTC coin cell not tied to VCC",
+          "passed": true,
+          "pins": [
+            [
+              "U304",
+              "14"
+            ],
+            [
+              "U304",
+              "2"
+            ]
+          ],
+          "nets": [
+            "Net-(BT301-+)",
+            "/+3V3_MCU"
+          ]
+        },
+        {
+          "check": "RTC NC pads grounded",
+          "passed": true,
+          "pins": [
+            [
+              "U304",
+              "13"
+            ],
+            [
+              "U304",
+              "5"
+            ],
+            [
+              "U304",
+              "6"
+            ],
+            [
+              "U304",
+              "7"
+            ],
+            [
+              "U304",
+              "8"
+            ],
+            [
+              "U304",
+              "9"
+            ],
+            [
+              "U304",
+              "10"
+            ],
+            [
+              "U304",
+              "11"
+            ],
+            [
+              "U304",
+              "12"
+            ]
+          ],
+          "nets": [
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND"
+          ]
+        },
+        {
+          "check": "All radio grounds",
+          "passed": true,
+          "pins": [
+            [
+              "U302",
+              "1"
+            ],
+            [
+              "U302",
+              "8"
+            ],
+            [
+              "U302",
+              "10"
+            ],
+            [
+              "U301",
+              "GND"
+            ],
+            [
+              "U303",
+              "2"
+            ],
+            [
+              "U304",
+              "13"
+            ],
+            [
+              "BT301",
+              "2"
+            ]
+          ],
+          "nets": [
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND",
+            "GND"
+          ]
+        },
+        {
+          "check": "RF centre pin",
+          "passed": true,
+          "pins": [
+            [
+              "J301",
+              "1"
+            ],
+            [
+              "U302",
+              "9"
+            ]
+          ],
+          "nets": [
+            "Net-(J301-In)",
+            "Net-(J301-In)"
+          ]
+        },
+        {
+          "check": "RF coax shield",
+          "passed": true,
+          "pins": [
+            [
+              "J301",
+              "2"
+            ],
+            [
+              "U301",
+              "GND"
+            ]
+          ],
+          "nets": [
+            "GND",
+            "GND"
+          ]
+        },
+        {
+          "check": "Service TX",
+          "passed": true,
+          "pins": [
+            [
+              "J302",
+              "3"
+            ],
+            [
+              "U301",
+              "21"
+            ]
+          ],
+          "nets": [
+            "/GATEWAY_TX",
+            "/GATEWAY_TX"
+          ]
+        },
+        {
+          "check": "Service RX",
+          "passed": true,
+          "pins": [
+            [
+              "J302",
+              "4"
+            ],
+            [
+              "U301",
+              "20"
+            ]
+          ],
+          "nets": [
+            "/GATEWAY_RX",
+            "/GATEWAY_RX"
+          ]
+        },
+        {
+          "check": "NSS and gateway TX stay separate",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "10"
+            ],
+            [
+              "U301",
+              "21"
+            ]
+          ],
+          "nets": [
+            "Net-(U301-GPIO10)",
+            "/GATEWAY_TX"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO2",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "2"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U301-GPIO2-Pad2)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO8",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "8"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U301-GPIO8-Pad8)"
+          ]
+        },
+        {
+          "check": "No external load on strap GPIO9",
+          "passed": true,
+          "pins": [
+            [
+              "U301",
+              "9"
+            ]
+          ],
+          "nets": [
+            "unconnected-(U301-GPIO9-Pad9)"
+          ]
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "passed": true
+}

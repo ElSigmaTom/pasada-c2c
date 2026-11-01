@@ -1,0 +1,623 @@
+{
+  "schema": "pasada.device/0.1.0",
+  "project_id": "PASADA-MANDAUE-LEAR",
+  "device_id": "CTRL-A",
+  "role": "controller",
+  "intersection_id": "J-A",
+  "location": null,
+  "location_status": "unlocated",
+  "installation_ready": false,
+  "intersection_reference": {
+    "latitude": 10.3304625,
+    "longitude": 123.9478423,
+    "purpose": "Junction reference; not the cabinet position"
+  },
+  "hardware": {
+    "mcu": "ESP32-C3 Super Mini",
+    "rtc": {
+      "required": true,
+      "model": "UNSELECTED",
+      "purpose": "Retained time reference; synchronization protocol required"
+    },
+    "lora": {
+      "required": true,
+      "module": "UNSELECTED",
+      "profile": "UNSELECTED",
+      "purpose": "Intersection telemetry to C2C receiver"
+    },
+    "esp_now": {
+      "purpose": "Local puck and emergency-beacon reception"
+    },
+    "physical_interface": "UNCONFIRMED"
+  },
+  "sensor": null,
+  "controller_site_map": {
+    "enrolled_beacon_ids": [
+      "EV-DEMO-01"
+    ],
+    "incoming_lanes": [
+      {
+        "id": "A-AC_NW_IN-IN-L1",
+        "approach": "N",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3304883,
+            123.9476408
+          ],
+          [
+            10.330696,
+            123.9472971
+          ],
+          [
+            10.3310649,
+            123.9467136
+          ]
+        ]
+      },
+      {
+        "id": "A-AC_NW_IN-IN-L2",
+        "approach": "N",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3305117,
+            123.9476563
+          ],
+          [
+            10.3307196,
+            123.9473122
+          ],
+          [
+            10.3310882,
+            123.9467291
+          ]
+        ]
+      },
+      {
+        "id": "A-AC_NW_IN-IN-L3",
+        "approach": "N",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.330535,
+            123.9476719
+          ],
+          [
+            10.3307432,
+            123.9473273
+          ],
+          [
+            10.3311115,
+            123.9467446
+          ]
+        ]
+      },
+      {
+        "id": "A-AC_SE_IN-IN-L1",
+        "approach": "S",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3304234,
+            123.9480371
+          ],
+          [
+            10.3303318,
+            123.9481879
+          ],
+          [
+            10.3300959,
+            123.9485646
+          ],
+          [
+            10.3298459,
+            123.9489638
+          ]
+        ]
+      },
+      {
+        "id": "A-AC_SE_IN-IN-L2",
+        "approach": "S",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3303993,
+            123.9480227
+          ],
+          [
+            10.3303082,
+            123.9481728
+          ],
+          [
+            10.3300724,
+            123.9485494
+          ],
+          [
+            10.3298218,
+            123.9489494
+          ]
+        ]
+      },
+      {
+        "id": "A-AC_SE_IN-IN-L3",
+        "approach": "S",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3303753,
+            123.9480083
+          ],
+          [
+            10.3302846,
+            123.9481577
+          ],
+          [
+            10.3300489,
+            123.9485342
+          ],
+          [
+            10.3297978,
+            123.948935
+          ]
+        ]
+      },
+      {
+        "id": "A-DM_NE-IN-L1",
+        "approach": "E",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3306366,
+            123.9479338
+          ],
+          [
+            10.3307913,
+            123.9480252
+          ],
+          [
+            10.3310291,
+            123.9481605
+          ],
+          [
+            10.3311728,
+            123.9482397
+          ],
+          [
+            10.3311851,
+            123.9482466
+          ],
+          [
+            10.3312528,
+            123.9482862
+          ],
+          [
+            10.3315094,
+            123.948431
+          ],
+          [
+            10.3315772,
+            123.9484713
+          ]
+        ]
+      },
+      {
+        "id": "A-DM_NE-IN-L2",
+        "approach": "E",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3306503,
+            123.9479091
+          ],
+          [
+            10.3308051,
+            123.9480006
+          ],
+          [
+            10.3310426,
+            123.9481357
+          ],
+          [
+            10.3311861,
+            123.9482148
+          ],
+          [
+            10.3311989,
+            123.948222
+          ],
+          [
+            10.3312664,
+            123.9482615
+          ],
+          [
+            10.3315231,
+            123.9484063
+          ],
+          [
+            10.331591,
+            123.9484467
+          ]
+        ]
+      },
+      {
+        "id": "A-DM_SW-IN-L1",
+        "approach": "W",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3302683,
+            123.9477384
+          ],
+          [
+            10.3302315,
+            123.9477167
+          ],
+          [
+            10.3299116,
+            123.9475206
+          ],
+          [
+            10.3298358,
+            123.9474736
+          ],
+          [
+            10.3297332,
+            123.9474125
+          ],
+          [
+            10.3296761,
+            123.9473824
+          ],
+          [
+            10.3293212,
+            123.9472154
+          ]
+        ]
+      },
+      {
+        "id": "A-DM_SW-IN-L2",
+        "approach": "W",
+        "width_m": 3.1,
+        "path": [
+          [
+            10.3302538,
+            123.9477626
+          ],
+          [
+            10.3302172,
+            123.947741
+          ],
+          [
+            10.3298972,
+            123.9475449
+          ],
+          [
+            10.3298215,
+            123.9474979
+          ],
+          [
+            10.3297195,
+            123.9474372
+          ],
+          [
+            10.3296643,
+            123.9474081
+          ],
+          [
+            10.3293067,
+            123.9472398
+          ]
+        ]
+      }
+    ],
+    "peers": [
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L1-U05",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L1",
+        "latitude": 10.330511874314237,
+        "longitude": 123.94760185652532
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L1-U30",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L1",
+        "latitude": 10.330629536863448,
+        "longitude": 123.94740711655284
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L1-U60",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L1",
+        "latitude": 10.330773190423395,
+        "longitude": 123.9471749984776
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L2-U05",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L2",
+        "latitude": 10.330535203480128,
+        "longitude": 123.94761739225497
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L2-U30",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L2",
+        "latitude": 10.33065286526125,
+        "longitude": 123.94742265178846
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L2-U60",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L2",
+        "latitude": 10.330796510692075,
+        "longitude": 123.9471905285129
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L3-U05",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L3",
+        "latitude": 10.330558532649922,
+        "longitude": 123.94763292798767
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L3-U30",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L3",
+        "latitude": 10.330676193662281,
+        "longitude": 123.94743818702672
+      },
+      {
+        "id": "PUCK-A-AC_NW_IN-IN-L3-U60",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_IN-IN-L3",
+        "latitude": 10.330819830959811,
+        "longitude": 123.94720605854822
+      },
+      {
+        "id": "PUCK-A-AC_NW_OUT-OUT-L1-D10",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_OUT-OUT-L1",
+        "latitude": 10.330600573220785,
+        "longitude": 123.94763329130743
+      },
+      {
+        "id": "PUCK-A-AC_NW_OUT-OUT-L2-D10",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_OUT-OUT-L2",
+        "latitude": 10.330624199217208,
+        "longitude": 123.94764833886465
+      },
+      {
+        "id": "PUCK-A-AC_NW_OUT-OUT-L3-D10",
+        "role": "sensor",
+        "lane_id": "A-AC_NW_OUT-OUT-L3",
+        "latitude": 10.330647825213592,
+        "longitude": 123.94766338642191
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L1-U05",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L1",
+        "latitude": 10.330399738462017,
+        "longitude": 123.94807601268901
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L1-U30",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L1",
+        "latitude": 10.330280529231118,
+        "longitude": 123.94826977191424
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L1-U60",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L1",
+        "latitude": 10.33013566930123,
+        "longitude": 123.94850113039999
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L2-U05",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L2",
+        "latitude": 10.330375720641495,
+        "longitude": 123.94806161678244
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L2-U30",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L2",
+        "latitude": 10.330256500974606,
+        "longitude": 123.94825536935099
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L2-U60",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L2",
+        "latitude": 10.330111640898723,
+        "longitude": 123.94848672772494
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L3-U05",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L3",
+        "latitude": 10.330351702817621,
+        "longitude": 123.94804722086825
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L3-U30",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L3",
+        "latitude": 10.33023247271961,
+        "longitude": 123.94824096678315
+      },
+      {
+        "id": "PUCK-A-AC_SE_IN-IN-L3-U60",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_IN-IN-L3",
+        "latitude": 10.330087612497639,
+        "longitude": 123.94847232504526
+      },
+      {
+        "id": "PUCK-A-AC_SE_OUT-OUT-L1-D10",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_OUT-OUT-L1",
+        "latitude": 10.330303833939476,
+        "longitude": 123.94804196578751
+      },
+      {
+        "id": "PUCK-A-AC_SE_OUT-OUT-L2-D10",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_OUT-OUT-L2",
+        "latitude": 10.330280314118433,
+        "longitude": 123.94802675056556
+      },
+      {
+        "id": "PUCK-A-AC_SE_OUT-OUT-L3-D10",
+        "role": "sensor",
+        "lane_id": "A-AC_SE_OUT-OUT-L3",
+        "latitude": 10.33025679429748,
+        "longitude": 123.94801153534348
+      },
+      {
+        "id": "PUCK-A-DM_NE-IN-L1-U05",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-IN-L1",
+        "latitude": 10.330675453650338,
+        "longitude": 123.94795674872223
+      },
+      {
+        "id": "PUCK-A-DM_NE-IN-L1-U30",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-IN-L1",
+        "latitude": 10.330870567826853,
+        "longitude": 123.94807028447961
+      },
+      {
+        "id": "PUCK-A-DM_NE-IN-L1-U60",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-IN-L1",
+        "latitude": 10.331106545747874,
+        "longitude": 123.94820321298266
+      },
+      {
+        "id": "PUCK-A-DM_NE-IN-L2-U05",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-IN-L2",
+        "latitude": 10.330689196333948,
+        "longitude": 123.94793209127668
+      },
+      {
+        "id": "PUCK-A-DM_NE-IN-L2-U30",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-IN-L2",
+        "latitude": 10.330884309799908,
+        "longitude": 123.94804562829431
+      },
+      {
+        "id": "PUCK-A-DM_NE-IN-L2-U60",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-IN-L2",
+        "latitude": 10.331120289850546,
+        "longitude": 123.9481785528741
+      },
+      {
+        "id": "PUCK-A-DM_NE-OUT-L1-D10",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-OUT-L1",
+        "latitude": 10.330700587736747,
+        "longitude": 123.94800437361307
+      },
+      {
+        "id": "PUCK-A-DM_NE-OUT-L2-D10",
+        "role": "sensor",
+        "lane_id": "A-DM_NE-OUT-L2",
+        "latitude": 10.330686845137205,
+        "longitude": 123.94802903091056
+      },
+      {
+        "id": "PUCK-A-DM_SW-IN-L1-U05",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-IN-L1",
+        "latitude": 10.330229410957152,
+        "longitude": 123.94771541350369
+      },
+      {
+        "id": "PUCK-A-DM_SW-IN-L1-U30",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-IN-L1",
+        "latitude": 10.3300368716495,
+        "longitude": 123.94759740950593
+      },
+      {
+        "id": "PUCK-A-DM_SW-IN-L1-U60",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-IN-L1",
+        "latitude": 10.329805858421322,
+        "longitude": 123.9474557554947
+      },
+      {
+        "id": "PUCK-A-DM_SW-IN-L2-U05",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-IN-L2",
+        "latitude": 10.33021492705126,
+        "longitude": 123.9477396271881
+      },
+      {
+        "id": "PUCK-A-DM_SW-IN-L2-U30",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-IN-L2",
+        "latitude": 10.33002238767575,
+        "longitude": 123.94762162331013
+      },
+      {
+        "id": "PUCK-A-DM_SW-IN-L2-U60",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-IN-L2",
+        "latitude": 10.32979137365836,
+        "longitude": 123.94747997065116
+      },
+      {
+        "id": "PUCK-A-DM_SW-OUT-L1-D10",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-OUT-L1",
+        "latitude": 10.330205387015036,
+        "longitude": 123.94766759899602
+      },
+      {
+        "id": "PUCK-A-DM_SW-OUT-L2-D10",
+        "role": "sensor",
+        "lane_id": "A-DM_SW-OUT-L2",
+        "latitude": 10.33021987093438,
+        "longitude": 123.94764338528817
+      },
+      {
+        "id": "EV-DEMO-01",
+        "role": "beacon",
+        "latitude": 10.3309,
+        "longitude": 123.9481
+      }
+    ]
+  },
+  "controller_id": "CTRL-A",
+  "esp_now_channel": 6,
+  "timing": {
+    "min_green_s": 10,
+    "max_green_s": 30,
+    "fixed_green_s": 20,
+    "yellow_s": 3,
+    "all_red_s": 2,
+    "pedestrian_service_s": 7,
+    "pedestrian_max_wait_s": 90,
+    "heartbeat_s": 1,
+    "heartbeat_timeout_s": 5,
+    "recovery_stable_s": 60,
+    "downstream_capacity_veh": 18
+  },
+  "model": "pressure-v0",
+  "security_mode": "simulation",
+  "output_mode": "serial-only",
+  "radio_capacity_resolved": false,
+  "firmware_version": "0.1.0"
+}

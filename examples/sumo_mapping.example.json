@@ -1,0 +1,108 @@
+{
+  "schema": "pasada.sumo-mapping/0.1.0",
+  "provenance": {
+    "calibrated": false,
+    "description": "REPLACE with the actual demand/calibration lineage of the existing SUMO study."
+  },
+  "intersections": [
+    {
+      "project_intersection_id": "J-A",
+      "sumo_tls_id": "REPLACE_WITH_SUMO_TLS_FOR_J-A",
+      "approach_lanes": {
+        "N": [
+          "REPLACE_J-A_N_IN_LANE"
+        ],
+        "E": [
+          "REPLACE_J-A_E_IN_LANE"
+        ],
+        "S": [
+          "REPLACE_J-A_S_IN_LANE"
+        ],
+        "W": [
+          "REPLACE_J-A_W_IN_LANE"
+        ]
+      },
+      "exit_lanes": {
+        "N": [
+          "REPLACE_J-A_N_OUT_LANE"
+        ],
+        "E": [
+          "REPLACE_J-A_E_OUT_LANE"
+        ],
+        "S": [
+          "REPLACE_J-A_S_OUT_LANE"
+        ],
+        "W": [
+          "REPLACE_J-A_W_OUT_LANE"
+        ]
+      },
+      "phase_labels": {}
+    },
+    {
+      "project_intersection_id": "J-B",
+      "sumo_tls_id": "REPLACE_WITH_SUMO_TLS_FOR_J-B",
+      "approach_lanes": {
+        "N": [
+          "REPLACE_J-B_N_IN_LANE"
+        ],
+        "E": [
+          "REPLACE_J-B_E_IN_LANE"
+        ],
+        "S": [
+          "REPLACE_J-B_S_IN_LANE"
+        ],
+        "W": [
+          "REPLACE_J-B_W_IN_LANE"
+        ]
+      },
+      "exit_lanes": {
+        "N": [
+          "REPLACE_J-B_N_OUT_LANE"
+        ],
+        "E": [
+          "REPLACE_J-B_E_OUT_LANE"
+        ],
+        "S": [
+          "REPLACE_J-B_S_OUT_LANE"
+        ],
+        "W": [
+          "REPLACE_J-B_W_OUT_LANE"
+        ]
+      },
+      "phase_labels": {}
+    },
+    {
+      "project_intersection_id": "J-C",
+      "sumo_tls_id": "REPLACE_WITH_SUMO_TLS_FOR_J-C",
+      "approach_lanes": {
+        "N": [
+          "REPLACE_J-C_N_IN_LANE"
+        ],
+        "E": [
+          "REPLACE_J-C_E_IN_LANE"
+        ],
+        "S": [
+          "REPLACE_J-C_S_IN_LANE"
+        ],
+        "W": [
+          "REPLACE_J-C_W_IN_LANE"
+        ]
+      },
+      "exit_lanes": {
+        "N": [
+          "REPLACE_J-C_N_OUT_LANE"
+        ],
+        "E": [
+          "REPLACE_J-C_E_OUT_LANE"
+        ],
+        "S": [
+          "REPLACE_J-C_S_OUT_LANE"
+        ],
+        "W": [
+          "REPLACE_J-C_W_OUT_LANE"
+        ]
+      },
+      "phase_labels": {}
+    }
+  ]
+}

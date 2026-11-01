@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#122c49"><meta name="description" content="PASADA: plan installations, simulate provisioning, monitor three intersections on clean geographic road geometry, and review repeatable traffic scenarios."><title>PASADA · Traffic Command Center</title><link rel="stylesheet" href="./vendor/leaflet.css"><link rel="stylesheet" href="./style.css"><link rel="stylesheet" href="./study-replay.css"><script src="./vendor/leaflet.js" defer></script><script type="module" src="./app.js"></script></head>
+<body>
+ <aside class="sidebar"><a class="brand" href="#operations" aria-label="PASADA home"><span class="brand-mark"><i></i><i></i><i></i></span><span>PASADA<small>LOCAL CONTROL. CONNECTED CITY.</small></span></a>
+ <div class="team-sidebar"><b>T.E.A.M.</b><span>TRAFFIC ENFORCEMENT<br>AGENCY OF MANDAUE</span><small>COMMAND & CONTROL</small></div><div class="nav-label">TRAFFIC WORKSPACE</div><nav aria-label="Main navigation">
+ <button data-view="operations" class="nav active"><span>◉</span> Control center <b>01</b></button>
+ <button data-view="vehicles" class="nav"><span>◇</span> Emergency fleet <b>02</b></button>
+ <button data-view="installer" class="nav"><span>⊞</span> Installation <b>03</b></button>
+ <button data-view="replays" class="nav"><span>▷</span> Study replays <b>04</b></button>
+ <details class="nav-secondary"><summary>Tools & reference</summary><a class="nav" href="./study/"><span>▥</span> Study results ↗</a><button data-view="experiments" class="nav"><span>≋</span> Experiments</button><a class="nav" href="./data/"><span>↓</span> Public traffic data ↗</a></details></nav>
+ <div class="sidebar-support"><button class="text-light" id="tour">? Quick guide</button><span>PASADA · Mandaue City</span></div></aside>
+ <div class="workspace"><header class="topbar"><div class="breadcrumb">PASADA <span>/</span> <strong id="view-title">Control center</strong></div><div class="header-actions"><span id="source-badge" class="badge amber">Simulation</span><details class="workspace-menu"><summary>Workspace ⌄</summary><div><button id="import" class="button small">Import project / replay</button><button id="export-project" class="button small">Export project ↗</button></div></details></div></header>
+ <main id="main"></main><footer class="page-footer"><span>PASADA · A. Soriano Avenue</span><span>Workspace saved in this browser</span></footer></div>
+ <input type="file" id="file-input" accept=".json,application/json" hidden><div id="toast" role="status" aria-live="polite"></div><dialog id="dialog"><div id="dialog-content"></div><button id="close-dialog" class="button">Close</button></dialog>
+</body></html>
