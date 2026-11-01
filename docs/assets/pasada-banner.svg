@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">PASADA</title>
+  <desc id="desc">A small smiling traffic signal, road sensors and an ambulance frame the PASADA research repository.</desc>
+  <rect width="1200" height="270" rx="22" fill="#122c49"/>
+  <path d="M22 0H1178Q1200 0 1200 22V6H0V22Q0 0 22 0" fill="#d7b878"/>
+  <circle cx="106" cy="94" r="91" fill="#193852"/>
+  <circle cx="1088" cy="159" r="117" fill="#193852"/>
+  <path d="M0 224H1200V270H0Z" fill="#0c223a"/>
+  <path d="M0 246H1200" stroke="#71869b" stroke-width="3" stroke-dasharray="26 20"/>
+  <path d="M0 222H1200" stroke="#36536c" stroke-width="2"/>
+  <!-- Friendly traffic signal -->
+  <rect x="113" y="181" width="14" height="45" rx="5" fill="#70869b"/>
+  <rect x="83" y="43" width="74" height="147" rx="25" fill="#0c2036" stroke="#526c80" stroke-width="3"/>
+  <circle cx="120" cy="75" r="17" fill="#8b4b4d"/>
+  <circle cx="120" cy="116" r="17" fill="#a18c59"/>
+  <circle cx="120" cy="157" r="21" fill="#8dceb1"/>
+  <circle cx="113" cy="154" r="2.3" fill="#16394a"/>
+  <circle cx="127" cy="154" r="2.3" fill="#16394a"/>
+  <path d="M113 163Q120 170 127 163" fill="none" stroke="#16394a" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M68 140L56 146M168 140L180 146" stroke="#d7b878" stroke-width="3" stroke-linecap="round"/>
+  <!-- Lane sensors, kept purely decorative -->
+  <g fill="#e6c67f" stroke="#102b45" stroke-width="3">
+    <ellipse cx="198" cy="245" rx="11" ry="5"/>
+    <ellipse cx="244" cy="245" rx="11" ry="5"/>
+    <ellipse cx="290" cy="245" rx="11" ry="5"/>
+  </g>
+  <text x="569" y="121" fill="#f8faf9" font-family="DejaVu Sans,Arial,sans-serif" font-size="68" font-weight="bold" text-anchor="middle" letter-spacing="6">PASADA</text>
+  <text x="569" y="156" fill="#d7b878" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="3">C2C / SIMULATIONS / STUDY EVIDENCE</text>
+  <path d="M507 181H631" stroke="#49677b" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="548" cy="181" r="3" fill="#8dceb1"/>
+  <circle cx="569" cy="181" r="3" fill="#d7b878"/>
+  <circle cx="590" cy="181" r="3" fill="#87b6cc"/>
+  <!-- Compact ambulance -->
+  <path d="M915 211H898M917 194H887" stroke="#87b6cc" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+  <rect x="933" y="132" width="177" height="86" rx="19" fill="#eef4f3"/>
+  <path d="M1043 132H1076Q1088 132 1096 146L1110 169V196H1043Z" fill="#eef4f3"/>
+  <path d="M1057 146H1077Q1080 146 1085 155L1094 171H1057Z" fill="#87b6cc"/>
+  <path d="M937 188H1106" stroke="#d09a7b" stroke-width="7"/>
+  <rect x="980" y="117" width="38" height="15" rx="6" fill="#a7cbd8"/>
+  <path d="M985 117H998V132H985Q980 132 980 127V122Q980 117 985 117" fill="#e19584"/>
+  <path d="M999 104V97M976 110L971 104M1022 110L1027 104" stroke="#d7b878" stroke-width="3" stroke-linecap="round"/>
+  <path d="M985 148H997V159H1008V171H997V182H985V171H974V159H985Z" fill="#d58375"/>
+  <rect x="1100" y="180" width="10" height="10" rx="3" fill="#e6c67f"/>
+  <circle cx="970" cy="218" r="17" fill="#081d32" stroke="#47627a" stroke-width="3"/>
+  <circle cx="970" cy="218" r="7" fill="#b4ccd3"/>
+  <circle cx="1073" cy="218" r="17" fill="#081d32" stroke="#47627a" stroke-width="3"/>
+  <circle cx="1073" cy="218" r="7" fill="#b4ccd3"/>
+</svg>
