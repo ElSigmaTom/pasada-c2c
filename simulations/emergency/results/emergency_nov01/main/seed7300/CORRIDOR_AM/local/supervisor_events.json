@@ -1,0 +1,6200 @@
+{
+  "J1": [
+    {
+      "time": 40.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 44.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 48.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 156.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 160.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 164.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 175.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 179.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 183.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 250.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 254.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 258.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 270.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 274.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 278.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 386.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 390.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 394.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 405.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 409.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 413.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 470.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 474.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 478.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 490.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 494.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 498.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 545.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 549.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 553.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 565.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 569.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 573.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 640.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 644.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 648.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 660.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 664.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 668.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 700.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 704.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 708.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 720.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 724.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 728.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 780.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 784.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 788.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 800.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 804.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 808.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 916.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 920.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 924.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 935.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 939.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 943.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1052.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1056.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1060.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1070.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1074.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1078.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1105.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1109.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1113.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1125.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1129.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1133.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1185.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1189.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1193.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1205.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1209.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1213.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1255.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1259.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1263.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1275.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1279.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1283.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1325.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1329.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1333.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1345.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1349.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1353.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1415.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1419.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1423.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1435.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1439.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1443.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1552.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1556.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1560.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1570.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1574.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1578.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1610.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1614.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1618.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1630.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1634.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1638.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1705.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1709.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1713.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1725.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1729.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1733.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1770.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1774.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1778.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1790.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1794.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1798.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1855.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1859.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1863.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1875.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1879.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1883.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1920.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1924.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1928.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1940.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1944.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1948.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1995.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1999.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2003.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2015.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2019.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2023.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2065.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2069.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2073.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2085.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2089.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2093.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2150.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2154.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2158.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2170.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2174.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2178.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2210.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2214.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2218.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2230.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2234.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2238.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2300.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2304.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2308.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2320.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2324.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2328.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2355.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2359.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2363.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2375.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2379.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2383.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2445.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2449.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2453.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2465.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2469.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2473.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2505.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2509.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2513.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2525.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2529.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2533.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2590.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2594.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2598.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2610.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2614.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2618.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2675.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2679.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2683.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2695.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2699.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2703.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2812.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2816.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2820.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2830.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2834.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2838.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2895.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2899.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2903.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2915.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2919.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2923.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2985.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2989.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2993.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3005.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3009.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3013.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3080.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3084.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3088.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3100.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3104.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3108.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3145.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3149.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3153.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3165.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3169.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3173.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3195.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3199.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3203.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3215.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3219.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3223.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3270.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3274.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3278.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3290.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3294.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3298.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3365.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3369.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3373.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3385.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3389.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3393.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3502.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3506.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3510.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3520.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3524.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3528.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3555.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3559.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3563.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3575.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3579.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3583.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3692.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3696.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3700.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3710.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3714.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3718.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3750.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3754.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3758.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3770.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3774.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3778.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3887.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3891.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3895.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3905.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3909.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3913.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3945.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3949.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3953.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3965.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3969.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3973.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4035.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4039.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4043.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4055.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4059.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4063.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4125.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4129.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4133.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4145.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4149.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4153.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    }
+  ],
+  "J2": [
+    {
+      "time": 25.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 29.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 33.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 82.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 86.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 90.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 100.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 104.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 108.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 157.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 161.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 165.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 175.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 179.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 183.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 232.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 236.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 240.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 250.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 254.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 258.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 307.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 311.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 315.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 325.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 329.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 333.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 382.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 386.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 390.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 400.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 404.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 408.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 457.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 461.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 465.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 475.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 479.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 483.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 520.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 524.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 528.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 540.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 544.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 548.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 597.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 601.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 605.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 615.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 619.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 623.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 655.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 659.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 663.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 675.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 679.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 683.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 732.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 736.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 740.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 750.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 754.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 758.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 795.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 799.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 803.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 815.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 819.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 823.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 860.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 864.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 868.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 880.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 884.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 888.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 937.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 941.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 945.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 955.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 959.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 963.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1012.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1016.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1020.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1030.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1034.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1038.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1087.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1091.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1095.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1105.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1109.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1113.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1162.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1166.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1170.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1180.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1184.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1188.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1237.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1241.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1245.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1255.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1259.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1263.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1312.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1316.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1320.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1330.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1334.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1338.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1387.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1391.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1395.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1405.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1409.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1413.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1462.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1466.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1470.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1480.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1484.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1488.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1537.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1541.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1545.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1555.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1559.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1563.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1612.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1616.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1620.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1630.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1634.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1638.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1687.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1691.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1695.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1705.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1709.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1713.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1760.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1764.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1768.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1780.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1784.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1788.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1837.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1841.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1845.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1855.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1859.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1863.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1912.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1916.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1920.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1950.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1954.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1958.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1995.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1999.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2003.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2015.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2019.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2023.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2072.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2076.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2080.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2090.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2094.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2098.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2135.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2139.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2143.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2155.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2159.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2163.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2210.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2214.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2218.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2230.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2234.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2238.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2265.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2269.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2273.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2285.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2289.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2293.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2315.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2319.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2323.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2335.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2339.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2343.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2392.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2396.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2400.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2410.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2414.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2418.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2445.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2449.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2453.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2465.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2469.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2473.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2522.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2526.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2530.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2540.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2544.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2548.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2590.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2594.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2598.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2610.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2614.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2618.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2667.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2671.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2675.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2705.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2709.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2713.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2725.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2729.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2733.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2745.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2749.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2753.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2802.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2806.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2810.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2820.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2824.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2828.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2877.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2881.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2885.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2895.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2899.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2903.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2952.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2956.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2960.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2970.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2974.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2978.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3027.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3031.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3035.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3045.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3049.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3053.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3070.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3074.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3078.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3095.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3099.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3103.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3152.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3156.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3160.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3170.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3174.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3178.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3227.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3231.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3235.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3245.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3249.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3253.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3270.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3274.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3278.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3290.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3294.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3298.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3347.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3351.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3355.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3365.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3369.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3373.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3422.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3426.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3430.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3440.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3444.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3448.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3497.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3501.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3505.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3515.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3519.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3523.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3572.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3576.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3580.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3590.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3594.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3598.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3647.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3651.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3655.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3665.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3669.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3673.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3722.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3726.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3730.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3740.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3744.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3748.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3797.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3801.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3805.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3815.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3819.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3823.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3872.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3876.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3880.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3890.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3894.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3898.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3947.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3951.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3955.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3965.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3969.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3973.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4010.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4014.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4018.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4030.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4034.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4038.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4087.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 4091.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4095.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4105.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4109.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4113.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4125.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4129.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4133.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4145.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4149.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4153.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    }
+  ],
+  "J3": [
+    {
+      "time": 15.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 19.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 23.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 72.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 76.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 80.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 90.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 94.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 98.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 147.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 151.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 155.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 165.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 169.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 173.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 205.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 209.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 213.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 225.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 229.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 233.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 275.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 279.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 283.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 295.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 299.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 303.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 325.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 329.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 333.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 345.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 349.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 353.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 402.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 406.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 410.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 420.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 424.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 428.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 440.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 444.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 448.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 460.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 464.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 468.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 517.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 521.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 525.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 535.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 539.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 543.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 560.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 564.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 568.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 580.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 584.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 588.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 637.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 641.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 645.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 655.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 659.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 663.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 675.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 679.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 683.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 695.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 699.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 703.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 752.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 756.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 760.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 770.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 774.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 778.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 790.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 794.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 798.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 828.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 832.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 836.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 885.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 889.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 893.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 905.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 909.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 913.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 925.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 929.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 933.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 963.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 967.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 971.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1020.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1024.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1028.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1040.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1044.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1048.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1060.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1064.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1068.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1080.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1084.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1088.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1137.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1141.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1145.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1155.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1159.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1163.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1175.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1179.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1183.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1213.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1217.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1221.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1270.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1274.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1278.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1290.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1294.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1298.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1315.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1319.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1323.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1335.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1339.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1343.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1392.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1396.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1400.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1410.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1414.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1418.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1430.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1434.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1438.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1450.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1454.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1458.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1507.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1511.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1515.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1525.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1529.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1533.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1545.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1549.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1553.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1570.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1574.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1578.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1627.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1631.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1635.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1645.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1649.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1653.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1665.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1669.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1673.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1685.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1689.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1693.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1742.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1746.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1750.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1760.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1764.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1768.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1785.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1789.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1793.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1823.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1827.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1831.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1880.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 1884.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1888.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1900.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1904.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1908.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1920.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1924.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1928.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1940.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 1944.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1948.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1997.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2001.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2005.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2015.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2019.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2023.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2040.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2044.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2048.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2078.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2082.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2086.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2135.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2139.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2143.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2155.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2159.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2163.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2180.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2184.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2188.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2218.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2222.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2226.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2275.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2279.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2283.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2295.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2299.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2303.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2315.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2319.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2323.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2353.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2357.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2361.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2410.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2414.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2418.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2430.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2434.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2438.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2460.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2464.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2468.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2480.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2484.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2488.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2525.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2529.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2533.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2545.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2549.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2553.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2575.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2579.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2583.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2595.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2599.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2603.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2652.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2656.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2660.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2670.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2674.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2678.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2690.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2694.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2698.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2710.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2714.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2718.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2767.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2771.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2775.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2785.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2789.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2793.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2815.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2819.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2823.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2835.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2839.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2843.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2892.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2896.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2900.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2910.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2914.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2918.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2940.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 2944.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2948.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2978.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 2982.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2986.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3035.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3039.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3043.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3055.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3059.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3063.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3085.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3089.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3093.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3110.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3114.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3118.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3167.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3171.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3175.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3185.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3189.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3193.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3205.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3209.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3213.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3243.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3247.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3251.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3300.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3304.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3308.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3320.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3324.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3328.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3345.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3349.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3353.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3365.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3369.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3373.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3422.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3426.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3430.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3440.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3444.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3448.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3470.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3474.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3478.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3490.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3494.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3498.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3547.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3551.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3555.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3565.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3569.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3573.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3585.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3589.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3593.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3605.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3609.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3613.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3662.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3666.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3670.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3680.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3684.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3688.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3700.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3704.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3708.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3735.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3739.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3743.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3792.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3796.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3800.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3810.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3814.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3818.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3830.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3834.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3838.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3868.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3872.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3876.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3925.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 3929.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3933.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3945.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3949.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3953.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3965.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3969.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3973.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3985.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 3989.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3993.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4042.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 4046.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4050.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4060.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4064.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4068.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4090.0,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "policy advance"
+    },
+    {
+      "time": 4094.0,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4098.0,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4128.0,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 4132.0,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4136.0,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4185.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "maximum green"
+    },
+    {
+      "time": 4189.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4193.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    }
+  ]
+}

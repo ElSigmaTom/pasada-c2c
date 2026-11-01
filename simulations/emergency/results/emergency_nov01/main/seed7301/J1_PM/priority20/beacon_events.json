@@ -1,0 +1,16 @@
+[
+  {
+    "time_s": 4326.0,
+    "site": "J1",
+    "kind": "qualified_request",
+    "stage": 2,
+    "cap_s": 20.0
+  },
+  {
+    "time_s": 4346.0,
+    "site": "J1",
+    "kind": "release",
+    "reason": "encounter_cap",
+    "stage": 2
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "case": "J3_AM",
+  "mode": "fixed",
+  "seed": 7101,
+  "original_metric_differences": {},
+  "missing_completed_trip_measurements": [],
+  "n_local_passages": 1908,
+  "n_open_local_passages": 223,
+  "valid": true
+}

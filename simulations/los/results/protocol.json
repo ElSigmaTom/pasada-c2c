@@ -1,0 +1,51 @@
+{
+  "version": "local-trajectory-delay-2026-11-01-v1",
+  "frozen_before_batch": true,
+  "runtime": "SUMO 1.28.0",
+  "observation_step_s": 0.5,
+  "method": "Differences of cumulative per-vehicle timeLoss between route-specific local entry and exit boundaries. Passive subscriptions do not alter the original inputs or decision rule.",
+  "requested_upstream_normal_edge_distance_m": 200,
+  "requested_downstream_m": 50,
+  "entry_truncation": "At network origin or previous signal. Vehicles born inside an area are tracked from actual insertion with initial timeLoss zero.",
+  "exit_truncation": "At available outgoing-edge end or actual route end; exact boundaries retained for every route.",
+  "study_exit_window_s": [
+    600,
+    4200
+  ],
+  "aggregation": "Within each run, volume-weight all completed local passage time losses at each site. Report run-level means and sample SD across seeds; map the reported mean to signalized LOS delay thresholds.",
+  "open_passages": "Retain every entered but unfinished local passage and its accumulated loss; not inserted demand remains in the original all-demand ledger.",
+  "seeds": [
+    7100,
+    7101,
+    7102
+  ],
+  "cases": [
+    "J1_AM",
+    "J1_PM",
+    "J2_AM",
+    "J2_PM",
+    "J3_AM",
+    "J3_PM",
+    "CORRIDOR_AM",
+    "CORRIDOR_PM"
+  ],
+  "controllers": [
+    "fixed",
+    "rule"
+  ],
+  "reproduction_acceptance": "Existing accepted journey, completion, active, uninserted, collision and teleport results must match; every completed trip visiting a target approach must have a local passage record.",
+  "classification_scope": "Simulation-based bounded-area LOS estimate only, not an independently field-calibrated HCM capacity analysis.",
+  "limitations": [
+    "Sub-step boundary interpolation is approximate; source-born and route-ending vehicles use insertion/arrival counters.",
+    "Time loss can include non-signal interaction and junction geometry; truncated areas can omit external queues or acceleration.",
+    "LOS of cleared local passages does not include vehicles unable to enter or clear the measured area.",
+    "Do not average grades or infer a corridor LOS from network travel time."
+  ],
+  "dependency_recovery": {
+    "package": "LEAR_SUMO_Simulations_GitHub_Ready.zip",
+    "file": "audit/reference_signal_stages.csv",
+    "sha256": "50248d8cbdf9ec331164f8557e004941e41a860f19af23a0316a7995208c4968"
+  },
+  "source_package": "PASADA_Matched_SUMO_Comparison.zip",
+  "source_package_sha256": "951a4ab99755fd83080007e56ffc770f6dbf0c115c161c5b9c17d325dda4160e"
+}

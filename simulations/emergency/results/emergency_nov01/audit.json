@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "runs": 78,
+  "main_runs": 72,
+  "cap_sensitivity_runs": 6,
+  "EVs_completed": 78,
+  "collisions": 0,
+  "teleports": 0,
+  "wrong_approach_matches": 0,
+  "unverified_matches": 0,
+  "late_first_matches": [],
+  "phase_checks": "Native event states checked independently: minimum green, full yellow/all-red, request-bound priority jumps and cyclic ordinary return.",
+  "physical_authentication_or_radio_test": false
+}

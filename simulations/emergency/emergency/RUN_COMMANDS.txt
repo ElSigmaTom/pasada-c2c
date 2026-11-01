@@ -1,0 +1,4 @@
+python emergency/run_study.py --case CORRIDOR_AM --arm fixed --seed 7300 --tag replay --gui
+python emergency/run_study.py --case CORRIDOR_AM --arm local --seed 7300 --tag replay --gui
+python emergency/run_study.py --case CORRIDOR_AM --arm priority20 --seed 7300 --tag replay --gui
+python emergency/run_study.py --case J3_AM --arm priority60 --seed 7300 --tag replay --gui

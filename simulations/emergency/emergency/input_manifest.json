@@ -1,0 +1,60 @@
+{
+  "network_route": "CORRIDOR_r046",
+  "isolated_movements": {
+    "J1": "J1_m00",
+    "J2": "J2_m03",
+    "J3": "J3_m08"
+  },
+  "dispatch_s": 1800,
+  "selection": "Shortest existing simple three-site journey containing A. Soriano/Ouano through movement; local probes use its matching movement visits. Selected geometrically before performance runs.",
+  "cases": {
+    "J1_AM": {
+      "probe_route": "J1_m00",
+      "original_scheduled": 9680,
+      "with_probe": 9681,
+      "route_sha256": "5fbec51d5c930fd25b7b0f0c8ad1057b63537d2977476837c7858cd2769700ff"
+    },
+    "J1_PM": {
+      "probe_route": "J1_m00",
+      "original_scheduled": 7243,
+      "with_probe": 7244,
+      "route_sha256": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66"
+    },
+    "J2_AM": {
+      "probe_route": "J2_m03",
+      "original_scheduled": 4177,
+      "with_probe": 4178,
+      "route_sha256": "f3cb169e6a9b472a82a24fe68c872bcfc7b73567b49e44e53878390f6151101a"
+    },
+    "J2_PM": {
+      "probe_route": "J2_m03",
+      "original_scheduled": 5766,
+      "with_probe": 5767,
+      "route_sha256": "9874d8b0cf47de9a83693528732461d605e8e994f3ccf9bd2a5829b4369c997e"
+    },
+    "J3_AM": {
+      "probe_route": "J3_m08",
+      "original_scheduled": 6508,
+      "with_probe": 6509,
+      "route_sha256": "eb7b6cdf2b346b4ed8f5ec085e1e66fa8740f1fd480b8db2c30fb98d10d2e378"
+    },
+    "J3_PM": {
+      "probe_route": "J3_m08",
+      "original_scheduled": 7062,
+      "with_probe": 7063,
+      "route_sha256": "9f7903f767afc7562bac818c75ea2f043e32052d203fdffc1f0562d8e2a7c952"
+    },
+    "CORRIDOR_AM": {
+      "probe_route": "CORRIDOR_r046",
+      "original_scheduled": 18154,
+      "with_probe": 18155,
+      "route_sha256": "f35a23c3f389cd433f9c6b45005f65bb1f4b9353ba028f865275943d5ab961b6"
+    },
+    "CORRIDOR_PM": {
+      "probe_route": "CORRIDOR_r046",
+      "original_scheduled": 17215,
+      "with_probe": 17216,
+      "route_sha256": "7921e03dc0578eb613b87af2a2eb34614eb4819527bf7e6fcaf6cade6cc8633d"
+    }
+  }
+}

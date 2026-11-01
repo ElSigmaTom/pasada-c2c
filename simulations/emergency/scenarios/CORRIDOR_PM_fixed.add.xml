@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <tlLogic id="J1" type="static" programID="FIXED_REFERENCE_PM_V2" offset="0">
+    <phase duration="89.0" state="GGGGrrrrrrrrrrrrrr" name="J1_stage0_green" />
+    <phase duration="4" state="yyyyrrrrrrrrrrrrrr" name="J1_stage0_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage0_all_red" />
+    <phase duration="103.0" state="rrrrGGGGGrrrrrrrrr" name="J1_stage1_green" />
+    <phase duration="4" state="rrrryyyyyrrrrrrrrr" name="J1_stage1_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage1_all_red" />
+    <phase duration="51.0" state="rrrrrrrrrGGGGrrrrr" name="J1_stage2_green" />
+    <phase duration="4" state="rrrrrrrrryyyyrrrrr" name="J1_stage2_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage2_all_red" />
+    <phase duration="103.0" state="rrrrrrrrrrrrrGGGGG" name="J1_stage3_green" />
+    <phase duration="4" state="rrrrrrrrrrrrryyyyy" name="J1_stage3_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage3_all_red" />
+  </tlLogic>
+  <tlLogic id="cluster_13480124955_581850114" type="static" programID="FIXED_REFERENCE_PM_V2" offset="0">
+    <phase duration="15.5" state="GGGGGGrrrrrrrrrrrrrrrrrrrr" name="J2_stage0_green" />
+    <phase duration="4" state="yyyyyyrrrrrrrrrrrrrrrrrrrr" name="J2_stage0_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J2_stage0_all_red" />
+    <phase duration="40.0" state="rrrrrrrrrrrGGGGGrrrrrrrrrr" name="J2_stage1_green" />
+    <phase duration="4" state="rrrrrrrrrrryyyyyrrrrrrrrrr" name="J2_stage1_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J2_stage1_all_red" />
+    <phase duration="13.5" state="rrrrrrrrrrrrrrrrGGGGGrrrrr" name="J2_stage2_green" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrryyyyyrrrrr" name="J2_stage2_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J2_stage2_all_red" />
+    <phase duration="40.0" state="rrrrrrrrrrrrrrrrrrrrrGGGGG" name="J2_stage3_green" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrryyyyy" name="J2_stage3_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J2_stage3_all_red" />
+  </tlLogic>
+  <tlLogic id="J3" type="static" programID="FIXED_REFERENCE_PM_V2" offset="0">
+    <phase duration="17.0" state="GGGGGGGrrrrrrrrrrrrrrrrrrr" name="J3_stage0_green" />
+    <phase duration="4" state="yyyyyyyrrrrrrrrrrrrrrrrrrr" name="J3_stage0_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J3_stage0_all_red" />
+    <phase duration="74.5" state="rrrrrrrrrrrGGGGrrrrrrrrrrr" name="J3_stage1_green" />
+    <phase duration="4" state="rrrrrrrrrrryyyyrrrrrrrrrrr" name="J3_stage1_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J3_stage1_all_red" />
+    <phase duration="18.5" state="rrrrrrrrrrrrrrrGGGGGGrrrrr" name="J3_stage2_green" />
+    <phase duration="4" state="rrrrrrrrrrrrrrryyyyyyrrrrr" name="J3_stage2_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J3_stage2_all_red" />
+    <phase duration="72.0" state="rrrrrrrrrrrrrrrrrrrrrGGGGG" name="J3_stage3_green" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrryyyyy" name="J3_stage3_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="J3_stage3_all_red" />
+  </tlLogic>
+</additional>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration>
+  <input>
+    <net-file value="../../../../../../network/mandaue.net.xml" />
+    <route-files value="../../../../../../emergency/inputs/CORRIDOR_PM/scenarios/CORRIDOR_PM.rou.xml" />
+    <additional-files value="../../../../../../scenarios/CORRIDOR_PM_fixed.add.xml,../../../../../../network/study_locations.add.xml,pucks.add.xml" />
+  </input>
+  <time>
+    <begin value="0" />
+    <end value="14400" />
+    <step-length value="0.5" />
+  </time>
+  <processing>
+    <scale value="1" />
+    <lateral-resolution value="-1" />
+    <time-to-teleport value="-1" />
+    <collision.action value="warn" />
+    <collision.check-junctions value="true" />
+  </processing>
+  <output>
+    <tripinfo-output value="tripinfo.xml" />
+    <tripinfo-output.write-unfinished value="true" />
+    <tripinfo-output.write-undeparted value="true" />
+    <summary-output value="summary.xml" />
+    <summary-output.period value="10" />
+    <collision-output value="collisions.xml" />
+  </output>
+  <report>
+    <no-step-log value="true" />
+    <duration-log.statistics value="true" />
+    <error-log value="warnings.log" />
+  </report>
+  <random_number>
+    <seed value="7302" />
+  </random_number>
+  <gui_only>
+    <gui-settings-file value="../../../../../../scenarios/CORRIDOR_view.xml" />
+  </gui_only>
+</configuration>

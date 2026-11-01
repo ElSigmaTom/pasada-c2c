@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "J1_m00",
+    "from_gateway": "-97908348#1",
+    "to_gateway": "-52253090#1",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "through",
+    "approach_lanes": 2,
+    "edges": [
+      "-238044525#2",
+      "-238044525#0",
+      "-97908348#3",
+      "-97908348#2",
+      "-97908348#1",
+      "-52253090#1",
+      "-1422961438",
+      "-894061264#8",
+      "-894061264#6",
+      "-894061264#5",
+      "-894061264#4",
+      "-894061264#3",
+      "-894061264#2",
+      "-894061264#1",
+      "-894061264#0"
+    ],
+    "origin_buffer_length_m": 281.1,
+    "exit_buffer_length_m": 180.67,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m01",
+    "from_gateway": "-97908348#1",
+    "to_gateway": "725235886#0",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "A.C. Cortes Avenue",
+    "turn": "right",
+    "approach_lanes": 2,
+    "edges": [
+      "-238044525#2",
+      "-238044525#0",
+      "-97908348#3",
+      "-97908348#2",
+      "-97908348#1",
+      "725235886#0",
+      "725235886#1"
+    ],
+    "origin_buffer_length_m": 281.1,
+    "exit_buffer_length_m": 328.64,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m02",
+    "from_gateway": "-97908348#1",
+    "to_gateway": "97908347#0",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "A.C. Cortes Avenue",
+    "turn": "left",
+    "approach_lanes": 2,
+    "edges": [
+      "-238044525#2",
+      "-238044525#0",
+      "-97908348#3",
+      "-97908348#2",
+      "-97908348#1",
+      "97908347#0",
+      "97908347#1",
+      "921916213#1"
+    ],
+    "origin_buffer_length_m": 281.1,
+    "exit_buffer_length_m": 218.97,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m03",
+    "from_gateway": "52253090#0",
+    "to_gateway": "725235886#0",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "A.C. Cortes Avenue",
+    "turn": "left",
+    "approach_lanes": 2,
+    "edges": [
+      "894061264#0",
+      "894061264#1",
+      "894061264#2",
+      "894061264#3",
+      "894061264#4",
+      "894061264#5",
+      "894061264#6",
+      "894061264#8",
+      "1422961438",
+      "52253090#0",
+      "725235886#0",
+      "725235886#1"
+    ],
+    "origin_buffer_length_m": 181.19,
+    "exit_buffer_length_m": 328.64,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m04",
+    "from_gateway": "52253090#0",
+    "to_gateway": "97908347#0",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "A.C. Cortes Avenue",
+    "turn": "right",
+    "approach_lanes": 2,
+    "edges": [
+      "894061264#0",
+      "894061264#1",
+      "894061264#2",
+      "894061264#3",
+      "894061264#4",
+      "894061264#5",
+      "894061264#6",
+      "894061264#8",
+      "1422961438",
+      "52253090#0",
+      "97908347#0",
+      "97908347#1",
+      "921916213#1"
+    ],
+    "origin_buffer_length_m": 181.19,
+    "exit_buffer_length_m": 218.97,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m05",
+    "from_gateway": "52253090#0",
+    "to_gateway": "97908348#0",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "through",
+    "approach_lanes": 2,
+    "edges": [
+      "894061264#0",
+      "894061264#1",
+      "894061264#2",
+      "894061264#3",
+      "894061264#4",
+      "894061264#5",
+      "894061264#6",
+      "894061264#8",
+      "1422961438",
+      "52253090#0",
+      "97908348#0",
+      "97908348#2",
+      "97908348#3",
+      "238044525#0",
+      "238044525#2"
+    ],
+    "origin_buffer_length_m": 181.19,
+    "exit_buffer_length_m": 280.37,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m06",
+    "from_gateway": "921916210#1",
+    "to_gateway": "-52253090#1",
+    "from_road": "A.C. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "left",
+    "approach_lanes": 3,
+    "edges": [
+      "921916210#1",
+      "-52253090#1",
+      "-1422961438",
+      "-894061264#8",
+      "-894061264#6",
+      "-894061264#5",
+      "-894061264#4",
+      "-894061264#3",
+      "-894061264#2",
+      "-894061264#1",
+      "-894061264#0"
+    ],
+    "origin_buffer_length_m": 234.54,
+    "exit_buffer_length_m": 180.67,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m07",
+    "from_gateway": "921916210#1",
+    "to_gateway": "725235886#0",
+    "from_road": "A.C. Cortes Avenue",
+    "to_road": "A.C. Cortes Avenue",
+    "turn": "through",
+    "approach_lanes": 3,
+    "edges": [
+      "921916210#1",
+      "725235886#0",
+      "725235886#1"
+    ],
+    "origin_buffer_length_m": 234.54,
+    "exit_buffer_length_m": 328.64,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m08",
+    "from_gateway": "921916210#1",
+    "to_gateway": "97908348#0",
+    "from_road": "A.C. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "right",
+    "approach_lanes": 3,
+    "edges": [
+      "921916210#1",
+      "97908348#0",
+      "97908348#2",
+      "97908348#3",
+      "238044525#0",
+      "238044525#2"
+    ],
+    "origin_buffer_length_m": 234.54,
+    "exit_buffer_length_m": 280.37,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m09",
+    "from_gateway": "97908344#0",
+    "to_gateway": "-52253090#1",
+    "from_road": "A.C. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "right",
+    "approach_lanes": 3,
+    "edges": [
+      "1472487881#1",
+      "97908344#0",
+      "-52253090#1",
+      "-1422961438",
+      "-894061264#8",
+      "-894061264#6",
+      "-894061264#5",
+      "-894061264#4",
+      "-894061264#3",
+      "-894061264#2",
+      "-894061264#1",
+      "-894061264#0"
+    ],
+    "origin_buffer_length_m": 291.54,
+    "exit_buffer_length_m": 180.67,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m10",
+    "from_gateway": "97908344#0",
+    "to_gateway": "97908347#0",
+    "from_road": "A.C. Cortes Avenue",
+    "to_road": "A.C. Cortes Avenue",
+    "turn": "through",
+    "approach_lanes": 3,
+    "edges": [
+      "1472487881#1",
+      "97908344#0",
+      "97908347#0",
+      "97908347#1",
+      "921916213#1"
+    ],
+    "origin_buffer_length_m": 291.54,
+    "exit_buffer_length_m": 218.97,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J1_m11",
+    "from_gateway": "97908344#0",
+    "to_gateway": "97908348#0",
+    "from_road": "A.C. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "left",
+    "approach_lanes": 3,
+    "edges": [
+      "1472487881#1",
+      "97908344#0",
+      "97908348#0",
+      "97908348#2",
+      "97908348#3",
+      "238044525#0",
+      "238044525#2"
+    ],
+    "origin_buffer_length_m": 291.54,
+    "exit_buffer_length_m": 280.37,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J1"
+  },
+  {
+    "id": "J2_m00",
+    "from_gateway": "-45656552#0",
+    "to_gateway": "-1422947353",
+    "from_road": "C. Ouano Street",
+    "to_road": "C. Ouano Street",
+    "turn": "through",
+    "approach_lanes": 1,
+    "edges": [
+      "-45656552#2",
+      "-45656552#1",
+      "-45656552#0",
+      "-1422947353",
+      "-854426067",
+      "-95609464#2",
+      "-95609464#1",
+      "-95609464#0",
+      "1550480003",
+      "237983862#1"
+    ],
+    "origin_buffer_length_m": 225.53,
+    "exit_buffer_length_m": 320.12,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m01",
+    "from_gateway": "-45656552#0",
+    "to_gateway": "-894056386#1",
+    "from_road": "C. Ouano Street",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "right",
+    "approach_lanes": 1,
+    "edges": [
+      "-45656552#2",
+      "-45656552#1",
+      "-45656552#0",
+      "-894056386#1",
+      "-238044525#6",
+      "-238044525#4",
+      "-238044525#3",
+      "-238044525#2"
+    ],
+    "origin_buffer_length_m": 225.53,
+    "exit_buffer_length_m": 245.67,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m02",
+    "from_gateway": "-45656552#0",
+    "to_gateway": "854426065",
+    "from_road": "C. Ouano Street",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "left",
+    "approach_lanes": 1,
+    "edges": [
+      "-45656552#2",
+      "-45656552#1",
+      "-45656552#0",
+      "854426065",
+      "594406447#1"
+    ],
+    "origin_buffer_length_m": 225.53,
+    "exit_buffer_length_m": 203.39,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m03",
+    "from_gateway": "-594406447#0",
+    "to_gateway": "-894056386#1",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "through",
+    "approach_lanes": 2,
+    "edges": [
+      "-594406447#1",
+      "-594406447#0",
+      "-894056386#1",
+      "-238044525#6",
+      "-238044525#4",
+      "-238044525#3",
+      "-238044525#2"
+    ],
+    "origin_buffer_length_m": 202.83,
+    "exit_buffer_length_m": 245.67,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m04",
+    "from_gateway": "-594406447#0",
+    "to_gateway": "1421666903",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "C. Ouano Street",
+    "turn": "right",
+    "approach_lanes": 2,
+    "edges": [
+      "-594406447#1",
+      "-594406447#0",
+      "1421666903",
+      "45656552#1",
+      "45656552#2"
+    ],
+    "origin_buffer_length_m": 202.83,
+    "exit_buffer_length_m": 225.66,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m05",
+    "from_gateway": "1422947353",
+    "to_gateway": "-894056386#1",
+    "from_road": "C. Ouano Street",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "left",
+    "approach_lanes": 1,
+    "edges": [
+      "894056387#0",
+      "894056387#1",
+      "894056387#2",
+      "894056382",
+      "95609464#0",
+      "95609464#1",
+      "95609464#2",
+      "854426067",
+      "1422947353",
+      "-894056386#1",
+      "-238044525#6",
+      "-238044525#4",
+      "-238044525#3",
+      "-238044525#2"
+    ],
+    "origin_buffer_length_m": 282.48,
+    "exit_buffer_length_m": 245.67,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m06",
+    "from_gateway": "1422947353",
+    "to_gateway": "1421666903",
+    "from_road": "C. Ouano Street",
+    "to_road": "C. Ouano Street",
+    "turn": "through",
+    "approach_lanes": 1,
+    "edges": [
+      "894056387#0",
+      "894056387#1",
+      "894056387#2",
+      "894056382",
+      "95609464#0",
+      "95609464#1",
+      "95609464#2",
+      "854426067",
+      "1422947353",
+      "1421666903",
+      "45656552#1",
+      "45656552#2"
+    ],
+    "origin_buffer_length_m": 282.48,
+    "exit_buffer_length_m": 225.66,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m07",
+    "from_gateway": "1422947353",
+    "to_gateway": "854426065",
+    "from_road": "C. Ouano Street",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "right",
+    "approach_lanes": 1,
+    "edges": [
+      "894056387#0",
+      "894056387#1",
+      "894056387#2",
+      "894056382",
+      "95609464#0",
+      "95609464#1",
+      "95609464#2",
+      "854426067",
+      "1422947353",
+      "854426065",
+      "594406447#1"
+    ],
+    "origin_buffer_length_m": 282.48,
+    "exit_buffer_length_m": 203.39,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m08",
+    "from_gateway": "894056386#0",
+    "to_gateway": "-1422947353",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "C. Ouano Street",
+    "turn": "right",
+    "approach_lanes": 2,
+    "edges": [
+      "238044525#2",
+      "238044525#3",
+      "238044525#4",
+      "238044525#6",
+      "894056386#0",
+      "-1422947353",
+      "-854426067",
+      "-95609464#2",
+      "-95609464#1",
+      "-95609464#0",
+      "1550480003",
+      "237983862#1"
+    ],
+    "origin_buffer_length_m": 243.97,
+    "exit_buffer_length_m": 320.12,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m09",
+    "from_gateway": "894056386#0",
+    "to_gateway": "1421666903",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "C. Ouano Street",
+    "turn": "left",
+    "approach_lanes": 2,
+    "edges": [
+      "238044525#2",
+      "238044525#3",
+      "238044525#4",
+      "238044525#6",
+      "894056386#0",
+      "1421666903",
+      "45656552#1",
+      "45656552#2"
+    ],
+    "origin_buffer_length_m": 243.97,
+    "exit_buffer_length_m": 225.66,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J2_m10",
+    "from_gateway": "894056386#0",
+    "to_gateway": "854426065",
+    "from_road": "D.M. Cortes Avenue",
+    "to_road": "D.M. Cortes Avenue",
+    "turn": "through",
+    "approach_lanes": 2,
+    "edges": [
+      "238044525#2",
+      "238044525#3",
+      "238044525#4",
+      "238044525#6",
+      "894056386#0",
+      "854426065",
+      "594406447#1"
+    ],
+    "origin_buffer_length_m": 243.97,
+    "exit_buffer_length_m": 203.39,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J2"
+  },
+  {
+    "id": "J3_m00",
+    "from_gateway": "-1472414579",
+    "to_gateway": "102243434#0",
+    "from_road": "S.B. Cabahug Street",
+    "to_road": "Ouano Avenue",
+    "turn": "right",
+    "approach_lanes": 1,
+    "edges": [
+      "-211903251#4",
+      "-211903251#2",
+      "-211903251#1",
+      "-211903251#0",
+      "-1472414579",
+      "102243434#0",
+      "102243434#1",
+      "102243434#2",
+      "237982302#0",
+      "237982302#1"
+    ],
+    "origin_buffer_length_m": 207.75,
+    "exit_buffer_length_m": 229.59,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m01",
+    "from_gateway": "-1472414579",
+    "to_gateway": "1471743351",
+    "from_road": "S.B. Cabahug Street",
+    "to_road": "S.B. Cabahug Street",
+    "turn": "through",
+    "approach_lanes": 1,
+    "edges": [
+      "-211903251#4",
+      "-211903251#2",
+      "-211903251#1",
+      "-211903251#0",
+      "-1472414579",
+      "1471743351",
+      "933745212"
+    ],
+    "origin_buffer_length_m": 207.75,
+    "exit_buffer_length_m": 114.88,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m02",
+    "from_gateway": "1422944996",
+    "to_gateway": "102243434#0",
+    "from_road": "Don Andres Soriano Avenue",
+    "to_road": "Ouano Avenue",
+    "turn": "through",
+    "approach_lanes": 3,
+    "edges": [
+      "-95609403#0",
+      "28832919",
+      "95609407#1",
+      "1457390463",
+      "51816634",
+      "590032352#1",
+      "1422944996",
+      "102243434#0",
+      "102243434#1",
+      "102243434#2",
+      "237982302#0",
+      "237982302#1"
+    ],
+    "origin_buffer_length_m": 245.22,
+    "exit_buffer_length_m": 229.59,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m03",
+    "from_gateway": "1422944996",
+    "to_gateway": "1471743351",
+    "from_road": "Don Andres Soriano Avenue",
+    "to_road": "S.B. Cabahug Street",
+    "turn": "left",
+    "approach_lanes": 3,
+    "edges": [
+      "-95609403#0",
+      "28832919",
+      "95609407#1",
+      "1457390463",
+      "51816634",
+      "590032352#1",
+      "1422944996",
+      "1471743351",
+      "933745212"
+    ],
+    "origin_buffer_length_m": 245.22,
+    "exit_buffer_length_m": 114.88,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m04",
+    "from_gateway": "1422944996",
+    "to_gateway": "1472414580",
+    "from_road": "Don Andres Soriano Avenue",
+    "to_road": "S.B. Cabahug Street",
+    "turn": "right",
+    "approach_lanes": 3,
+    "edges": [
+      "-95609403#0",
+      "28832919",
+      "95609407#1",
+      "1457390463",
+      "51816634",
+      "590032352#1",
+      "1422944996",
+      "1472414580",
+      "211903251#0",
+      "211903251#1",
+      "211903251#2",
+      "211903251#4"
+    ],
+    "origin_buffer_length_m": 245.22,
+    "exit_buffer_length_m": 208.22,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m05",
+    "from_gateway": "234947394#1",
+    "to_gateway": "102243434#0",
+    "from_road": "S.B. Cabahug Street",
+    "to_road": "Ouano Avenue",
+    "turn": "left",
+    "approach_lanes": 1,
+    "edges": [
+      "933745211",
+      "234947394#0",
+      "234947394#1",
+      "102243434#0",
+      "102243434#1",
+      "102243434#2",
+      "237982302#0",
+      "237982302#1"
+    ],
+    "origin_buffer_length_m": 106.6,
+    "exit_buffer_length_m": 229.59,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m06",
+    "from_gateway": "234947394#1",
+    "to_gateway": "1422944997#1",
+    "from_road": "S.B. Cabahug Street",
+    "to_road": "Don Andres Soriano Avenue",
+    "turn": "right",
+    "approach_lanes": 1,
+    "edges": [
+      "933745211",
+      "234947394#0",
+      "234947394#1",
+      "1422944997#1",
+      "-590032352#1",
+      "-51816634",
+      "-1457390463",
+      "-95609407#1",
+      "-95609407#0",
+      "1422944995"
+    ],
+    "origin_buffer_length_m": 106.6,
+    "exit_buffer_length_m": 249.98,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m07",
+    "from_gateway": "234947394#1",
+    "to_gateway": "1472414580",
+    "from_road": "S.B. Cabahug Street",
+    "to_road": "S.B. Cabahug Street",
+    "turn": "through",
+    "approach_lanes": 1,
+    "edges": [
+      "933745211",
+      "234947394#0",
+      "234947394#1",
+      "1472414580",
+      "211903251#0",
+      "211903251#1",
+      "211903251#2",
+      "211903251#4"
+    ],
+    "origin_buffer_length_m": 106.6,
+    "exit_buffer_length_m": 208.22,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m08",
+    "from_gateway": "237983880#9",
+    "to_gateway": "1422944997#1",
+    "from_road": "Ouano Avenue",
+    "to_road": "Don Andres Soriano Avenue",
+    "turn": "through",
+    "approach_lanes": 4,
+    "edges": [
+      "237983880#4",
+      "237983880#5",
+      "237983880#6",
+      "237983880#7",
+      "237983880#8",
+      "237983880#9",
+      "1422944997#1",
+      "-590032352#1",
+      "-51816634",
+      "-1457390463",
+      "-95609407#1",
+      "-95609407#0",
+      "1422944995"
+    ],
+    "origin_buffer_length_m": 206.37,
+    "exit_buffer_length_m": 249.98,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m09",
+    "from_gateway": "237983880#9",
+    "to_gateway": "1471743351",
+    "from_road": "Ouano Avenue",
+    "to_road": "S.B. Cabahug Street",
+    "turn": "right",
+    "approach_lanes": 4,
+    "edges": [
+      "237983880#4",
+      "237983880#5",
+      "237983880#6",
+      "237983880#7",
+      "237983880#8",
+      "237983880#9",
+      "1471743351",
+      "933745212"
+    ],
+    "origin_buffer_length_m": 206.37,
+    "exit_buffer_length_m": 114.88,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  },
+  {
+    "id": "J3_m10",
+    "from_gateway": "237983880#9",
+    "to_gateway": "1472414580",
+    "from_road": "Ouano Avenue",
+    "to_road": "S.B. Cabahug Street",
+    "turn": "left",
+    "approach_lanes": 4,
+    "edges": [
+      "237983880#4",
+      "237983880#5",
+      "237983880#6",
+      "237983880#7",
+      "237983880#8",
+      "237983880#9",
+      "1472414580",
+      "211903251#0",
+      "211903251#1",
+      "211903251#2",
+      "211903251#4"
+    ],
+    "origin_buffer_length_m": 206.37,
+    "exit_buffer_length_m": 208.22,
+    "allowed_classes": [
+      "passenger",
+      "motorcycle",
+      "truck",
+      "bus"
+    ],
+    "site_id": "J3"
+  }
+]

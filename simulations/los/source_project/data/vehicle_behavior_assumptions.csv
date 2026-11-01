@@ -1,0 +1,9 @@
+source_class,sumo_class,length_m,width_m,accel_m_s2,decel_m_s2,min_gap_m,tau_s,min_gap_lat_m,lateral_alignment,status
+MOTORCYCLE,motorcycle,2.1,0.8,2.6,4.5,1.0,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY
+PUV,passenger,4.7,1.8,2.6,4.5,2.5,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY
+PUJ,passenger,5.0,1.9,1.5,4.0,2.5,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY
+PUB,bus,11.0,2.5,1.0,4.0,2.5,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY
+TRUCK,truck,6.0,2.5,1.2,4.0,2.5,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY
+CONTAINER VAN,truck,12.0,2.5,0.8,4.0,2.5,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY
+WING VAN,truck,7.0,2.5,1.0,4.0,2.5,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY
+EMERGENCY VEHICLE,passenger,5.0,2.0,2.6,4.5,2.5,1.8,0.4,lane-based; no filtering,UNCALIBRATED_CONSERVATIVE_PROXY

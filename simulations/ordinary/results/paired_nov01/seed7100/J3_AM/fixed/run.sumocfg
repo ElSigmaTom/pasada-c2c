@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration>
+  <input>
+    <net-file value="../../../../../network/isolated_J3.net.xml" />
+    <route-files value="../../../../../scenarios/J3_AM.rou.xml" />
+    <additional-files value="../../../../../scenarios/J3_AM_fixed.add.xml,../../../../../network/study_locations.add.xml,pucks.add.xml" />
+  </input>
+  <time>
+    <begin value="0" />
+    <end value="4200" />
+    <step-length value="0.5" />
+  </time>
+  <processing>
+    <scale value="1" />
+    <lateral-resolution value="-1" />
+    <time-to-teleport value="-1" />
+    <collision.action value="warn" />
+    <collision.check-junctions value="true" />
+  </processing>
+  <output>
+    <tripinfo-output value="tripinfo.xml" />
+    <tripinfo-output.write-unfinished value="true" />
+    <tripinfo-output.write-undeparted value="true" />
+    <summary-output value="summary.xml" />
+    <summary-output.period value="10" />
+    <collision-output value="collisions.xml" />
+  </output>
+  <report>
+    <no-step-log value="true" />
+    <duration-log.statistics value="true" />
+    <error-log value="warnings.log" />
+  </report>
+  <random_number>
+    <seed value="7100" />
+  </random_number>
+  <gui_only>
+    <gui-settings-file value="../../../../../scenarios/J3_view.xml" />
+  </gui_only>
+</configuration>

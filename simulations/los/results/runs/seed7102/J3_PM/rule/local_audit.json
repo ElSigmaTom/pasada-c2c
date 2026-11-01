@@ -1,0 +1,10 @@
+{
+  "case": "J3_PM",
+  "mode": "rule",
+  "seed": 7102,
+  "original_metric_differences": {},
+  "missing_completed_trip_measurements": [],
+  "n_local_passages": 2320,
+  "n_open_local_passages": 254,
+  "valid": true
+}

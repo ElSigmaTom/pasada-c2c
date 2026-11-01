@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <tlLogic id="cluster_13480124955_581850114" type="static" programID="provisional_fixed_v1" offset="0">
+    <phase duration="19.0" state="GGGGGGrrrrrrrrrrrrrrrrrrrr" name="stage_0_green" />
+    <phase duration="4" state="yyyyyyrrrrrrrrrrrrrrrrrrrr" name="stage_0_yellow" />
+    <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="stage_0_all_red" />
+    <phase duration="21.0" state="rrrrrrGGGGGrrrrrrrrrrrrrrr" name="stage_1_green" />
+    <phase duration="4" state="rrrrrryyyyyrrrrrrrrrrrrrrr" name="stage_1_yellow" />
+    <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="stage_1_all_red" />
+    <phase duration="21.0" state="rrrrrrrrrrrGGGGGrrrrrrrrrr" name="stage_2_green" />
+    <phase duration="4" state="rrrrrrrrrrryyyyyrrrrrrrrrr" name="stage_2_yellow" />
+    <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="stage_2_all_red" />
+    <phase duration="21.0" state="rrrrrrrrrrrrrrrrGGGGGrrrrr" name="stage_3_green" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrryyyyyrrrrr" name="stage_3_yellow" />
+    <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="stage_3_all_red" />
+    <phase duration="21.0" state="rrrrrrrrrrrrrrrrrrrrrGGGGG" name="stage_4_green" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrrrrryyyyy" name="stage_4_yellow" />
+    <phase duration="2" state="rrrrrrrrrrrrrrrrrrrrrrrrrr" name="stage_4_all_red" />
+  </tlLogic>
+</additional>

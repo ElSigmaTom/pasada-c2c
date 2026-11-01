@@ -1,0 +1,26 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_AM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/isolated_J1.net.xml' ... done (135ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_AM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/J1_AM_fixed.add.xml' ... done (1ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_AM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_AM/fixed/pucks.add.xml' ... done (1ms).
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_AM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/J1_AM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4200.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 114.26s
+ Real time factor: 36.7576
+ UPS: 34414.949852
+Vehicles:
+ Inserted: 4694 (Loaded: 9680)
+ Running: 522
+ Waiting: 4985
+Statistics (avg of 4694):
+ RouteLength: 543.25
+ Speed: 1.56
+ Duration: 418.87
+ WaitingTime: 271.71
+ TimeLoss: 369.15
+ DepartDelay: 880.09
+ DepartDelayWaiting: 1121.64
+{"case": "J1_AM", "mode": "fixed", "seed": 7100, "original_metric_differences": {}, "missing_completed_trip_measurements": [], "n_local_passages": 4191, "n_open_local_passages": 400, "valid": true}

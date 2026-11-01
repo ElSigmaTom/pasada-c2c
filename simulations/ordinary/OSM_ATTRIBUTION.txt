@@ -1,0 +1,12 @@
+Map data: Copyright OpenStreetMap contributors.
+Source snapshot retrieved 23 October 2026 via:
+https://www.openstreetmap.org/api/0.6/map?bbox=123.938,10.320,123.955,10.338
+
+OpenStreetMap data is available under the Open Database License (ODbL) 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+
+The converted SUMO map derives from this OpenStreetMap data. Preserve attribution
+and comply with applicable ODbL requirements when redistributing the map/database.
+The original OSM snapshot is included for reproducibility. No SUMO executables
+are bundled. The confidential thesis PDF is not bundled.

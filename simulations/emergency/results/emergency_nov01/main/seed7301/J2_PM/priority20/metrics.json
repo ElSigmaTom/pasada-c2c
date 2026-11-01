@@ -1,0 +1,34 @@
+{
+  "case": "J2_PM",
+  "mode": "rule",
+  "seed": 7301,
+  "horizon_s": 14400,
+  "training_load_scale": 1.0,
+  "scheduled_due": 5767,
+  "inserted": 1908,
+  "arrived": 1723,
+  "unfinished": 185,
+  "uninserted_due": 3859,
+  "completed_only_mean_wait_s": 260.06529309344165,
+  "completed_only_mean_time_loss_s": 350.59399883923385,
+  "completed_only_mean_duration_s": 413.92135809634357,
+  "cost_vehicle_seconds_sampled": 8394003.5,
+  "reward_sum": -12563.507,
+  "collision_events": 0,
+  "teleports": 0,
+  "wall_s": 9.995,
+  "field_validated": false,
+  "sensor_miss_probability": 0.0,
+  "false_pulses_per_row_second": 0.0,
+  "absolute_stock_initialized_at_end": {
+    "J2": true
+  },
+  "observer_min_raw": {
+    "J2": 0
+  },
+  "observer_max_raw": {
+    "J2": 68
+  },
+  "fault": null,
+  "stock_truth_max_abs_error": null
+}

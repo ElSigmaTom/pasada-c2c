@@ -1,0 +1,26 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J1_PM/priority20/../../../../../../network/isolated_J1.net.xml' ... done (27ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J1_PM/priority20/../../../../../../scenarios/J1_PM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J1_PM/priority20/../../../../../../network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J1_PM/priority20/pucks.add.xml' ... done (0ms).
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J1_PM/priority20/../../../../../../emergency/inputs/J1_PM/scenarios/J1_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4740.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 21.70s
+ Real time factor: 218.443
+ UPS: 173857.228444
+Vehicles:
+ Inserted: 4925 (Loaded: 7244)
+ Running: 299
+ Waiting: 2319
+Statistics (avg of 4925):
+ RouteLength: 566.17
+ Speed: 3.20
+ Duration: 383.00
+ WaitingTime: 256.02
+ TimeLoss: 331.25
+ DepartDelay: 483.03
+ DepartDelayWaiting: 1725.33
+{"case": "J1_PM", "arm": "priority20", "seed": 7300, "tag": "main", "actual_end_s": 4740.0, "beacon_cap_s": 20, "probe": {"scheduled_s": 1800.0, "completed": true, "depart_s": 3699.0, "arrival_s": 4737.5, "dispatch_to_arrival_s": 2937.5, "duration": 1038.5, "departDelay": 1899.0, "waitingTime": 810.0, "timeLoss": 981.71, "waitingCount": 7.0, "routeLength": 653.83}, "ordinary_scheduled": 6208, "ordinary_counts": {"completed": 3060, "active": 446, "uninserted": 2702}, "ordinary_mean_accumulated_s": 989.3895125644348, "ordinary_completion_percent": 49.29123711340206, "collisions": 0, "teleports": 0, "phase_errors": [], "wrong_approach_matches": [], "unverified_approach_matches": [], "encounters": {"J1": {"site": "J1", "stage": 2, "request_s": 4691.0, "request_source_time_s": 4690.5, "distance_at_request_m": 149.92124544481769, "expires_s": 4711.0, "release_s": 4711.0, "release_reason": "encounter_cap", "entered_polygon": true, "first_compatible_green_s": 4691.0}}, "ground_truth_encounters": {"J1": {"site": "J1", "approach_start_s": 4690.5, "true_stage": 2, "stopline_pass_s": 4709.5}}, "route_sha256": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66", "ordinary_measurement_cutoff_s": 4200, "counterfactual_baseline": "fixed and local arms log eligible beacon observations but apply no priority", "physical_beacon_verified": false}

@@ -1,0 +1,30 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/CORRIDOR_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/mandaue.net.xml' ... done (218ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/CORRIDOR_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/CORRIDOR_PM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/CORRIDOR_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/CORRIDOR_PM/rule/pucks.add.xml' ... done (2ms).
+Warning: Missing green phase in tlLogic 'cluster_13480124955_581850114', program 'FIXED_REFERENCE_PM_V2' for tl-index 6.
+Warning: Missing green phase in tlLogic 'J3', program 'FIXED_REFERENCE_PM_V2' for tl-index 7.
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/CORRIDOR_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/CORRIDOR_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Warning: Vehicle 'CORRIDOR_PM_02537' performs emergency braking on lane ':J1_17_0' with decel=7.00, wished=4.00, severity=1.00, time=772.00.
+Simulation ended at time: 4200.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 116.67s
+ Real time factor: 36.0002
+ UPS: 42961.154064
+Vehicles:
+ Inserted: 7023 (Loaded: 17215)
+ Running: 673
+ Waiting: 10190
+ Emergency Braking: 1
+Statistics (avg of 7023):
+ RouteLength: 584.98
+ Speed: 3.57
+ Duration: 356.83
+ WaitingTime: 241.32
+ TimeLoss: 299.65
+ DepartDelay: 728.53
+ DepartDelayWaiting: 1528.29
+{"case": "CORRIDOR_PM", "mode": "rule", "seed": 7100, "original_metric_differences": {}, "missing_completed_trip_measurements": [], "n_local_passages": 7268, "n_open_local_passages": 530, "valid": true}

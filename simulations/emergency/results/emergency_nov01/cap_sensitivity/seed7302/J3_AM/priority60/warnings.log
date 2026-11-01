@@ -1,0 +1,2 @@
+Warning: Missing green phase in tlLogic 'J3', program 'FIXED_REFERENCE_AM_V2' for tl-index 7.
+Warning: Vehicle 'J3_CORRIDOR_AM_04263' performs emergency braking on lane ':J3_5_0' with decel=9.00, wished=4.50, severity=1.00, time=1074.50.

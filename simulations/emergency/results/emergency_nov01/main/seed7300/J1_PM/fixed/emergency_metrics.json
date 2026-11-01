@@ -1,0 +1,60 @@
+{
+  "case": "J1_PM",
+  "arm": "fixed",
+  "seed": 7300,
+  "tag": "main",
+  "actual_end_s": 4200.0,
+  "beacon_cap_s": 20,
+  "probe": {
+    "scheduled_s": 1800.0,
+    "completed": true,
+    "depart_s": 1840.0,
+    "arrival_s": 2882.5,
+    "dispatch_to_arrival_s": 1082.5,
+    "duration": 1042.5,
+    "departDelay": 40.0,
+    "waitingTime": 915.5,
+    "timeLoss": 985.79,
+    "waitingCount": 4.0,
+    "routeLength": 653.83
+  },
+  "ordinary_scheduled": 6208,
+  "ordinary_counts": {
+    "completed": 2998,
+    "active": 441,
+    "uninserted": 2769
+  },
+  "ordinary_mean_accumulated_s": 1061.493813466497,
+  "ordinary_completion_percent": 48.29252577319588,
+  "collisions": 0,
+  "teleports": 0,
+  "phase_errors": [],
+  "wrong_approach_matches": [],
+  "unverified_approach_matches": [],
+  "encounters": {
+    "J1": {
+      "site": "J1",
+      "stage": 2,
+      "request_s": 2511.0,
+      "request_source_time_s": 2510.5,
+      "distance_at_request_m": 146.06181554657994,
+      "expires_s": 2531.0,
+      "release_s": 2531.0,
+      "release_reason": "encounter_cap",
+      "entered_polygon": true,
+      "first_compatible_green_s": 2511.0
+    }
+  },
+  "ground_truth_encounters": {
+    "J1": {
+      "site": "J1",
+      "approach_start_s": 2510.0,
+      "true_stage": 2,
+      "stopline_pass_s": 2855.0
+    }
+  },
+  "route_sha256": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66",
+  "ordinary_measurement_cutoff_s": 4200,
+  "counterfactual_baseline": "fixed and local arms log eligible beacon observations but apply no priority",
+  "physical_beacon_verified": false
+}

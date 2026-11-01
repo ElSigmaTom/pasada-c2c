@@ -1,0 +1,1403 @@
+{
+  "J1": {
+    "tls": "J1",
+    "rows": [
+      {
+        "id": "J1_P000",
+        "edge": "52253090#0",
+        "pos_m": 19.23,
+        "lanes": [
+          "52253090#0_1",
+          "52253090#0_2"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 0,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P001",
+        "edge": "1422961438",
+        "pos_m": 20.52,
+        "lanes": [
+          "1422961438_1",
+          "1422961438_2"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 0,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 33.82,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J1_P002",
+        "edge": "894061264#8",
+        "pos_m": 10.3,
+        "lanes": [
+          "894061264#8_1",
+          "894061264#8_2"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 0,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 63.69,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J1_P003",
+        "edge": "97908344#0",
+        "pos_m": 122.28,
+        "lanes": [
+          "97908344#0_1",
+          "97908344#0_2",
+          "97908344#0_3"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 1,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P004",
+        "edge": "97908344#0",
+        "pos_m": 97.28,
+        "lanes": [
+          "97908344#0_1",
+          "97908344#0_2",
+          "97908344#0_3"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 1,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P005",
+        "edge": "97908344#0",
+        "pos_m": 67.28,
+        "lanes": [
+          "97908344#0_1",
+          "97908344#0_2",
+          "97908344#0_3"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 1,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P006",
+        "edge": "-97908348#1",
+        "pos_m": 3.9,
+        "lanes": [
+          "-97908348#1_1",
+          "-97908348#1_2"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 2,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P007",
+        "edge": "-97908348#2",
+        "pos_m": 20.9,
+        "lanes": [
+          "-97908348#2_1",
+          "-97908348#2_2"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 2,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P008",
+        "edge": "-97908348#3",
+        "pos_m": 16.56,
+        "lanes": [
+          "-97908348#3_1",
+          "-97908348#3_2"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 2,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.37,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J1_P009",
+        "edge": "921916210#1",
+        "pos_m": 231.93,
+        "lanes": [
+          "921916210#1_1",
+          "921916210#1_2",
+          "921916210#1_3"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 3,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P010",
+        "edge": "921916210#1",
+        "pos_m": 206.93,
+        "lanes": [
+          "921916210#1_1",
+          "921916210#1_2",
+          "921916210#1_3"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 3,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P011",
+        "edge": "921916210#1",
+        "pos_m": 176.93,
+        "lanes": [
+          "921916210#1_1",
+          "921916210#1_2",
+          "921916210#1_3"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 3,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P012",
+        "edge": "-52253090#1",
+        "pos_m": 10.0,
+        "lanes": [
+          "-52253090#1_1",
+          "-52253090#1_2"
+        ],
+        "roles": [
+          "downstream_exit"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P013",
+        "edge": "725235886#0",
+        "pos_m": 10.0,
+        "lanes": [
+          "725235886#0_1",
+          "725235886#0_2",
+          "725235886#0_3"
+        ],
+        "roles": [
+          "downstream_exit",
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P014",
+        "edge": "97908347#0",
+        "pos_m": 10.0,
+        "lanes": [
+          "97908347#0_1",
+          "97908347#0_2",
+          "97908347#0_3"
+        ],
+        "roles": [
+          "downstream_exit",
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P015",
+        "edge": "97908348#2",
+        "pos_m": 0.1,
+        "lanes": [
+          "97908348#2_1",
+          "97908348#2_2"
+        ],
+        "roles": [
+          "downstream_exit"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 19.4,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J1_P016",
+        "edge": "-894061264#8",
+        "pos_m": 5,
+        "lanes": [
+          "-894061264#8_1",
+          "-894061264#8_2"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P017",
+        "edge": "-95609572",
+        "pos_m": 5,
+        "lanes": [
+          "-95609572_0"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P018",
+        "edge": "95609572",
+        "pos_m": 100.16,
+        "lanes": [
+          "95609572_0"
+        ],
+        "roles": [
+          "boundary_in"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J1_P019",
+        "edge": "97908348#3",
+        "pos_m": 5,
+        "lanes": [
+          "97908348#3_1",
+          "97908348#3_2"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      }
+    ],
+    "stage_rows": [
+      {
+        "5": "J1_P000",
+        "30": "J1_P001",
+        "60": "J1_P002"
+      },
+      {
+        "5": "J1_P003",
+        "30": "J1_P004",
+        "60": "J1_P005"
+      },
+      {
+        "5": "J1_P006",
+        "30": "J1_P007",
+        "60": "J1_P008"
+      },
+      {
+        "5": "J1_P009",
+        "30": "J1_P010",
+        "60": "J1_P011"
+      }
+    ],
+    "stage_outputs": [
+      [
+        "J1_P013",
+        "J1_P014",
+        "J1_P015"
+      ],
+      [
+        "J1_P012",
+        "J1_P014",
+        "J1_P015"
+      ],
+      [
+        "J1_P012",
+        "J1_P013",
+        "J1_P014"
+      ],
+      [
+        "J1_P012",
+        "J1_P013",
+        "J1_P015"
+      ]
+    ],
+    "boundary_in": [
+      "J1_P008",
+      "J1_P002",
+      "J1_P011",
+      "J1_P018",
+      "J1_P005"
+    ],
+    "boundary_out": [
+      "J1_P016",
+      "J1_P017",
+      "J1_P013",
+      "J1_P014",
+      "J1_P019"
+    ],
+    "region_nodes": [
+      "1108661230",
+      "1112556710",
+      "12303142193",
+      "8348005409",
+      "J1"
+    ],
+    "region_full_edges": [
+      "-1422961438",
+      "-52253090#1",
+      "-97908348#1",
+      "-97908348#2",
+      "1422961438",
+      "52253090#0",
+      "97908348#0",
+      "97908348#2"
+    ],
+    "region_partial_edges": {
+      "-894061264#8": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "-95609572": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "-97908348#3": {
+        "sign": 1,
+        "pos_m": 16.56
+      },
+      "725235886#0": {
+        "sign": -1,
+        "pos_m": 10.0
+      },
+      "894061264#8": {
+        "sign": 1,
+        "pos_m": 10.3
+      },
+      "921916210#1": {
+        "sign": 1,
+        "pos_m": 176.93
+      },
+      "95609572": {
+        "sign": 1,
+        "pos_m": 100.16
+      },
+      "97908344#0": {
+        "sign": 1,
+        "pos_m": 67.28
+      },
+      "97908347#0": {
+        "sign": -1,
+        "pos_m": 10.0
+      },
+      "97908348#3": {
+        "sign": -1,
+        "pos_m": 5
+      }
+    },
+    "stock_scale_vehicles": 65.584,
+    "stage_lane_counts": [
+      2,
+      3,
+      2,
+      3
+    ],
+    "initial_stock": "zero only for the empty-start simulation; real N0 requires independent initialization",
+    "extra_side_rows": [
+      "J1_P016",
+      "J1_P017",
+      "J1_P018",
+      "J1_P019"
+    ]
+  },
+  "J2": {
+    "tls": "cluster_13480124955_581850114",
+    "rows": [
+      {
+        "id": "J2_P000",
+        "edge": "894056386#0",
+        "pos_m": 7.72,
+        "lanes": [
+          "894056386#0_1",
+          "894056386#0_2"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 0,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P001",
+        "edge": "238044525#6",
+        "pos_m": 61.23,
+        "lanes": [
+          "238044525#6_1",
+          "238044525#6_2"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 0,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P002",
+        "edge": "238044525#6",
+        "pos_m": 31.23,
+        "lanes": [
+          "238044525#6_1",
+          "238044525#6_2"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 0,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P003",
+        "edge": "-45656552#0",
+        "pos_m": 83.91,
+        "lanes": [
+          "-45656552#0_0"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 1,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P004",
+        "edge": "-45656552#0",
+        "pos_m": 58.91,
+        "lanes": [
+          "-45656552#0_0"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 1,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P005",
+        "edge": "-45656552#0",
+        "pos_m": 28.91,
+        "lanes": [
+          "-45656552#0_0"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 1,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P006",
+        "edge": "-594406447#0",
+        "pos_m": 89.49,
+        "lanes": [
+          "-594406447#0_1",
+          "-594406447#0_2"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 2,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P007",
+        "edge": "-594406447#0",
+        "pos_m": 64.49,
+        "lanes": [
+          "-594406447#0_1",
+          "-594406447#0_2"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 2,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P008",
+        "edge": "-594406447#0",
+        "pos_m": 34.49,
+        "lanes": [
+          "-594406447#0_1",
+          "-594406447#0_2"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 2,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P009",
+        "edge": "854426067",
+        "pos_m": 18.89,
+        "lanes": [
+          "854426067_1"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 3,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P010",
+        "edge": "95609464#2",
+        "pos_m": 44.85,
+        "lanes": [
+          "95609464#2_1"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 3,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 34.28,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J2_P011",
+        "edge": "95609464#2",
+        "pos_m": 19.13,
+        "lanes": [
+          "95609464#2_1"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 3,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P012",
+        "edge": "-854426067",
+        "pos_m": 6.82,
+        "lanes": [
+          "-854426067_1"
+        ],
+        "roles": [
+          "downstream_exit"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P013",
+        "edge": "-894056386#1",
+        "pos_m": 10.0,
+        "lanes": [
+          "-894056386#1_1",
+          "-894056386#1_2"
+        ],
+        "roles": [
+          "downstream_exit"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P014",
+        "edge": "1421666903",
+        "pos_m": 10.0,
+        "lanes": [
+          "1421666903_0"
+        ],
+        "roles": [
+          "downstream_exit",
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P015",
+        "edge": "854426065",
+        "pos_m": 10.0,
+        "lanes": [
+          "854426065_1",
+          "854426065_2"
+        ],
+        "roles": [
+          "downstream_exit",
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P016",
+        "edge": "-1416899109",
+        "pos_m": 5,
+        "lanes": [
+          "-1416899109_0"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P017",
+        "edge": "-238044525#6",
+        "pos_m": 5,
+        "lanes": [
+          "-238044525#6_1",
+          "-238044525#6_2"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P018",
+        "edge": "-95609464#2",
+        "pos_m": 5,
+        "lanes": [
+          "-95609464#2_1"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P019",
+        "edge": "1422947352#2",
+        "pos_m": 133.13,
+        "lanes": [
+          "1422947352#2_0"
+        ],
+        "roles": [
+          "boundary_in"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J2_P020",
+        "edge": "95609515",
+        "pos_m": 168.68,
+        "lanes": [
+          "95609515_0"
+        ],
+        "roles": [
+          "boundary_in"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      }
+    ],
+    "stage_rows": [
+      {
+        "5": "J2_P000",
+        "30": "J2_P001",
+        "60": "J2_P002"
+      },
+      {
+        "5": "J2_P003",
+        "30": "J2_P004",
+        "60": "J2_P005"
+      },
+      {
+        "5": "J2_P006",
+        "30": "J2_P007",
+        "60": "J2_P008"
+      },
+      {
+        "5": "J2_P009",
+        "30": "J2_P010",
+        "60": "J2_P011"
+      }
+    ],
+    "stage_outputs": [
+      [
+        "J2_P012",
+        "J2_P014",
+        "J2_P015"
+      ],
+      [
+        "J2_P012",
+        "J2_P013",
+        "J2_P015"
+      ],
+      [
+        "J2_P013",
+        "J2_P014"
+      ],
+      [
+        "J2_P013",
+        "J2_P014",
+        "J2_P015"
+      ]
+    ],
+    "boundary_in": [
+      "J2_P005",
+      "J2_P008",
+      "J2_P019",
+      "J2_P002",
+      "J2_P011",
+      "J2_P020"
+    ],
+    "boundary_out": [
+      "J2_P016",
+      "J2_P017",
+      "J2_P018",
+      "J2_P014",
+      "J2_P015"
+    ],
+    "region_nodes": [
+      "1108661284",
+      "1108661305",
+      "13076881236",
+      "cluster_13480124955_581850114"
+    ],
+    "region_full_edges": [
+      "-1422947353",
+      "-854426067",
+      "-894056386#1",
+      "1422947353",
+      "854426067",
+      "894056386#0"
+    ],
+    "region_partial_edges": {
+      "-1416899109": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "-238044525#6": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "-45656552#0": {
+        "sign": 1,
+        "pos_m": 28.909999999999997
+      },
+      "-594406447#0": {
+        "sign": 1,
+        "pos_m": 34.489999999999995
+      },
+      "-95609464#2": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "1421666903": {
+        "sign": -1,
+        "pos_m": 10.0
+      },
+      "1422947352#2": {
+        "sign": 1,
+        "pos_m": 133.13
+      },
+      "238044525#6": {
+        "sign": 1,
+        "pos_m": 31.230000000000004
+      },
+      "854426065": {
+        "sign": -1,
+        "pos_m": 10.0
+      },
+      "95609464#2": {
+        "sign": 1,
+        "pos_m": 19.130000000000003
+      },
+      "95609515": {
+        "sign": 1,
+        "pos_m": 168.68
+      }
+    },
+    "stock_scale_vehicles": 32.376000000000005,
+    "stage_lane_counts": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "initial_stock": "zero only for the empty-start simulation; real N0 requires independent initialization",
+    "extra_side_rows": [
+      "J2_P016",
+      "J2_P017",
+      "J2_P018",
+      "J2_P019",
+      "J2_P020"
+    ]
+  },
+  "J3": {
+    "tls": "J3",
+    "rows": [
+      {
+        "id": "J3_P000",
+        "edge": "1422944996",
+        "pos_m": 4.0,
+        "lanes": [
+          "1422944996_1",
+          "1422944996_2",
+          "1422944996_3"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 0,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P001",
+        "edge": "590032352#1",
+        "pos_m": 17.55,
+        "lanes": [
+          "590032352#1_1",
+          "590032352#1_2",
+          "590032352#1_3"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 0,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P002",
+        "edge": "51816634",
+        "pos_m": 53.47,
+        "lanes": [
+          "51816634_1",
+          "51816634_2"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 0,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.77,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J3_P003",
+        "edge": "234947394#1",
+        "pos_m": 60.51,
+        "lanes": [
+          "234947394#1_0"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 1,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P004",
+        "edge": "234947394#1",
+        "pos_m": 35.51,
+        "lanes": [
+          "234947394#1_0"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 1,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P005",
+        "edge": "234947394#1",
+        "pos_m": 5.51,
+        "lanes": [
+          "234947394#1_0"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 1,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P006",
+        "edge": "237983880#9",
+        "pos_m": 4.37,
+        "lanes": [
+          "237983880#9_1",
+          "237983880#9_2",
+          "237983880#9_3",
+          "237983880#9_4"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 2,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P007",
+        "edge": "237983880#8",
+        "pos_m": 47.46,
+        "lanes": [
+          "237983880#8_1",
+          "237983880#8_2",
+          "237983880#8_3",
+          "237983880#8_4"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 2,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 30.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P008",
+        "edge": "237983880#8",
+        "pos_m": 17.46,
+        "lanes": [
+          "237983880#8_1",
+          "237983880#8_2",
+          "237983880#8_3",
+          "237983880#8_4"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 2,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P009",
+        "edge": "-1472414579",
+        "pos_m": 12.33,
+        "lanes": [
+          "-1472414579_1"
+        ],
+        "roles": [
+          "upstream_5"
+        ],
+        "stage": 3,
+        "requested_offset_m": 5,
+        "actual_chainage_m": 5.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P010",
+        "edge": "-211903251#1",
+        "pos_m": 49.8,
+        "lanes": [
+          "-211903251#1_1"
+        ],
+        "roles": [
+          "upstream_30"
+        ],
+        "stage": 3,
+        "requested_offset_m": 30,
+        "actual_chainage_m": 34.25,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J3_P011",
+        "edge": "-211903251#1",
+        "pos_m": 24.05,
+        "lanes": [
+          "-211903251#1_1"
+        ],
+        "roles": [
+          "upstream_60",
+          "boundary_in"
+        ],
+        "stage": 3,
+        "requested_offset_m": 60,
+        "actual_chainage_m": 60.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P012",
+        "edge": "102243434#0",
+        "pos_m": 10.0,
+        "lanes": [
+          "102243434#0_1",
+          "102243434#0_2",
+          "102243434#0_3",
+          "102243434#0_4"
+        ],
+        "roles": [
+          "downstream_exit",
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P013",
+        "edge": "-590032352#1",
+        "pos_m": 0.1,
+        "lanes": [
+          "-590032352#1_1",
+          "-590032352#1_2",
+          "-590032352#1_3"
+        ],
+        "roles": [
+          "downstream_exit"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.53,
+        "shifted_out_of_internal_junction": true
+      },
+      {
+        "id": "J3_P014",
+        "edge": "1471743351",
+        "pos_m": 10.0,
+        "lanes": [
+          "1471743351_0",
+          "1471743351_1"
+        ],
+        "roles": [
+          "downstream_exit",
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P015",
+        "edge": "1472414580",
+        "pos_m": 10.0,
+        "lanes": [
+          "1472414580_1"
+        ],
+        "roles": [
+          "downstream_exit"
+        ],
+        "stage": null,
+        "requested_offset_m": 10,
+        "actual_chainage_m": 10.0,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P016",
+        "edge": "-51816634",
+        "pos_m": 5,
+        "lanes": [
+          "-51816634_1",
+          "-51816634_2",
+          "-51816634_3"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P017",
+        "edge": "-95484714#1",
+        "pos_m": 5,
+        "lanes": [
+          "-95484714#1_0"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P018",
+        "edge": "211903251#1",
+        "pos_m": 5,
+        "lanes": [
+          "211903251#1_1"
+        ],
+        "roles": [
+          "boundary_out"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      },
+      {
+        "id": "J3_P019",
+        "edge": "95484714#1",
+        "pos_m": 76.83,
+        "lanes": [
+          "95484714#1_1"
+        ],
+        "roles": [
+          "boundary_in"
+        ],
+        "stage": null,
+        "requested_offset_m": null,
+        "actual_chainage_m": null,
+        "shifted_out_of_internal_junction": false
+      }
+    ],
+    "stage_rows": [
+      {
+        "5": "J3_P000",
+        "30": "J3_P001",
+        "60": "J3_P002"
+      },
+      {
+        "5": "J3_P003",
+        "30": "J3_P004",
+        "60": "J3_P005"
+      },
+      {
+        "5": "J3_P006",
+        "30": "J3_P007",
+        "60": "J3_P008"
+      },
+      {
+        "5": "J3_P009",
+        "30": "J3_P010",
+        "60": "J3_P011"
+      }
+    ],
+    "stage_outputs": [
+      [
+        "J3_P012",
+        "J3_P014",
+        "J3_P015"
+      ],
+      [
+        "J3_P012",
+        "J3_P013",
+        "J3_P015"
+      ],
+      [
+        "J3_P013",
+        "J3_P014",
+        "J3_P015"
+      ],
+      [
+        "J3_P012",
+        "J3_P014"
+      ]
+    ],
+    "boundary_in": [
+      "J3_P011",
+      "J3_P005",
+      "J3_P008",
+      "J3_P002",
+      "J3_P019"
+    ],
+    "boundary_out": [
+      "J3_P016",
+      "J3_P017",
+      "J3_P012",
+      "J3_P014",
+      "J3_P018"
+    ],
+    "region_nodes": [
+      "1107239117",
+      "13076896428",
+      "13509878430",
+      "8317461813",
+      "J3",
+      "cluster_12254791458_13076896427_5922530670"
+    ],
+    "region_full_edges": [
+      "-1472414579",
+      "-211903251#0",
+      "-590032352#1",
+      "1422944996",
+      "1422944997#1",
+      "1472414580",
+      "211903251#0",
+      "237983880#9",
+      "590032352#1"
+    ],
+    "region_partial_edges": {
+      "-211903251#1": {
+        "sign": 1,
+        "pos_m": 24.049999999999997
+      },
+      "-51816634": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "-95484714#1": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "102243434#0": {
+        "sign": -1,
+        "pos_m": 10.0
+      },
+      "1471743351": {
+        "sign": -1,
+        "pos_m": 10.0
+      },
+      "211903251#1": {
+        "sign": -1,
+        "pos_m": 5
+      },
+      "234947394#1": {
+        "sign": 1,
+        "pos_m": 5.510000000000005
+      },
+      "237983880#8": {
+        "sign": 1,
+        "pos_m": 17.459999999999994
+      },
+      "51816634": {
+        "sign": 1,
+        "pos_m": 53.47
+      },
+      "95484714#1": {
+        "sign": 1,
+        "pos_m": 76.83
+      }
+    },
+    "stock_scale_vehicles": 68.39866666666667,
+    "stage_lane_counts": [
+      3,
+      1,
+      4,
+      1
+    ],
+    "initial_stock": "zero only for the empty-start simulation; real N0 requires independent initialization",
+    "extra_side_rows": [
+      "J3_P016",
+      "J3_P017",
+      "J3_P018",
+      "J3_P019"
+    ]
+  }
+}

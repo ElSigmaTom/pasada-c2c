@@ -1,0 +1,1 @@
+site_id,recording_date,timezone,interval_start_local,interval_end_local,from_approach,to_approach,sumo_from_edge,sumo_to_edge,vehicle_class,count_vehicles,counting_convention,source_file_timecode,quality_note

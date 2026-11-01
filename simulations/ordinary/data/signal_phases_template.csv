@@ -1,0 +1,1 @@
+site_id,program_id,observation_date,valid_from_local,valid_to_local,timezone,sequence_index,stage_id,stage_type,permitted_movements,sumo_signal_state,duration_s,minimum_green_s,maximum_green_s,next_stage_id,offset_s,offset_reference_local,pedestrian_state,source_file_timecode,quality_note

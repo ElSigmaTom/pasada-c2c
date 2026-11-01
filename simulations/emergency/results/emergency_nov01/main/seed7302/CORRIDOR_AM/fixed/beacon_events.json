@@ -1,0 +1,44 @@
+[
+  {
+    "time_s": 3171.5,
+    "site": "J3",
+    "kind": "qualified_request",
+    "stage": 2,
+    "cap_s": 20.0
+  },
+  {
+    "time_s": 3191.5,
+    "site": "J3",
+    "kind": "release",
+    "reason": "encounter_cap",
+    "stage": 2
+  },
+  {
+    "time_s": 3527.5,
+    "site": "J2",
+    "kind": "qualified_request",
+    "stage": 2,
+    "cap_s": 20.0
+  },
+  {
+    "time_s": 3547.5,
+    "site": "J2",
+    "kind": "release",
+    "reason": "encounter_cap",
+    "stage": 2
+  },
+  {
+    "time_s": 3590.5,
+    "site": "J1",
+    "kind": "qualified_request",
+    "stage": 2,
+    "cap_s": 20.0
+  },
+  {
+    "time_s": 3610.5,
+    "site": "J1",
+    "kind": "release",
+    "reason": "encounter_cap",
+    "stage": 2
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "status": "FROZEN_RECONSTRUCTED_SIMULATION_REFERENCE_NOT_FIELD_VALIDATED",
+  "scope": "motorized traffic only; actual pedestrian service remains outside this baseline until observed plans/counts are supplied",
+  "demand": "source class totals at 100%; optional ST50 cases use scale 0.5 because PDF p.73 says the source simulations halved recorded demand",
+  "baseline_scale": 1.0,
+  "source_sensitivity_scale": 0.5,
+  "geometry": "J1 and J3 physical junction nodes explicitly merged using netconvert; J2's staggered F. Mendoza junction retained",
+  "signal_cycle": "conditional candidate C=G+Y+R from the source's representative signal summary; not an observed full phase plan",
+  "green_splits": "fixed per AM/PM window, proportional to planned approach volume per motor lane with 10 s minimum; no online adaptation",
+  "phase_order": "netconvert incoming-arm protected order; unused nonmotor-only OSM branch stages excluded from the motor-only reference",
+  "clearance": "4 s yellow from source summaries; 4 s all-red assumed and simulation checked, not field approved",
+  "offsets": "zero offset; no observed coordination data available",
+  "isolated_demand": "same planned movement/class visits and source departure schedule as corridor canonical trips; boundary times are assumed, not measured arrivals",
+  "vehicle_model": "LC2013, lane-based; motorcycle filtering NOT represented or field calibrated",
+  "drain": "input ends at 4200 s; run to 14400 s to expose residual deadlocks and report clearance separately from study-hour throughput",
+  "safeguards": "no teleport/removal shortcuts; junction collision checks enabled; minGap collision threshold left at default",
+  "field_validation_missing": [
+    "complete observed phase programs and offsets",
+    "turning counts",
+    "queue/discharge and travel-time observations",
+    "motorcycle filtering calibration",
+    "pedestrian demand and crossing service",
+    "intermediate enforcer operation"
+  ]
+}

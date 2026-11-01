@@ -1,0 +1,28 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/isolated_J1.net.xml' ... done (147ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/J1_PM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_PM/rule/pucks.add.xml' ... done (2ms).
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J1_PM/rule/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/J1_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Warning: Vehicle 'J1_CORRIDOR_PM_02456' performs emergency braking on lane ':J1_17_0' with decel=9.00, wished=4.50, severity=1.00, time=703.00.
+Simulation ended at time: 4200.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 99.59s
+ Real time factor: 42.1738
+ UPS: 32676.386713
+Vehicles:
+ Inserted: 4411 (Loaded: 7243)
+ Running: 450
+ Waiting: 2832
+ Emergency Braking: 1
+Statistics (avg of 4411):
+ RouteLength: 548.42
+ Speed: 3.54
+ Duration: 368.87
+ WaitingTime: 252.83
+ TimeLoss: 318.64
+ DepartDelay: 448.27
+ DepartDelayWaiting: 1247.37
+{"case": "J1_PM", "mode": "rule", "seed": 7100, "original_metric_differences": {}, "missing_completed_trip_measurements": [], "n_local_passages": 3993, "n_open_local_passages": 329, "valid": true}

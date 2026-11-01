@@ -1,0 +1,16 @@
+[
+  {
+    "time_s": 2642.5,
+    "site": "J3",
+    "kind": "qualified_request",
+    "stage": 2,
+    "cap_s": 60.0
+  },
+  {
+    "time_s": 2688.5,
+    "site": "J3",
+    "kind": "release",
+    "reason": "GNSS_exit_boundary",
+    "stage": 2
+  }
+]

@@ -1,0 +1,28 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7301/J1_PM/local/../../../../../../network/isolated_J1.net.xml' ... done (39ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7301/J1_PM/local/../../../../../../scenarios/J1_PM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7301/J1_PM/local/../../../../../../network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7301/J1_PM/local/pucks.add.xml' ... done (1ms).
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7301/J1_PM/local/../../../../../../emergency/inputs/J1_PM/scenarios/J1_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4375.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 20.22s
+ Real time factor: 216.349
+ UPS: 165061.962219
+Vehicles:
+ Inserted: 4365 (Loaded: 7244)
+ Running: 293
+ Waiting: 2879
+ Emergency Braking: 1
+Statistics (avg of 4365):
+ RouteLength: 566.67
+ Speed: 3.75
+ Duration: 382.35
+ WaitingTime: 259.72
+ TimeLoss: 330.47
+ DepartDelay: 422.69
+ DepartDelayWaiting: 1494.85
+{"case": "J1_PM", "arm": "local", "seed": 7301, "tag": "main", "actual_end_s": 4375.0, "beacon_cap_s": 20, "probe": {"scheduled_s": 1800.0, "completed": true, "depart_s": 3162.0, "arrival_s": 4374.5, "dispatch_to_arrival_s": 2574.5, "duration": 1212.5, "departDelay": 1362.0, "waitingTime": 990.5, "timeLoss": 1149.25, "waitingCount": 6.0, "routeLength": 653.83}, "ordinary_scheduled": 6208, "ordinary_counts": {"completed": 2879, "active": 361, "uninserted": 2968}, "ordinary_mean_accumulated_s": 1061.4512876933038, "ordinary_completion_percent": 46.37564432989691, "collisions": 0, "teleports": 0, "phase_errors": [], "wrong_approach_matches": [], "unverified_approach_matches": [], "encounters": {"J1": {"site": "J1", "stage": 2, "request_s": 4326.0, "request_source_time_s": 4325.5, "distance_at_request_m": 147.2284070566404, "expires_s": 4346.0, "release_s": 4346.0, "release_reason": "encounter_cap", "entered_polygon": true, "first_compatible_green_s": 4326.0}}, "ground_truth_encounters": {"J1": {"site": "J1", "approach_start_s": 4325.0, "true_stage": 2, "stopline_pass_s": 4345.5}}, "route_sha256": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66", "ordinary_measurement_cutoff_s": 4200, "counterfactual_baseline": "fixed and local arms log eligible beacon observations but apply no priority", "physical_beacon_verified": false}
+Warning: Vehicle 'J1_CORRIDOR_PM_06631' performs emergency braking on lane ':J1_17_0' with decel=9.00, wished=4.50, severity=1.00, time=1658.00.

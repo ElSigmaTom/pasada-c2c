@@ -1,0 +1,28 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/paired_nov01/seed7102/CORRIDOR_AM/fixed/../../../../../network/mandaue.net.xml' ... done (243ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/paired_nov01/seed7102/CORRIDOR_AM/fixed/../../../../../scenarios/CORRIDOR_AM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/paired_nov01/seed7102/CORRIDOR_AM/fixed/../../../../../network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/paired_nov01/seed7102/CORRIDOR_AM/fixed/pucks.add.xml' ... done (1ms).
+Warning: Missing green phase in tlLogic 'cluster_13480124955_581850114', program 'FIXED_REFERENCE_AM_V2' for tl-index 6.
+Warning: Missing green phase in tlLogic 'J3', program 'FIXED_REFERENCE_AM_V2' for tl-index 7.
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/paired_nov01/seed7102/CORRIDOR_AM/fixed/../../../../../scenarios/CORRIDOR_AM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4200.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 56.01s
+ Real time factor: 74.9826
+ UPS: 100349.133237
+Vehicles:
+ Inserted: 6555 (Loaded: 18154)
+ Running: 678
+ Waiting: 11597
+Statistics (avg of 6555):
+ RouteLength: 583.28
+ Speed: 1.65
+ Duration: 428.75
+ WaitingTime: 275.17
+ TimeLoss: 372.41
+ DepartDelay: 1069.09
+ DepartDelayWaiting: 1406.47
+{"case": "CORRIDOR_AM", "mode": "fixed", "seed": 7102, "horizon_s": 4200, "training_load_scale": 1.0, "scheduled_due": 18154, "inserted": 6555, "arrived": 5877, "unfinished": 678, "uninserted_due": 11599, "completed_only_mean_wait_s": 261.70444104134765, "completed_only_mean_time_loss_s": 361.44536668368215, "completed_only_mean_duration_s": 422.2588905904373, "cost_vehicle_seconds_sampled": 25266748.0, "reward_sum": -15351.4475, "collision_events": 0, "teleports": 0, "wall_s": 56.21, "field_validated": false, "sensor_miss_probability": 0.0, "false_pulses_per_row_second": 0.0, "absolute_stock_initialized_at_end": {"J1": true, "J2": true, "J3": true}, "observer_min_raw": {"J1": 0, "J2": 0, "J3": 0}, "observer_max_raw": {"J1": 124, "J2": 38, "J3": 67}, "fault": null, "stock_truth_max_abs_error": null, "measurement_version": "paired-local-rule-2026-11-01-v1", "study_cohort_scheduled": 15509, "study_cohort_completed": 3255, "study_cohort_active": 655, "study_cohort_uninserted": 11599, "study_completion_percent": 20.98781352762912, "study_all_vehicle_accumulated_s": 23725640.112000115, "study_mean_accumulated_s": 1529.7981889225684, "study_completed_mean_duration_s": 473.24608294930874, "study_completed_p95_duration_s": 709.0, "study_completed_mean_depart_delay_s": 1288.2997204301075, "study_completed_mean_wait_s": 298.5021505376344, "study_completed_mean_time_loss_s": 411.081846390169, "study_completed_mean_stops": 6.257450076804916, "study_hour_exits_all_cohorts": 5152, "study_mean_approach_halting_vehicles": 179.70416666666668, "study_p95_approach_halting_vehicles": 228.0, "study_max_approach_halting_vehicles": 246, "study_max_tail_extent_m": 236.83, "queue_sample_times": 720, "phase_errors": [], "route_sha256": "d413f1af46d5e844de93d5abdb73bd94986c181b64369fcb9bb7faa807c34ad6"}

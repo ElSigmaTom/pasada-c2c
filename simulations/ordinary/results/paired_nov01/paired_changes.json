@@ -1,0 +1,186 @@
+[
+  {
+    "case": "J1_AM",
+    "all_demand_time_reduction_percent": 1.431507203942611,
+    "all_demand_time_reduction_sd": 0.6213138170061612,
+    "completion_change_pp": -0.06829777831344568,
+    "completion_change_pp_sd": 0.20956653177044032,
+    "completed_travel_reduction_percent": 13.621826801093032,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      1.9083644418937258,
+      0.7288736300570582,
+      1.6572835398770493
+    ],
+    "completion_changes_by_seed": [
+      0.16873568759793045,
+      -0.2289984331686128,
+      -0.14463058936965467
+    ]
+  },
+  {
+    "case": "J1_PM",
+    "all_demand_time_reduction_percent": 3.037802168816698,
+    "all_demand_time_reduction_sd": 1.671024485765319,
+    "completion_change_pp": -0.8161512027491421,
+    "completion_change_pp_sd": 0.3032175237005036,
+    "completed_travel_reduction_percent": 21.702288895917235,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      2.1439450137911713,
+      2.0038231287399975,
+      4.965638363918925
+    ],
+    "completion_changes_by_seed": [
+      -0.9664948453608204,
+      -1.014819587628871,
+      -0.46713917525773496
+    ]
+  },
+  {
+    "case": "J2_AM",
+    "all_demand_time_reduction_percent": 3.9746001104219237,
+    "all_demand_time_reduction_sd": 0.5746815996787594,
+    "completion_change_pp": 1.9180633147113586,
+    "completion_change_pp_sd": 0.22750077696220783,
+    "completed_travel_reduction_percent": 15.983636661527104,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      3.4777053112617207,
+      4.603941996618718,
+      3.8421530233853325
+    ],
+    "completion_changes_by_seed": [
+      1.7597765363128488,
+      2.1787709497206684,
+      1.8156424581005588
+    ]
+  },
+  {
+    "case": "J2_PM",
+    "all_demand_time_reduction_percent": 4.544664943172048,
+    "all_demand_time_reduction_sd": 0.510671833636137,
+    "completion_change_pp": 2.8193713746121674,
+    "completion_change_pp_sd": 0.5897070820017365,
+    "completed_travel_reduction_percent": 37.67165903172522,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      5.022350276642642,
+      4.006409078147815,
+      4.605235474725687
+    ],
+    "completion_changes_by_seed": [
+      3.075677863213272,
+      2.1448806151355733,
+      3.2375556454876566
+    ]
+  },
+  {
+    "case": "J3_AM",
+    "all_demand_time_reduction_percent": 4.841758215602752,
+    "all_demand_time_reduction_sd": 0.9204134627326812,
+    "completion_change_pp": 3.9194598793093136,
+    "completion_change_pp_sd": 0.7731059620607448,
+    "completed_travel_reduction_percent": 17.23186688643569,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      4.919194667667413,
+      3.8850728663583243,
+      5.721007112782518
+    ],
+    "completion_changes_by_seed": [
+      4.122602616956442,
+      3.0650654239110935,
+      4.570711597060406
+    ]
+  },
+  {
+    "case": "J3_PM",
+    "all_demand_time_reduction_percent": 8.93375803469739,
+    "all_demand_time_reduction_sd": 1.2661040584548793,
+    "completion_change_pp": 4.868109477394129,
+    "completion_change_pp_sd": 0.3221896024298713,
+    "completed_travel_reduction_percent": 20.730531051212942,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      9.707497599307992,
+      7.472637443012333,
+      9.62113906177185
+    ],
+    "completion_changes_by_seed": [
+      5.187510325458451,
+      4.543201718156286,
+      4.873616388567651
+    ]
+  },
+  {
+    "case": "CORRIDOR_AM",
+    "all_demand_time_reduction_percent": 5.78060110842751,
+    "all_demand_time_reduction_sd": 0.4827069372057661,
+    "completion_change_pp": 4.814408837879081,
+    "completion_change_pp_sd": 0.20209038189294629,
+    "completed_travel_reduction_percent": 22.235961023141332,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      5.517647982553135,
+      6.337692200511957,
+      5.48646314221744
+    ],
+    "completion_changes_by_seed": [
+      4.848797472435361,
+      4.997098458959311,
+      4.59733058224257
+    ]
+  },
+  {
+    "case": "CORRIDOR_PM",
+    "all_demand_time_reduction_percent": 6.7318639380960015,
+    "all_demand_time_reduction_sd": 0.3941123390031847,
+    "completion_change_pp": 3.763660272978735,
+    "completion_change_pp_sd": 0.19061215759292405,
+    "completed_travel_reduction_percent": 29.19825814495458,
+    "paired_seeds": [
+      7100,
+      7101,
+      7102
+    ],
+    "all_demand_changes_by_seed": [
+      6.334071253086226,
+      7.122189825261834,
+      6.739330735939944
+    ],
+    "completion_changes_by_seed": [
+      3.550537341858252,
+      3.917834308257383,
+      3.82260916882057
+    ]
+  }
+]

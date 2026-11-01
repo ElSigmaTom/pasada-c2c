@@ -1,0 +1,96 @@
+{
+  "case": "CORRIDOR_PM",
+  "arm": "priority20",
+  "seed": 7301,
+  "tag": "main",
+  "actual_end_s": 4200.0,
+  "beacon_cap_s": 20,
+  "probe": {
+    "scheduled_s": 1800.0,
+    "completed": true,
+    "depart_s": 3013.0,
+    "arrival_s": 3653.0,
+    "dispatch_to_arrival_s": 1853.0,
+    "duration": 640.0,
+    "departDelay": 1213.0,
+    "waitingTime": 403.0,
+    "timeLoss": 468.78,
+    "waitingCount": 5.0,
+    "routeLength": 1712.45
+  },
+  "ordinary_scheduled": 14702,
+  "ordinary_counts": {
+    "completed": 4176,
+    "active": 637,
+    "uninserted": 9889
+  },
+  "ordinary_mean_accumulated_s": 1367.8100758400176,
+  "ordinary_completion_percent": 28.404298734866003,
+  "collisions": 0,
+  "teleports": 0,
+  "phase_errors": [],
+  "wrong_approach_matches": [],
+  "unverified_approach_matches": [],
+  "encounters": {
+    "J3": {
+      "site": "J3",
+      "stage": 2,
+      "request_s": 3029.0,
+      "request_source_time_s": 3028.5,
+      "distance_at_request_m": 146.34223558222064,
+      "expires_s": 3049.0,
+      "release_s": 3049.0,
+      "release_reason": "encounter_cap",
+      "entered_polygon": true,
+      "first_compatible_green_s": 3037.0
+    },
+    "J2": {
+      "site": "J2",
+      "stage": 2,
+      "request_s": 3424.0,
+      "request_source_time_s": 3423.5,
+      "distance_at_request_m": 142.01633261704913,
+      "expires_s": 3444.0,
+      "release_s": 3442.0,
+      "release_reason": "GNSS_exit_boundary",
+      "entered_polygon": true,
+      "first_compatible_green_s": 3432.0
+    },
+    "J1": {
+      "site": "J1",
+      "stage": 2,
+      "request_s": 3479.0,
+      "request_source_time_s": 3478.5,
+      "distance_at_request_m": 143.39969112381468,
+      "expires_s": 3499.0,
+      "release_s": 3499.0,
+      "release_reason": "encounter_cap",
+      "entered_polygon": true,
+      "first_compatible_green_s": 3487.0
+    }
+  },
+  "ground_truth_encounters": {
+    "J3": {
+      "site": "J3",
+      "approach_start_s": 3027.5,
+      "true_stage": 2,
+      "stopline_pass_s": 3375.0
+    },
+    "J2": {
+      "site": "J2",
+      "approach_start_s": 3423.0,
+      "true_stage": 2,
+      "stopline_pass_s": 3438.5
+    },
+    "J1": {
+      "site": "J1",
+      "approach_start_s": 3478.0,
+      "true_stage": 2,
+      "stopline_pass_s": 3623.0
+    }
+  },
+  "route_sha256": "7921e03dc0578eb613b87af2a2eb34614eb4819527bf7e6fcaf6cade6cc8633d",
+  "ordinary_measurement_cutoff_s": 4200,
+  "counterfactual_baseline": "fixed and local arms log eligible beacon observations but apply no priority",
+  "physical_beacon_verified": false
+}

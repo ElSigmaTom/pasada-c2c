@@ -1,0 +1,2902 @@
+{
+  "J3": [
+    {
+      "time": 11.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 15.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 19.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 43.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 47.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 51.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 63.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 67.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 71.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 96.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 100.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 104.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 115.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 119.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 123.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 147.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 151.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 155.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 167.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 171.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 175.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 200.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 204.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 208.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 219.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 223.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 227.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 251.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 255.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 259.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 271.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 275.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 279.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 304.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 308.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 312.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 323.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 327.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 331.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 355.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 359.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 363.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 375.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 379.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 383.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 408.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 412.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 416.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 427.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 431.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 435.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 459.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 463.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 467.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 479.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 483.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 487.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 512.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 516.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 520.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 531.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 535.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 539.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 563.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 567.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 571.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 583.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 587.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 591.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 616.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 620.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 624.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 635.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 639.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 643.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 667.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 671.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 675.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 687.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 691.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 695.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 720.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 724.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 728.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 739.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 743.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 747.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 771.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 775.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 779.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 791.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 795.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 799.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 824.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 828.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 832.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 843.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 847.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 851.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 875.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 879.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 883.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 895.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 899.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 903.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 928.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 932.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 936.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 947.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 951.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 955.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 979.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 983.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 987.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 999.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1003.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1007.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1032.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1036.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1040.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1051.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1055.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1059.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1083.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1087.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1091.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1103.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1107.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1111.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1136.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1140.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1144.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1155.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1159.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1163.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1187.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1191.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1195.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1207.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1211.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1215.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1240.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1244.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1248.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1259.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1263.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1267.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1291.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1295.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1299.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1311.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1315.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1319.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1344.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1348.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1352.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1363.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1367.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1371.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1395.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1399.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1403.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1415.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1419.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1423.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1448.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1452.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1456.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1467.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1471.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1475.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1499.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1503.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1507.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1519.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1523.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1527.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1552.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1556.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1560.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1571.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1575.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1579.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1603.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1607.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1611.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1623.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1627.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1631.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1656.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1660.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1664.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1675.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1679.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1683.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1707.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1711.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1715.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1727.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1731.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1735.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1760.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1764.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1768.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1779.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1783.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1787.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1811.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1815.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1819.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1831.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1835.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1839.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1864.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1868.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1872.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1883.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1887.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1891.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1915.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1919.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1923.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1935.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1939.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1943.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1968.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1972.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1976.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 1987.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 1991.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 1995.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2019.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2023.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2027.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2039.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2043.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2047.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2072.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2076.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2080.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2091.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2095.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2099.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2123.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2127.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2131.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2143.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2147.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2151.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2176.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2180.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2184.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2195.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2199.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2203.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2227.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2231.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2235.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2247.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2251.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2255.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2280.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2284.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2288.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2299.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2303.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2307.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2331.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2335.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2339.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2351.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2355.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2359.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2384.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2388.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2392.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2403.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2407.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2411.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2435.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2439.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2443.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2455.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2459.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2463.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2488.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2492.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2496.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2507.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2511.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2515.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2539.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2543.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2547.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2559.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2563.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2567.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2592.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2596.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2600.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2611.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2615.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2619.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2643.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2647.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2651.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2663.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2667.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2671.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2696.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2700.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2704.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2715.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2719.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2723.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2747.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2751.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2755.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2767.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2771.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2775.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2800.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2804.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2808.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2819.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2823.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2827.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2851.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2855.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2859.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2871.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2875.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2879.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2904.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2908.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2912.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2923.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2927.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2931.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2955.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2959.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2963.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 2975.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 2979.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 2983.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3008.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3012.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3016.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3027.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3031.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3035.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3059.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3063.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3067.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3079.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3083.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3087.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3112.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3116.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3120.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3131.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3135.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3139.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3163.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3167.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3171.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3183.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3187.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3191.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3216.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3220.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3224.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3235.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3239.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3243.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3267.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3271.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3275.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3287.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3291.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3295.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3320.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3324.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3328.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3339.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3343.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3347.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3371.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3375.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3379.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3391.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3395.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3399.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3424.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3428.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3432.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3443.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3447.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3451.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3475.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3479.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3483.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3495.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3499.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3503.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3528.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3532.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3536.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3547.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3551.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3555.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3579.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3583.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3587.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3599.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3603.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3607.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3632.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3636.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3640.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3651.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3655.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3659.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3683.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3687.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3691.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3703.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3707.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3711.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3736.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3740.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3744.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3755.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3759.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3763.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3787.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3791.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3795.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3807.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3811.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3815.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3840.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3844.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3848.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3859.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3863.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3867.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3891.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3895.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3899.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3911.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3915.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3919.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3944.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3948.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3952.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3963.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3967.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 3971.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 3995.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 3999.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4003.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4015.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 4019.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4023.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4048.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 4052.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4056.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4067.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 4071.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4075.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4099.5,
+      "stage": 1,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 4103.5,
+      "stage": 1,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4107.5,
+      "stage": 2,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4119.5,
+      "stage": 2,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 4123.5,
+      "stage": 2,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4127.5,
+      "stage": 3,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4152.0,
+      "stage": 3,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 4156.0,
+      "stage": 3,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4160.0,
+      "stage": 0,
+      "aspect": "green",
+      "reason": "clearance completed"
+    },
+    {
+      "time": 4171.0,
+      "stage": 0,
+      "aspect": "yellow",
+      "reason": "fixed boundary"
+    },
+    {
+      "time": 4175.0,
+      "stage": 0,
+      "aspect": "all_red",
+      "reason": "yellow completed"
+    },
+    {
+      "time": 4179.0,
+      "stage": 1,
+      "aspect": "green",
+      "reason": "clearance completed"
+    }
+  ]
+}

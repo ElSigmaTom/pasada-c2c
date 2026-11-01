@@ -1,0 +1,27 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J3_PM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/isolated_J3.net.xml' ... done (34ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J3_PM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/J3_PM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J3_PM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J3_PM/fixed/pucks.add.xml' ... done (0ms).
+Warning: Missing green phase in tlLogic 'J3', program 'FIXED_REFERENCE_PM_V2' for tl-index 7.
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/los_measurement/trajectory_supplement/runs/seed7100/J3_PM/fixed/../../../../../archive/PASADA_Matched_SUMO_Comparison/scenarios/J3_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4200.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 37.39s
+ Real time factor: 112.32
+ UPS: 59944.374616
+Vehicles:
+ Inserted: 2409 (Loaded: 7062)
+ Running: 292
+ Waiting: 4651
+Statistics (avg of 2409):
+ RouteLength: 437.66
+ Speed: 2.12
+ Duration: 465.23
+ WaitingTime: 364.98
+ TimeLoss: 423.47
+ DepartDelay: 1041.92
+ DepartDelayWaiting: 1456.20
+{"case": "J3_PM", "mode": "fixed", "seed": 7100, "original_metric_differences": {}, "missing_completed_trip_measurements": [], "n_local_passages": 2133, "n_open_local_passages": 260, "valid": true}

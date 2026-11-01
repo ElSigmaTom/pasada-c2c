@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <edgeData id="ST50_J3_AM_MOTORCYCLE" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="MOTORCYCLE" file="../results/ST50_J3_AM/crossings_MOTORCYCLE.xml" excludeEmpty="false" />
+  <edgeData id="ST50_J3_AM_PUV" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="PUV" file="../results/ST50_J3_AM/crossings_PUV.xml" excludeEmpty="false" />
+  <edgeData id="ST50_J3_AM_PUJ" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="PUJ" file="../results/ST50_J3_AM/crossings_PUJ.xml" excludeEmpty="false" />
+  <edgeData id="ST50_J3_AM_PUB" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="PUB" file="../results/ST50_J3_AM/crossings_PUB.xml" excludeEmpty="false" />
+  <edgeData id="ST50_J3_AM_TRUCK" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="TRUCK" file="../results/ST50_J3_AM/crossings_TRUCK.xml" excludeEmpty="false" />
+  <edgeData id="ST50_J3_AM_CONTAINER_VAN" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="CONTAINER_VAN" file="../results/ST50_J3_AM/crossings_CONTAINER_VAN.xml" excludeEmpty="false" />
+  <edgeData id="ST50_J3_AM_WING_VAN" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="WING_VAN" file="../results/ST50_J3_AM/crossings_WING_VAN.xml" excludeEmpty="false" />
+  <edgeData id="ST50_J3_AM_EMERGENCY_VEHICLE" begin="600" end="4200" period="3600" edges="-1472414579 1422944996 234947394#1 237983880#9" vTypes="EMERGENCY_VEHICLE" file="../results/ST50_J3_AM/crossings_EMERGENCY_VEHICLE.xml" excludeEmpty="false" />
+</additional>

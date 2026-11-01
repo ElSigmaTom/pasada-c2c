@@ -1,0 +1,196 @@
+{
+  "version": "puck-conservation-43-v2",
+  "input_count": 43,
+  "architecture": [
+    43,
+    32,
+    16,
+    2
+  ],
+  "parameter_count": 1970,
+  "float32_weight_bytes": 7880,
+  "ordered_features": [
+    {
+      "index": 0,
+      "name": "stage_0.occupancy_5"
+    },
+    {
+      "index": 1,
+      "name": "stage_0.occupancy_30"
+    },
+    {
+      "index": 2,
+      "name": "stage_0.occupancy_60"
+    },
+    {
+      "index": 3,
+      "name": "stage_0.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 4,
+      "name": "stage_0.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 5,
+      "name": "stage_0.receiving_exit_occupancy"
+    },
+    {
+      "index": 6,
+      "name": "stage_0.time_since_green"
+    },
+    {
+      "index": 7,
+      "name": "stage_0.motor_lane_count"
+    },
+    {
+      "index": 8,
+      "name": "stage_1.occupancy_5"
+    },
+    {
+      "index": 9,
+      "name": "stage_1.occupancy_30"
+    },
+    {
+      "index": 10,
+      "name": "stage_1.occupancy_60"
+    },
+    {
+      "index": 11,
+      "name": "stage_1.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 12,
+      "name": "stage_1.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 13,
+      "name": "stage_1.receiving_exit_occupancy"
+    },
+    {
+      "index": 14,
+      "name": "stage_1.time_since_green"
+    },
+    {
+      "index": 15,
+      "name": "stage_1.motor_lane_count"
+    },
+    {
+      "index": 16,
+      "name": "stage_2.occupancy_5"
+    },
+    {
+      "index": 17,
+      "name": "stage_2.occupancy_30"
+    },
+    {
+      "index": 18,
+      "name": "stage_2.occupancy_60"
+    },
+    {
+      "index": 19,
+      "name": "stage_2.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 20,
+      "name": "stage_2.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 21,
+      "name": "stage_2.receiving_exit_occupancy"
+    },
+    {
+      "index": 22,
+      "name": "stage_2.time_since_green"
+    },
+    {
+      "index": 23,
+      "name": "stage_2.motor_lane_count"
+    },
+    {
+      "index": 24,
+      "name": "stage_3.occupancy_5"
+    },
+    {
+      "index": 25,
+      "name": "stage_3.occupancy_30"
+    },
+    {
+      "index": 26,
+      "name": "stage_3.occupancy_60"
+    },
+    {
+      "index": 27,
+      "name": "stage_3.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 28,
+      "name": "stage_3.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 29,
+      "name": "stage_3.receiving_exit_occupancy"
+    },
+    {
+      "index": 30,
+      "name": "stage_3.time_since_green"
+    },
+    {
+      "index": 31,
+      "name": "stage_3.motor_lane_count"
+    },
+    {
+      "index": 32,
+      "name": "current_stage_0"
+    },
+    {
+      "index": 33,
+      "name": "current_stage_1"
+    },
+    {
+      "index": 34,
+      "name": "current_stage_2"
+    },
+    {
+      "index": 35,
+      "name": "current_stage_3"
+    },
+    {
+      "index": 36,
+      "name": "green_elapsed_seconds_div180"
+    },
+    {
+      "index": 37,
+      "name": "yellow_seconds_remaining_div4"
+    },
+    {
+      "index": 38,
+      "name": "all_red_seconds_remaining_div4"
+    },
+    {
+      "index": 39,
+      "name": "reference_green_seconds_div180"
+    },
+    {
+      "index": 40,
+      "name": "counted_region_stock"
+    },
+    {
+      "index": 41,
+      "name": "region_net_flow"
+    },
+    {
+      "index": 42,
+      "name": "observer_trusted"
+    }
+  ],
+  "base_features": "First 36 match feature_contract.json; final stock/flow/trust match base indices37/38/39. Explicit timing replaces the old elapsed/reference ratio.",
+  "new_timing_formulas": {
+    "green_elapsed": "elapsed green /180, clipped [0,2], zero during clearance",
+    "yellow_remaining": "remaining yellow /4, zero outside yellow",
+    "all_red_remaining": "remaining all-red /4, zero outside all-red",
+    "reference_green": "configured current-stage fixed green /180"
+  },
+  "observability": "point detector occupancy/pulses and controller state only; simulator queues, per-vehicle routes/speed and network insertion backlog never enter policy observations",
+  "field_validated": false,
+  "board_verified": false
+}

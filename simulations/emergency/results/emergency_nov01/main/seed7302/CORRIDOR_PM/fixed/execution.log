@@ -1,0 +1,30 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7302/CORRIDOR_PM/fixed/../../../../../../network/mandaue.net.xml' ... done (263ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7302/CORRIDOR_PM/fixed/../../../../../../scenarios/CORRIDOR_PM_fixed.add.xml' ... done (1ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7302/CORRIDOR_PM/fixed/../../../../../../network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7302/CORRIDOR_PM/fixed/pucks.add.xml' ... done (2ms).
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7302/CORRIDOR_PM/fixed/../../../../../../emergency/inputs/CORRIDOR_PM/scenarios/CORRIDOR_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4790.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 81.17s
+ Real time factor: 59.0098
+ UPS: 78719.734394
+Vehicles:
+ Inserted: 7659 (Loaded: 17216)
+ Running: 713
+ Waiting: 9557
+ Emergency Braking: 1
+Statistics (avg of 7659):
+ RouteLength: 603.15
+ Speed: 2.01
+ Duration: 417.15
+ WaitingTime: 297.44
+ TimeLoss: 358.33
+ DepartDelay: 1146.26
+ DepartDelayWaiting: 1902.40
+{"case": "CORRIDOR_PM", "arm": "fixed", "seed": 7302, "tag": "main", "actual_end_s": 4790.0, "beacon_cap_s": 20, "probe": {"scheduled_s": 1800.0, "completed": true, "depart_s": 3241.5, "arrival_s": 4789.5, "dispatch_to_arrival_s": 2989.5, "duration": 1548.0, "departDelay": 1441.5, "waitingTime": 1226.5, "timeLoss": 1358.36, "waitingCount": 13.0, "routeLength": 1712.45}, "ordinary_scheduled": 14702, "ordinary_counts": {"completed": 3545, "active": 709, "uninserted": 10448}, "ordinary_mean_accumulated_s": 1478.0092324173609, "ordinary_completion_percent": 24.11236566453544, "collisions": 0, "teleports": 0, "phase_errors": [], "wrong_approach_matches": [], "unverified_approach_matches": [], "encounters": {"J3": {"site": "J3", "stage": 2, "request_s": 3815.5, "request_source_time_s": 3815.0, "distance_at_request_m": 148.1046616549954, "expires_s": 3835.5, "release_s": 3835.5, "release_reason": "encounter_cap", "entered_polygon": true, "first_compatible_green_s": 3959.5}, "J2": {"site": "J2", "stage": 2, "request_s": 4443.5, "request_source_time_s": 4443.0, "distance_at_request_m": 146.4553528246093, "expires_s": 4463.5, "release_s": 4463.5, "release_reason": "encounter_cap", "entered_polygon": true, "first_compatible_green_s": 4443.5}, "J1": {"site": "J1", "stage": 2, "request_s": 4630.5, "request_source_time_s": 4630.0, "distance_at_request_m": 145.0777124317284, "expires_s": 4650.5, "release_s": 4650.5, "release_reason": "encounter_cap", "entered_polygon": true, "first_compatible_green_s": 4744.0}}, "ground_truth_encounters": {"J3": {"site": "J3", "approach_start_s": 3814.5, "true_stage": 2, "stopline_pass_s": 4388.5}, "J2": {"site": "J2", "approach_start_s": 4443.0, "true_stage": 2, "stopline_pass_s": 4584.5}, "J1": {"site": "J1", "approach_start_s": 4629.5, "true_stage": 2, "stopline_pass_s": 4756.0}}, "route_sha256": "7921e03dc0578eb613b87af2a2eb34614eb4819527bf7e6fcaf6cade6cc8633d", "ordinary_measurement_cutoff_s": 4200, "counterfactual_baseline": "fixed and local arms log eligible beacon observations but apply no priority", "physical_beacon_verified": false}
+Warning: Missing green phase in tlLogic 'cluster_13480124955_581850114', program 'FIXED_REFERENCE_PM_V2' for tl-index 6.
+Warning: Missing green phase in tlLogic 'J3', program 'FIXED_REFERENCE_PM_V2' for tl-index 7.
+Warning: Vehicle 'CORRIDOR_PM_03675' performs emergency braking on lane ':J1_17_0' with decel=9.00, wished=4.50, severity=1.00, time=1799.00.

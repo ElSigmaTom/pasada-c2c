@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "runs": 48,
+  "source_movement_cells_checked": 372,
+  "cohort_vehicle_records_checked": 389220,
+  "collisions": 0,
+  "teleports": 0,
+  "phase_errors": 0,
+  "canonical_native_outputs": "SHA256-checked complete .xml.gz mirrors captured immediately after SUMO close; XML parsed and trip accounting recomputed independently.",
+  "post_process_raw_copies_differing_from_canonical": [
+    "results/paired_nov01/seed7101/CORRIDOR_AM/fixed/tripinfo.xml"
+  ],
+  "note": "Output/accounting checks and finite motor-only diagnostics, not field/pedestrian acceptance."
+}

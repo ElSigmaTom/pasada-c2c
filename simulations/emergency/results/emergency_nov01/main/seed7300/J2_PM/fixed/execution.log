@@ -1,0 +1,27 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J2_PM/fixed/../../../../../../network/isolated_J2.net.xml' ... done (25ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J2_PM/fixed/../../../../../../scenarios/J2_PM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J2_PM/fixed/../../../../../../network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J2_PM/fixed/pucks.add.xml' ... done (1ms).
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J2_PM/fixed/../../../../../../emergency/inputs/J2_PM/scenarios/J2_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4200.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 11.46s
+ Real time factor: 366.588
+ UPS: 164601.640918
+Vehicles:
+ Inserted: 1968 (Loaded: 5767)
+ Running: 277
+ Waiting: 3799
+Statistics (avg of 1968):
+ RouteLength: 538.11
+ Speed: 1.45
+ Duration: 479.13
+ WaitingTime: 321.13
+ TimeLoss: 419.86
+ DepartDelay: 941.78
+ DepartDelayWaiting: 1540.57
+{"case": "J2_PM", "arm": "fixed", "seed": 7300, "tag": "main", "actual_end_s": 4200.0, "beacon_cap_s": 20, "probe": {"scheduled_s": 1800.0, "completed": true, "depart_s": 1800.0, "arrival_s": 2497.0, "dispatch_to_arrival_s": 697.0, "duration": 697.0, "departDelay": 0.0, "waitingTime": 522.0, "timeLoss": 655.41, "waitingCount": 6.0, "routeLength": 549.59}, "ordinary_scheduled": 4942, "ordinary_counts": {"completed": 866, "active": 277, "uninserted": 3799}, "ordinary_mean_accumulated_s": 1576.501272966411, "ordinary_completion_percent": 17.52326993120194, "collisions": 0, "teleports": 0, "phase_errors": [], "wrong_approach_matches": [], "unverified_approach_matches": [], "encounters": {"J2": {"site": "J2", "stage": 2, "request_s": 1941.0, "request_source_time_s": 1940.5, "distance_at_request_m": 149.27136724390942, "expires_s": 1961.0, "release_s": 1961.0, "release_reason": "encounter_cap", "entered_polygon": true, "first_compatible_green_s": 2045.5}}, "ground_truth_encounters": {"J2": {"site": "J2", "approach_start_s": 1940.0, "true_stage": 2, "stopline_pass_s": 2469.5}}, "route_sha256": "9874d8b0cf47de9a83693528732461d605e8e994f3ccf9bd2a5829b4369c997e", "ordinary_measurement_cutoff_s": 4200, "counterfactual_baseline": "fixed and local arms log eligible beacon observations but apply no priority", "physical_beacon_verified": false}
+Warning: Missing green phase in tlLogic 'cluster_13480124955_581850114', program 'FIXED_REFERENCE_PM_V2' for tl-index 6.

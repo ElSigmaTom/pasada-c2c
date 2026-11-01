@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <tlLogic id="J1" type="static" programID="FIXED_REFERENCE_AM_V2" offset="0">
+    <phase duration="41.5" state="GGGGrrrrrrrrrrrrrr" name="J1_stage0_green" />
+    <phase duration="4" state="yyyyrrrrrrrrrrrrrr" name="J1_stage0_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage0_all_red" />
+    <phase duration="54.0" state="rrrrGGGGGrrrrrrrrr" name="J1_stage1_green" />
+    <phase duration="4" state="rrrryyyyyrrrrrrrrr" name="J1_stage1_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage1_all_red" />
+    <phase duration="21.0" state="rrrrrrrrrGGGGrrrrr" name="J1_stage2_green" />
+    <phase duration="4" state="rrrrrrrrryyyyrrrrr" name="J1_stage2_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage2_all_red" />
+    <phase duration="54.5" state="rrrrrrrrrrrrrGGGGG" name="J1_stage3_green" />
+    <phase duration="4" state="rrrrrrrrrrrrryyyyy" name="J1_stage3_yellow" />
+    <phase duration="4" state="rrrrrrrrrrrrrrrrrr" name="J1_stage3_all_red" />
+  </tlLogic>
+</additional>

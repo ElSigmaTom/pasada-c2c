@@ -1,0 +1,27 @@
+Loading net-file from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J3_PM/priority20/../../../../../../network/isolated_J3.net.xml' ... done (37ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J3_PM/priority20/../../../../../../scenarios/J3_PM_fixed.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J3_PM/priority20/../../../../../../network/study_locations.add.xml' ... done (0ms).
+Loading additional-files from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J3_PM/priority20/pucks.add.xml' ... done (1ms).
+Loading route-files incrementally from '/workspace/scratch/a6c9a2fe4813/mand_audit/PASADA_SUMO_Starter/results/emergency_nov01/main/seed7300/J3_PM/priority20/../../../../../../emergency/inputs/J3_PM/scenarios/J3_PM.rou.xml'
+Loading done.
+Simulation version 1.28.0 started via libsumo with time: 0.00.
+Simulation ended at time: 4200.00.
+Reason: Libsumo requested termination.
+Performance:
+ Duration: 16.16s
+ Real time factor: 259.949
+ UPS: 121451.135731
+Vehicles:
+ Inserted: 2595 (Loaded: 7063)
+ Running: 277
+ Waiting: 4466
+Statistics (avg of 2595):
+ RouteLength: 470.40
+ Speed: 1.99
+ Duration: 378.09
+ WaitingTime: 255.58
+ TimeLoss: 333.90
+ DepartDelay: 594.27
+ DepartDelayWaiting: 1676.83
+{"case": "J3_PM", "arm": "priority20", "seed": 7300, "tag": "main", "actual_end_s": 4200.0, "beacon_cap_s": 20, "probe": {"scheduled_s": 1800.0, "completed": true, "depart_s": 1800.0, "arrival_s": 2137.0, "dispatch_to_arrival_s": 337.0, "duration": 337.0, "departDelay": 0.0, "waitingTime": 214.0, "timeLoss": 289.67, "waitingCount": 5.0, "routeLength": 619.42}, "ordinary_scheduled": 6053, "ordinary_counts": {"completed": 1407, "active": 255, "uninserted": 4391}, "ordinary_mean_accumulated_s": 1424.5959076491044, "ordinary_completion_percent": 23.244672063439616, "collisions": 0, "teleports": 0, "phase_errors": [], "wrong_approach_matches": [], "unverified_approach_matches": [], "encounters": {"J3": {"site": "J3", "stage": 2, "request_s": 2002.0, "request_source_time_s": 2001.5, "distance_at_request_m": 145.26945564305814, "expires_s": 2022.0, "release_s": 2022.0, "release_reason": "encounter_cap", "entered_polygon": true, "first_compatible_green_s": 2008.0}}, "ground_truth_encounters": {"J3": {"site": "J3", "approach_start_s": 2001.0, "true_stage": 2, "stopline_pass_s": 2107.0}}, "route_sha256": "9f7903f767afc7562bac818c75ea2f043e32052d203fdffc1f0562d8e2a7c952", "ordinary_measurement_cutoff_s": 4200, "counterfactual_baseline": "fixed and local arms log eligible beacon observations but apply no priority", "physical_beacon_verified": false}
+Warning: Missing green phase in tlLogic 'J3', program 'FIXED_REFERENCE_PM_V2' for tl-index 7.

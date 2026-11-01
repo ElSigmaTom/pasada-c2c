@@ -1,0 +1,1 @@
+sensor_id,site_id,approach,lane,sumo_edge,offset_from_stopline_m,paired_sensor_id,observed_quantity,event_definition,sample_interval_ms,aggregation_window_s,latency_ms,health_available,error_evidence_source,status

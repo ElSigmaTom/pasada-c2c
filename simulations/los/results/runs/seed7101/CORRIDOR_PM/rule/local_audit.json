@@ -1,0 +1,10 @@
+{
+  "case": "CORRIDOR_PM",
+  "mode": "rule",
+  "seed": 7101,
+  "original_metric_differences": {},
+  "missing_completed_trip_measurements": [],
+  "n_local_passages": 7283,
+  "n_open_local_passages": 515,
+  "valid": true
+}

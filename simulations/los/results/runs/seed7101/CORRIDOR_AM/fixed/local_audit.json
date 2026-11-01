@@ -1,0 +1,10 @@
+{
+  "case": "CORRIDOR_AM",
+  "mode": "fixed",
+  "seed": 7101,
+  "original_metric_differences": {},
+  "missing_completed_trip_measurements": [],
+  "n_local_passages": 6727,
+  "n_open_local_passages": 603,
+  "valid": true
+}

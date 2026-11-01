@@ -1,0 +1,650 @@
+{
+  "table8": [
+    [
+      "Case",
+      "Control",
+      "Travel s",
+      "P95 travel s",
+      "Waiting s",
+      "Time lost s",
+      "Stops / veh"
+    ],
+    [
+      "J1 AM",
+      "Fixed",
+      "470.3",
+      "836.9",
+      "307.8",
+      "416.0",
+      "4.3"
+    ],
+    [
+      "J1 AM",
+      "PASADA",
+      "406.2",
+      "1,081.1",
+      "227.9",
+      "352.0",
+      "4.4"
+    ],
+    [
+      "J1 PM",
+      "Fixed",
+      "426.0",
+      "734.2",
+      "314.2",
+      "371.2",
+      "2.1"
+    ],
+    [
+      "J1 PM",
+      "PASADA",
+      "333.6",
+      "1,124.0",
+      "210.7",
+      "279.4",
+      "2.5"
+    ],
+    [
+      "J2 AM",
+      "Fixed",
+      "417.4",
+      "899.3",
+      "263.7",
+      "356.4",
+      "4.6"
+    ],
+    [
+      "J2 AM",
+      "PASADA",
+      "350.6",
+      "832.0",
+      "214.4",
+      "289.1",
+      "3.6"
+    ],
+    [
+      "J2 PM",
+      "Fixed",
+      "642.1",
+      "1,007.8",
+      "459.0",
+      "581.0",
+      "5.7"
+    ],
+    [
+      "J2 PM",
+      "PASADA",
+      "400.2",
+      "790.8",
+      "251.9",
+      "342.7",
+      "4.7"
+    ],
+    [
+      "J3 AM",
+      "Fixed",
+      "396.6",
+      "970.0",
+      "271.5",
+      "346.5",
+      "9.3"
+    ],
+    [
+      "J3 AM",
+      "PASADA",
+      "327.9",
+      "794.8",
+      "211.6",
+      "278.1",
+      "7.9"
+    ],
+    [
+      "J3 PM",
+      "Fixed",
+      "531.7",
+      "1,214.9",
+      "411.5",
+      "484.5",
+      "5.5"
+    ],
+    [
+      "J3 PM",
+      "PASADA",
+      "420.7",
+      "948.5",
+      "281.0",
+      "370.3",
+      "7.8"
+    ],
+    [
+      "Network AM",
+      "Fixed",
+      "473.4",
+      "715.0",
+      "298.2",
+      "411.3",
+      "6.3"
+    ],
+    [
+      "Network AM",
+      "PASADA",
+      "368.2",
+      "738.6",
+      "201.4",
+      "308.1",
+      "5.3"
+    ],
+    [
+      "Network PM",
+      "Fixed",
+      "443.1",
+      "959.6",
+      "316.9",
+      "380.7",
+      "3.2"
+    ],
+    [
+      "Network PM",
+      "PASADA",
+      "313.7",
+      "975.2",
+      "189.4",
+      "255.0",
+      "3.1"
+    ]
+  ],
+  "table9": [
+    [
+      "Case",
+      "Control",
+      "Scheduled",
+      "Completed",
+      "Active",
+      "Not inserted",
+      "Accrued s / veh"
+    ],
+    [
+      "J1 AM",
+      "Fixed",
+      "8,297",
+      "2,804.3",
+      "520.0",
+      "4,972.7",
+      "1,327.0"
+    ],
+    [
+      "J1 AM",
+      "PASADA",
+      "8,297",
+      "2,798.7",
+      "511.3",
+      "4,987.0",
+      "1,308.0"
+    ],
+    [
+      "J1 PM",
+      "Fixed",
+      "6,208",
+      "2,983.0",
+      "443.3",
+      "2,781.7",
+      "1,067.1"
+    ],
+    [
+      "J1 PM",
+      "PASADA",
+      "6,208",
+      "2,932.3",
+      "396.3",
+      "2,879.3",
+      "1,034.6"
+    ],
+    [
+      "J2 AM",
+      "Fixed",
+      "3,580",
+      "979.0",
+      "208.7",
+      "2,392.3",
+      "1,403.0"
+    ],
+    [
+      "J2 AM",
+      "PASADA",
+      "3,580",
+      "1,047.7",
+      "158.7",
+      "2,373.7",
+      "1,347.2"
+    ],
+    [
+      "J2 PM",
+      "Fixed",
+      "4,942",
+      "876.0",
+      "264.3",
+      "3,801.7",
+      "1,574.9"
+    ],
+    [
+      "J2 PM",
+      "PASADA",
+      "4,942",
+      "1,015.3",
+      "149.7",
+      "3,777.0",
+      "1,503.4"
+    ],
+    [
+      "J3 AM",
+      "Fixed",
+      "5,579",
+      "992.3",
+      "215.0",
+      "4,371.7",
+      "1,529.6"
+    ],
+    [
+      "J3 AM",
+      "PASADA",
+      "5,579",
+      "1,211.0",
+      "204.7",
+      "4,163.3",
+      "1,455.5"
+    ],
+    [
+      "J3 PM",
+      "Fixed",
+      "6,053",
+      "1,119.3",
+      "286.3",
+      "4,647.3",
+      "1,570.5"
+    ],
+    [
+      "J3 PM",
+      "PASADA",
+      "6,053",
+      "1,414.0",
+      "250.0",
+      "4,389.0",
+      "1,430.2"
+    ],
+    [
+      "Network AM",
+      "Fixed",
+      "15,509",
+      "3,247.3",
+      "684.0",
+      "11,577.7",
+      "1,530.6"
+    ],
+    [
+      "Network AM",
+      "PASADA",
+      "15,509",
+      "3,994.0",
+      "662.0",
+      "10,853.0",
+      "1,442.1"
+    ],
+    [
+      "Network PM",
+      "Fixed",
+      "14,702",
+      "3,558.0",
+      "706.7",
+      "10,437.3",
+      "1,477.6"
+    ],
+    [
+      "Network PM",
+      "PASADA",
+      "14,702",
+      "4,111.3",
+      "626.3",
+      "9,964.3",
+      "1,378.2"
+    ]
+  ],
+  "table10": [
+    [
+      "Case",
+      "Control",
+      "Mean halted",
+      "P95 halted",
+      "Max tail m",
+      "Exits in hour"
+    ],
+    [
+      "J1 AM",
+      "Fixed",
+      "152.4",
+      "200.0",
+      "236.8",
+      "3,667.3"
+    ],
+    [
+      "J1 AM",
+      "PASADA",
+      "114.6",
+      "144.7",
+      "236.8",
+      "3,639.0"
+    ],
+    [
+      "J1 PM",
+      "Fixed",
+      "142.7",
+      "199.4",
+      "236.8",
+      "3,550.7"
+    ],
+    [
+      "J1 PM",
+      "PASADA",
+      "94.3",
+      "137.0",
+      "236.8",
+      "3,514.3"
+    ],
+    [
+      "J2 AM",
+      "Fixed",
+      "19.5",
+      "31.7",
+      "88.7",
+      "1,386.7"
+    ],
+    [
+      "J2 AM",
+      "PASADA",
+      "17.5",
+      "28.7",
+      "89.0",
+      "1,396.0"
+    ],
+    [
+      "J2 PM",
+      "Fixed",
+      "41.0",
+      "57.7",
+      "95.4",
+      "1,485.7"
+    ],
+    [
+      "J2 PM",
+      "PASADA",
+      "24.2",
+      "40.7",
+      "94.7",
+      "1,525.0"
+    ],
+    [
+      "J3 AM",
+      "Fixed",
+      "18.3",
+      "25.7",
+      "65.6",
+      "1,659.0"
+    ],
+    [
+      "J3 AM",
+      "PASADA",
+      "18.8",
+      "25.7",
+      "65.6",
+      "1,795.7"
+    ],
+    [
+      "J3 PM",
+      "Fixed",
+      "19.8",
+      "27.0",
+      "65.1",
+      "1,828.7"
+    ],
+    [
+      "J3 PM",
+      "PASADA",
+      "20.7",
+      "27.3",
+      "65.5",
+      "2,028.3"
+    ],
+    [
+      "Network AM",
+      "Fixed",
+      "179.4",
+      "228.7",
+      "236.8",
+      "5,138.0"
+    ],
+    [
+      "Network AM",
+      "PASADA",
+      "148.4",
+      "189.7",
+      "236.8",
+      "5,661.7"
+    ],
+    [
+      "Network PM",
+      "Fixed",
+      "176.1",
+      "236.0",
+      "236.8",
+      "5,324.3"
+    ],
+    [
+      "Network PM",
+      "PASADA",
+      "127.3",
+      "173.7",
+      "236.8",
+      "5,590.3"
+    ]
+  ],
+  "paired": [
+    {
+      "case": "J1_AM",
+      "all_demand_time_reduction_percent": 1.431507203942611,
+      "all_demand_time_reduction_sd": 0.6213138170061612,
+      "completion_change_pp": -0.06829777831344568,
+      "completion_change_pp_sd": 0.20956653177044032,
+      "completed_travel_reduction_percent": 13.621826801093032,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        1.9083644418937258,
+        0.7288736300570582,
+        1.6572835398770493
+      ],
+      "completion_changes_by_seed": [
+        0.16873568759793045,
+        -0.2289984331686128,
+        -0.14463058936965467
+      ]
+    },
+    {
+      "case": "J1_PM",
+      "all_demand_time_reduction_percent": 3.037802168816698,
+      "all_demand_time_reduction_sd": 1.671024485765319,
+      "completion_change_pp": -0.8161512027491421,
+      "completion_change_pp_sd": 0.3032175237005036,
+      "completed_travel_reduction_percent": 21.702288895917235,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        2.1439450137911713,
+        2.0038231287399975,
+        4.965638363918925
+      ],
+      "completion_changes_by_seed": [
+        -0.9664948453608204,
+        -1.014819587628871,
+        -0.46713917525773496
+      ]
+    },
+    {
+      "case": "J2_AM",
+      "all_demand_time_reduction_percent": 3.9746001104219237,
+      "all_demand_time_reduction_sd": 0.5746815996787594,
+      "completion_change_pp": 1.9180633147113586,
+      "completion_change_pp_sd": 0.22750077696220783,
+      "completed_travel_reduction_percent": 15.983636661527104,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        3.4777053112617207,
+        4.603941996618718,
+        3.8421530233853325
+      ],
+      "completion_changes_by_seed": [
+        1.7597765363128488,
+        2.1787709497206684,
+        1.8156424581005588
+      ]
+    },
+    {
+      "case": "J2_PM",
+      "all_demand_time_reduction_percent": 4.544664943172048,
+      "all_demand_time_reduction_sd": 0.510671833636137,
+      "completion_change_pp": 2.8193713746121674,
+      "completion_change_pp_sd": 0.5897070820017365,
+      "completed_travel_reduction_percent": 37.67165903172522,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        5.022350276642642,
+        4.006409078147815,
+        4.605235474725687
+      ],
+      "completion_changes_by_seed": [
+        3.075677863213272,
+        2.1448806151355733,
+        3.2375556454876566
+      ]
+    },
+    {
+      "case": "J3_AM",
+      "all_demand_time_reduction_percent": 4.841758215602752,
+      "all_demand_time_reduction_sd": 0.9204134627326812,
+      "completion_change_pp": 3.9194598793093136,
+      "completion_change_pp_sd": 0.7731059620607448,
+      "completed_travel_reduction_percent": 17.23186688643569,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        4.919194667667413,
+        3.8850728663583243,
+        5.721007112782518
+      ],
+      "completion_changes_by_seed": [
+        4.122602616956442,
+        3.0650654239110935,
+        4.570711597060406
+      ]
+    },
+    {
+      "case": "J3_PM",
+      "all_demand_time_reduction_percent": 8.93375803469739,
+      "all_demand_time_reduction_sd": 1.2661040584548793,
+      "completion_change_pp": 4.868109477394129,
+      "completion_change_pp_sd": 0.3221896024298713,
+      "completed_travel_reduction_percent": 20.730531051212942,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        9.707497599307992,
+        7.472637443012333,
+        9.62113906177185
+      ],
+      "completion_changes_by_seed": [
+        5.187510325458451,
+        4.543201718156286,
+        4.873616388567651
+      ]
+    },
+    {
+      "case": "CORRIDOR_AM",
+      "all_demand_time_reduction_percent": 5.78060110842751,
+      "all_demand_time_reduction_sd": 0.4827069372057661,
+      "completion_change_pp": 4.814408837879081,
+      "completion_change_pp_sd": 0.20209038189294629,
+      "completed_travel_reduction_percent": 22.235961023141332,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        5.517647982553135,
+        6.337692200511957,
+        5.48646314221744
+      ],
+      "completion_changes_by_seed": [
+        4.848797472435361,
+        4.997098458959311,
+        4.59733058224257
+      ]
+    },
+    {
+      "case": "CORRIDOR_PM",
+      "all_demand_time_reduction_percent": 6.7318639380960015,
+      "all_demand_time_reduction_sd": 0.3941123390031847,
+      "completion_change_pp": 3.763660272978735,
+      "completion_change_pp_sd": 0.19061215759292405,
+      "completed_travel_reduction_percent": 29.19825814495458,
+      "paired_seeds": [
+        7100,
+        7101,
+        7102
+      ],
+      "all_demand_changes_by_seed": [
+        6.334071253086226,
+        7.122189825261834,
+        6.739330735939944
+      ],
+      "completion_changes_by_seed": [
+        3.550537341858252,
+        3.917834308257383,
+        3.82260916882057
+      ]
+    }
+  ],
+  "audit": {
+    "status": "PASS",
+    "runs": 48,
+    "source_movement_cells_checked": 372,
+    "cohort_vehicle_records_checked": 389220,
+    "collisions": 0,
+    "teleports": 0,
+    "phase_errors": 0,
+    "canonical_native_outputs": "SHA256-checked complete .xml.gz mirrors captured immediately after SUMO close; XML parsed and trip accounting recomputed independently.",
+    "post_process_raw_copies_differing_from_canonical": [
+      "results/paired_nov01/seed7101/CORRIDOR_AM/fixed/tripinfo.xml"
+    ],
+    "note": "Output/accounting checks and finite motor-only diagnostics, not field/pedestrian acceptance."
+  }
+}

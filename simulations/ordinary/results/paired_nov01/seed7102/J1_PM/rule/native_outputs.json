@@ -1,0 +1,17 @@
+{
+  "tripinfo.xml": {
+    "bytes": 3090159,
+    "sha256": "88780d7348e3801b2f1089bea682049b1dedd0d691bb29e35b26dd56bf12693a",
+    "mirror": "tripinfo.xml.gz"
+  },
+  "summary.xml": {
+    "bytes": 122344,
+    "sha256": "f1d0c6734fe574756df337a7afcb5b3e671bfc97c1ce810fe33c98d73959f56c",
+    "mirror": "summary.xml.gz"
+  },
+  "collisions.xml": {
+    "bytes": 2832,
+    "sha256": "f39d94039fa8255b98c8e2a4c60129eebf059f82784f1e68d2359d49896649a6",
+    "mirror": "collisions.xml.gz"
+  }
+}

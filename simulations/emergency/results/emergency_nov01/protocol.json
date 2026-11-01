@@ -1,0 +1,685 @@
+{
+  "version": "emergency-2026-11-01-v1",
+  "tasks": [
+    [
+      "J1_AM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "fixed",
+      7300,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "local",
+      7300,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "priority20",
+      7300,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "fixed",
+      7301,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "local",
+      7301,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "priority20",
+      7301,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "J1_AM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "J1_PM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "J2_AM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "J2_PM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "J3_PM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "CORRIDOR_AM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "fixed",
+      7302,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "local",
+      7302,
+      "main"
+    ],
+    [
+      "CORRIDOR_PM",
+      "priority20",
+      7302,
+      "main"
+    ],
+    [
+      "J3_AM",
+      "priority60",
+      7300,
+      "cap_sensitivity"
+    ],
+    [
+      "J3_PM",
+      "priority60",
+      7300,
+      "cap_sensitivity"
+    ],
+    [
+      "J3_AM",
+      "priority60",
+      7301,
+      "cap_sensitivity"
+    ],
+    [
+      "J3_PM",
+      "priority60",
+      7301,
+      "cap_sensitivity"
+    ],
+    [
+      "J3_AM",
+      "priority60",
+      7302,
+      "cap_sensitivity"
+    ],
+    [
+      "J3_PM",
+      "priority60",
+      7302,
+      "cap_sensitivity"
+    ]
+  ],
+  "dispatch_s": 1800,
+  "demand": "Original full-count background plus ONE identical controlled probe in every arm; not an observed emergency incident.",
+  "source": {
+    "network_route": "CORRIDOR_r046",
+    "isolated_movements": {
+      "J1": "J1_m00",
+      "J2": "J2_m03",
+      "J3": "J3_m08"
+    },
+    "dispatch_s": 1800,
+    "selection": "Shortest existing simple three-site journey containing A. Soriano/Ouano through movement; local probes use its matching movement visits. Selected geometrically before performance runs.",
+    "cases": {
+      "J1_AM": {
+        "probe_route": "J1_m00",
+        "original_scheduled": 9680,
+        "with_probe": 9681,
+        "route_sha256": "5fbec51d5c930fd25b7b0f0c8ad1057b63537d2977476837c7858cd2769700ff"
+      },
+      "J1_PM": {
+        "probe_route": "J1_m00",
+        "original_scheduled": 7243,
+        "with_probe": 7244,
+        "route_sha256": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66"
+      },
+      "J2_AM": {
+        "probe_route": "J2_m03",
+        "original_scheduled": 4177,
+        "with_probe": 4178,
+        "route_sha256": "f3cb169e6a9b472a82a24fe68c872bcfc7b73567b49e44e53878390f6151101a"
+      },
+      "J2_PM": {
+        "probe_route": "J2_m03",
+        "original_scheduled": 5766,
+        "with_probe": 5767,
+        "route_sha256": "9874d8b0cf47de9a83693528732461d605e8e994f3ccf9bd2a5829b4369c997e"
+      },
+      "J3_AM": {
+        "probe_route": "J3_m08",
+        "original_scheduled": 6508,
+        "with_probe": 6509,
+        "route_sha256": "eb7b6cdf2b346b4ed8f5ec085e1e66fa8740f1fd480b8db2c30fb98d10d2e378"
+      },
+      "J3_PM": {
+        "probe_route": "J3_m08",
+        "original_scheduled": 7062,
+        "with_probe": 7063,
+        "route_sha256": "9f7903f767afc7562bac818c75ea2f043e32052d203fdffc1f0562d8e2a7c952"
+      },
+      "CORRIDOR_AM": {
+        "probe_route": "CORRIDOR_r046",
+        "original_scheduled": 18154,
+        "with_probe": 18155,
+        "route_sha256": "f35a23c3f389cd433f9c6b45005f65bb1f4b9353ba028f865275943d5ab961b6"
+      },
+      "CORRIDOR_PM": {
+        "probe_route": "CORRIDOR_r046",
+        "original_scheduled": 17215,
+        "with_probe": 17216,
+        "route_sha256": "7921e03dc0578eb613b87af2a2eb34614eb4819527bf7e6fcaf6cade6cc8633d"
+      }
+    }
+  },
+  "cutoff_ordinary_s": 4200,
+  "maximum_EV_horizon_s": 14400,
+  "stopping": "After 4200 and EV arrival, else 14400; incomplete EVs remain censored.",
+  "beacon": {
+    "frequency_hz": 1,
+    "delivery_delay_s": 0.5,
+    "freshness_s": 3,
+    "fix_window_s": 5,
+    "minimum_fixes": 3,
+    "nominal_error_bound_m": 0.5,
+    "position_model": "Exact SUMO coordinates as ideal GNSS fixes; no sampled position noise or physical RF measurement.",
+    "gate_m": 150,
+    "heading_gate_degrees": 45,
+    "lateral_gate_m": 12,
+    "caps_s": [
+      20,
+      60
+    ],
+    "cap_semantics": "Elapsed from first accepted request INCLUDING transition time. No renewal for the same site encounter."
+  },
+  "control": "Protected stage transfer after >=10s green, 4s yellow, 4s all red; no abrupt conflicting green. Cyclic local operation resumes on release. No pedestrian inputs in this motor-only test.",
+  "EV_behavior": "Same passenger-class 5m/2m ordinary driver proxy in all arms, emergency GUI shape only; no bluelight device, red-light exemption, speed/lane mode override or teleport.",
+  "fingerprints": {
+    "emergency/beacon.py": "e27ab4549d48a4e6d13848b1c96e6f5fcf99ea0dc7b116d17b6ceba18574283b",
+    "emergency/run_study.py": "7fbe700ed2ef4666b2a373be29592ae4b6f3fc0a386701bff1702ecee680bdfa",
+    "emergency/input_manifest.json": "39989be1c85728c2f50d9bb4a3dc772d221561447cb5dc864f0ea9292676b847",
+    "emergency/test_beacon.py": "74bd14cd2513e9467e0c8fc09a827f9baf1561eddbbc8f375244b398b055a857",
+    "learning/common.py": "560309b9da9b4c0aa5a64c020110a803b376a23b68d8e8dc9160be15c40ede3b",
+    "learning/control.py": "1d3e1eb65da8b77d4d7c76f3e9b87cb093e314eb30be3fe243ccdb5472763afd",
+    "learning/environment.py": "b926c981e878632989b533b10e726eaf1845151d2c430a7ef824c342c61bd8bb",
+    "emergency/inputs/J2_AM/geometry.json": "2a67c6c172d211a4b3a6e9f01e1bbc73d3a12ef4598b816e453e338d4b8c6cd9",
+    "emergency/inputs/J3_AM/geometry.json": "87d47f732e6214a488b8d008c0b909f152b52f71d409cf2137e2cb7855de47f2",
+    "emergency/inputs/J1_PM/geometry.json": "83bd369625e80c1ab395b9c54ea50a411faf0e182fdcdb8815d3516aca489c47",
+    "emergency/inputs/J1_AM/geometry.json": "83bd369625e80c1ab395b9c54ea50a411faf0e182fdcdb8815d3516aca489c47",
+    "emergency/inputs/J3_PM/geometry.json": "87d47f732e6214a488b8d008c0b909f152b52f71d409cf2137e2cb7855de47f2",
+    "emergency/inputs/CORRIDOR_AM/geometry.json": "53135ab4070bff29ba8aff95eb2d61a00da720d9b307acaabcc0fd0f3da1bc9f",
+    "emergency/inputs/J2_PM/geometry.json": "2a67c6c172d211a4b3a6e9f01e1bbc73d3a12ef4598b816e453e338d4b8c6cd9",
+    "emergency/inputs/CORRIDOR_PM/geometry.json": "53135ab4070bff29ba8aff95eb2d61a00da720d9b307acaabcc0fd0f3da1bc9f",
+    "emergency/inputs/J2_AM/scenarios/J2_AM.rou.xml": "f3cb169e6a9b472a82a24fe68c872bcfc7b73567b49e44e53878390f6151101a",
+    "emergency/inputs/J2_AM/scenarios/J2_AM.sumocfg": "78f4b7fe49303a6191daabbd3e013e5b43d7b765e53ad52309981f30a021c25b",
+    "emergency/inputs/J2_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "emergency/inputs/J3_AM/scenarios/J3_AM.rou.xml": "eb7b6cdf2b346b4ed8f5ec085e1e66fa8740f1fd480b8db2c30fb98d10d2e378",
+    "emergency/inputs/J3_AM/scenarios/J3_AM.sumocfg": "a10e771b8c27c8829679e27bfd59c0faf64bd752726b233919bbe1c795489e38",
+    "emergency/inputs/J3_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "emergency/inputs/J1_PM/scenarios/J1_PM.sumocfg": "8424c1b3baff99081a4a97548afcb0d969dd43f5702c7afec43c5f7fff8d6ada",
+    "emergency/inputs/J1_PM/scenarios/J1_PM.rou.xml": "8b2e220ebd92006ec298985e04014c7ce24a911f36b7530ee20dae00b832ea66",
+    "emergency/inputs/J1_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "emergency/inputs/J1_AM/scenarios/J1_AM.rou.xml": "5fbec51d5c930fd25b7b0f0c8ad1057b63537d2977476837c7858cd2769700ff",
+    "emergency/inputs/J1_AM/scenarios/J1_AM.sumocfg": "ffa9bd2e90f646023baf509758460c33a2034d8ba44f415f4e08b688812b8af5",
+    "emergency/inputs/J1_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "emergency/inputs/J3_PM/scenarios/J3_PM.rou.xml": "9f7903f767afc7562bac818c75ea2f043e32052d203fdffc1f0562d8e2a7c952",
+    "emergency/inputs/J3_PM/scenarios/J3_PM.sumocfg": "2d1f498bb1a17cb221066c3c8d38146fdfbfd172d2fc9ca73cc9943bf5bf3df6",
+    "emergency/inputs/J3_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "emergency/inputs/CORRIDOR_AM/scenarios/CORRIDOR_AM.rou.xml": "f35a23c3f389cd433f9c6b45005f65bb1f4b9353ba028f865275943d5ab961b6",
+    "emergency/inputs/CORRIDOR_AM/scenarios/CORRIDOR_AM.sumocfg": "36b76fbeff4e83ce3f5dbbf6c6b3ec4153eb50397384eb4a00dfb34bd27f4078",
+    "emergency/inputs/CORRIDOR_AM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "emergency/inputs/J2_PM/scenarios/J2_PM.rou.xml": "9874d8b0cf47de9a83693528732461d605e8e994f3ccf9bd2a5829b4369c997e",
+    "emergency/inputs/J2_PM/scenarios/J2_PM.sumocfg": "176a6f3275ac7365357c50b8aba4d6e1b942ddee215044f61a21d32b71b9b3d5",
+    "emergency/inputs/J2_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "emergency/inputs/CORRIDOR_PM/scenarios/CORRIDOR_PM.sumocfg": "d05d8cee89f37552606d77d42736c68887a17542e038daeed42daebe1b395d35",
+    "emergency/inputs/CORRIDOR_PM/scenarios/CORRIDOR_PM.rou.xml": "7921e03dc0578eb613b87af2a2eb34614eb4819527bf7e6fcaf6cade6cc8633d",
+    "emergency/inputs/CORRIDOR_PM/model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "scenarios/CORRIDOR_PM.sumocfg": "3fce76e37d7ce36c09320526fa34d09070a1c21f5a5c75693940511e355df6a5",
+    "scenarios/ST50_CORRIDOR_AM_crossings.add.xml": "4767d030e5d4990e4e0910a150f90cf3f8b409a0bcaa1f7e09c24a43f9dc134e",
+    "scenarios/CORRIDOR_AM_crossings.add.xml": "d18ec1da7ce126feec39a08c7d973601ae2ea821af553f6d4cba13260d14461c",
+    "scenarios/J1_AM_fixed.add.xml": "afc38b458a6d1fcb579641330672ca7acfc742f8390f08c86e9833fda2793d1f",
+    "scenarios/J3_PM.rou.xml": "c472ea27f3c1ad52a0a891d5e36ceb109faf1dfd8389d03693bde3630831c5ed",
+    "scenarios/CORRIDOR_PM.rou.xml": "146c338e63b548920b316faa33c6b9418c31fe91c7fb9fabb025f1948b91091c",
+    "scenarios/J3_PM.sumocfg": "00804ea6b2f9f1d7795c4bbecb2f0ebdd1c87dd334987dff1fb62f2e852b7657",
+    "scenarios/ST50_J2_PM.sumocfg": "a8eafa048cc158707fca039e389726e20357f59c31e9eadb9ba640b339e02a79",
+    "scenarios/J1_PM_fixed.add.xml": "7ea78651eeb6d2d3dc1bf8041717d85aa933be3306684167e089e4951d42812c",
+    "scenarios/ST50_J3_AM.sumocfg": "a525e74823b0a1daeaccdc4c12452c184378ade64600a810781b9a4a138fb747",
+    "scenarios/J3_AM.rou.xml": "1ae714ff7de82003d44729f495af4cd6402e8994a74535ffce8a2fdb643896ca",
+    "scenarios/J2_AM_crossings.add.xml": "4e14b52496875918fd9ad56610eda013f8ef3e4a43e0c13e47f26ee56543b310",
+    "scenarios/J2_PM.rou.xml": "087684db552154bf962975da61ac65ce0c5688cef59b8f1d5d6a955703ec68b7",
+    "scenarios/ST50_J1_AM.sumocfg": "d173cc87f0489bfb15dafb2ee2d2e9492bb92c7a59df524f55d00ff967fb9197",
+    "scenarios/ST50_J3_PM_crossings.add.xml": "a01bf6dce5d059fcfb8d7fa902e042757eb05f50cf57e00961850159da404711",
+    "scenarios/ST50_J2_AM.sumocfg": "037b17a3b8e257df8dc5c47f151e9d6c9d2595346516623668d607b73647f2f3",
+    "scenarios/CORRIDOR_PM_crossings.add.xml": "c4e3154d27a29290f658d2ee071a2fc462a2b1c745b1807e11c9e05ea6454821",
+    "scenarios/ST50_J3_PM.sumocfg": "8b47b8d27d0179a7e47e5328800f3337708ee6552aa69e9b22b133d70a764acc",
+    "scenarios/CORRIDOR_AM.rou.xml": "d413f1af46d5e844de93d5abdb73bd94986c181b64369fcb9bb7faa807c34ad6",
+    "scenarios/J2_PM_crossings.add.xml": "89703178a8785a84ce9123db238876879f01b76716851d3b9b7857906aca3159",
+    "scenarios/J1_PM_crossings.add.xml": "7353db9a260f24c0de422205b80ce0453d3f8280a2aa051b80ec67569666bc59",
+    "scenarios/J1_provisional_tls.add.xml": "9b19e6eadca1c0dd75a167bc3e02a98c46e1719bae5f6a0179a14b36e19676a9",
+    "scenarios/J2_provisional_tls.add.xml": "2b08ca7fc474dcea3de7678f5574726e3844d8d1a92af8e0846ffdae45128369",
+    "scenarios/ST50_J1_AM_crossings.add.xml": "c3b2982acebab194693155006fe98d4c52355215e7911404d94a91ab4d0eb5ce",
+    "scenarios/J2_AM.rou.xml": "9e9a5d8c137a6b3362f215361e27b804a62e61ccf70e74872e98ace41f977356",
+    "scenarios/J1_AM.rou.xml": "e1733810cdbbb10786be300907f9f4bcdefb493087c443442edb286b7e5f3329",
+    "scenarios/J1_PM.sumocfg": "0d3f4212c3884d2a1e169d4951581a4a296868605568df932fbdc4891bbfa578",
+    "scenarios/J1_AM_crossings.add.xml": "2f25adf25687b5f41307c28469ebd619ec5314ef36d524ec6eb5ec556425c713",
+    "scenarios/CORRIDOR_provisional_tls.add.xml": "74a93afb6398fedb00183ead2f1630a40665fd1c180bf519f75cc6a57d962dfe",
+    "scenarios/ST50_J1_PM.sumocfg": "f97538f63f17d025eca5d650458c34b7ee49fc284eb390e279a0f720532e35d3",
+    "scenarios/ST50_J2_AM_crossings.add.xml": "f19775f7cf2d21264e480627332cc85bbf3e738214700f98e5ad08596584c1e3",
+    "scenarios/ST50_J3_AM_crossings.add.xml": "ddf48689ad3afa8b01de117fa120e267b2c11434fb9ebdcca3cbaed226687b3c",
+    "scenarios/J3_AM_fixed.add.xml": "a5c521488ba616e6d4b647f4d05dd83ce24f6782209a2b6b5b427770ab4ebb74",
+    "scenarios/J1_AM.sumocfg": "134126a857e7c1ed2521656cb0cec6dcb1d6e175d5f8be36683f28da75b5e064",
+    "scenarios/J2_view.xml": "2b09c8b503280d5f099e3671bf2aabc183b82d7de1d814a02ea2c4c4822cf4a0",
+    "scenarios/CORRIDOR_AM_fixed.add.xml": "bd477b481bf9f333cc5601c9ff8d723efcf4fe147c60a68e93260c7968749973",
+    "scenarios/J1_PM.rou.xml": "6dfa262757e79e60025ae8fedd9fb8e85daf15c47b6304fcc076a775815d65e2",
+    "scenarios/J3_AM_crossings.add.xml": "49e512cdd88cc4da18972b5c024b53148a5d5b5a481cef2d260a3d60d16c79c6",
+    "scenarios/ST50_J1_PM_crossings.add.xml": "260662b271fca04995c938096f86f6d343f2a4d6c59e89e2c96c72133e6ab26f",
+    "scenarios/ST50_CORRIDOR_AM.sumocfg": "5579a974e3282b1ed7660dfa608a75235e41517899d0667b6090964d878611f3",
+    "scenarios/J1_view.xml": "bfc3b864795eb6699c297b686d13b8efe8d9fd722116c64547cd52ee97c3fae9",
+    "scenarios/J3_PM_fixed.add.xml": "8887aa9fc578834f7cc4e7b17b5e89f7957fa413947a3e463aae53d58138a8ca",
+    "scenarios/ST50_CORRIDOR_PM_crossings.add.xml": "6f89ca0cf9a1eddb8c1869a4ccfc17359a99e927937fc7a1279db58af923d1e9",
+    "scenarios/CORRIDOR_PM_fixed.add.xml": "960452aaad122ce2394e1b34b7825b0b8b1915e007893006d37f4ba6184376bc",
+    "scenarios/J2_AM.sumocfg": "68340737b6112492b1318f1cca55429cb7d70e0ae00ed110540b1e54d5396a83",
+    "scenarios/CORRIDOR_view.xml": "ef649f367f62b5fb9fd044a91106c841f8778a51ad645632096a6c87afee9b38",
+    "scenarios/ST50_J2_PM_crossings.add.xml": "d77003cf32946a3c9254d01dfd36792b10775ee3602a29ff0e92096196b4b81a",
+    "scenarios/J2_PM.sumocfg": "7046a0e35929a4c5e961db06583eb372c483817907bad2896ae7ead7133d9c2a",
+    "scenarios/J3_view.xml": "505f282e2dd80e6fe0e60d706ebd81b9cbde1dcf1f4088184efcea4758089b89",
+    "scenarios/J3_AM.sumocfg": "aa2ced2f4501a928b6c98d24adb6d7a9ea61b223253ce17523fe718ed273e0b8",
+    "scenarios/J3_provisional_tls.add.xml": "d88143e8b7d8c4728590fc44988757b921f9fc7683b8c4e602b2fa722c011882",
+    "scenarios/J3_PM_crossings.add.xml": "347231e6ab9001eb900a3675586ba4c4e217185f2af815a2dabcff237d5601d5",
+    "scenarios/CORRIDOR_AM.sumocfg": "e5ba5c3c6dd50a72fb8da4d3065af51a2e2a7b66589a21a34578542ce04ded3b",
+    "scenarios/J2_PM_fixed.add.xml": "80c4b19312c959b4705ae4a69ff072c18f784f504bd27d059742532bdf2e5bf5",
+    "scenarios/J2_AM_fixed.add.xml": "ba57cbf0a44811ee55272137e2fe2e0e3fa07a809aafb7bec83bb5124479e05b",
+    "scenarios/ST50_CORRIDOR_PM.sumocfg": "72c3c1380860cf855303214d1695de2c377fd13e61d27096865ce05c41c5828a",
+    "network/J1_keep_edges.txt": "e05e13d38f0c5a075d6008f3e6d2c9bb08c796908c086b43f0a3b4320ada25e0",
+    "network/mandaue.osm.xml": "2b38a6f2f9eaf4c777dd9e08a64d86065a44df892ae1fdc64bfda6e1a627697f",
+    "network/mandaue.net.xml": "b5fa6cc4725a4e58c288d3ea06af6fdf52bc4ef4e978da873cb53a4785b9289b",
+    "network/study_locations.add.xml": "325985e1ef3d443c2873fc281f70e8e06beed66c548f629fee55953bb23174d2",
+    "network/isolated_J2.net.xml": "bd7bcbf150ccc9387bac2e93d51929703a5a0db4c64648d37d5482411e404624",
+    "network/J3_keep_edges.txt": "cf4cf6aa6685627740a546c4491907047e23660605804ef019b4cc7465508a84",
+    "network/J2_keep_edges.txt": "ccf2f5d3d3939da02d3d5b20d0dd603c6856306b937524c5652be8a07a3ef01b",
+    "network/isolated_J3.net.xml": "605954cc03100dd5795ccc0149802836a3cec72f261f591272bec38583db7468",
+    "network/raw_import.net.xml": "1bcb7c507ddc9f967583834005cdaef38dd2133145147dcb758c12b7afebb591",
+    "network/isolated_J1.net.xml": "d6d229047a960f2bc21c7c3662ff723ca3877dc61fbd7b380ffd4746de35fbf3",
+    "network/junction_repairs.nod.xml": "c2ee8d72b3d352fdd62c5720cb79f1b4558562dfb3136d61a55bbb0747e488e6",
+    "data/reference_movements.json": "1b212798a1bf5350babb2e23f6061b3fea6252ef38397be0eef40122a9052f24",
+    "data/field_validation_template.csv": "53595ae40a17d62400f7871ce0aa4f81d091c11d4b7690a48b37084bb788635c",
+    "data/turn_counts_template.csv": "f976b1f8692d5ac1232c6eeca69e68976269d9d02fa25f7a550d58696c08863e",
+    "data/link_observations_template.csv": "342dd36ac4c0cf2d738ec6fd3b06708d1751be8ebb829e983cc22f91616f624e",
+    "data/demand_settings.json": "d037b55082c9885f73c95b017fbb05eb6a893544e698aa2dc6de74bf3ebaf49d",
+    "data/signal_phases_template.csv": "2d06b764168fb18ff6a3d3a3f6c49547bd46db8ccd6a148b5a9114b1f71f7b5b",
+    "data/sensor_channels_template.csv": "8fdcab2fb6a115320541faadf76759d9409b91efc6d01eadac90be84ec3cbc7c",
+    "data/source_timing_summaries.csv": "a84b6c383a0526dd8bb083ab2c90b74d9d1c8cc60a42c3097829f3918fa96b18",
+    "data/source_class_counts.csv": "18e557b955d695f0e43e8d8ba2d19383a2de7704453d2e1f1f91a385f68ab3e3",
+    "data/DATA_DICTIONARY.md": "4f670d03925bf7d4bd32d9e3fc133c83f341e7cfc8ff9c9bd48a825a53a66fba",
+    "data/vehicle_behavior_assumptions.csv": "af1d7b9143dc1d34d39e1b4bfd8b7b81bab08c5300f217343e1e5198b87cefb5",
+    "data/source_site_totals.csv": "55a61362b1aa254b0e4868d5726553ef788d27c5220b980d09a95cb0a182b5f5",
+    "data/reference_blueprints/CORRIDOR_PM.rou.xml": "146c338e63b548920b316faa33c6b9418c31fe91c7fb9fabb025f1948b91091c",
+    "data/reference_blueprints/CORRIDOR_AM.rou.xml": "d413f1af46d5e844de93d5abdb73bd94986c181b64369fcb9bb7faa807c34ad6",
+    "model/sensors/feature_contract.json": "5a5876c2c6bca006007bf4e288c5dab620fb5818856fdfb2fe89f55952adb504",
+    "model/sensors/feature_contract_v2.json": "5b05e728ca10363574496d1540e4fb573e835fafa36a6a052ab73a699b21f275",
+    "model/sensors/puck_layout.png": "c343b7c8706ae917b6393489201b0c1856f37ffc0974dbb12043d95981f96f12",
+    "model/sensors/catalog.json": "fb5a787228182232a0fb9be350c414fbbae86062c20b27b20a21a29d7b9443f5",
+    "model/sensors/pucks.add.xml": "0501160a598f08ce2c5d9cdb23dfad90bdafb621912764d09b54b1daf93d039a",
+    "model/sensors/puck_locations.csv": "a8f5e5aac417c35fab2107965673baee0abcb5946d1fbdd951cbf2776833c812"
+  }
+}

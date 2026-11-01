@@ -1,0 +1,30 @@
+{
+  "status": "FROZEN_RECONSTRUCTED_REFERENCE_NOT_FIELD_VALIDATED",
+  "seed": 42,
+  "warmup_s": 600,
+  "observed_demand_window_s": 3600,
+  "drain_s": 10200,
+  "step_length_s": 0.5,
+  "lateral_resolution_m": -1,
+  "approach_share_basis": "canonical corridor movement/class visits; original route-prior allocation frozen in data/reference_blueprints",
+  "approach_weights": {},
+  "turn_priors": {
+    "through": 0.7,
+    "left": 0.15,
+    "right": 0.15
+  },
+  "arrival_model": "frozen canonical corridor departure times; same source schedule reused for isolated visits as an assumption",
+  "yellow_s": 4,
+  "all_red_s": 4,
+  "signal_basis": "conditional source G+Y+R cycle candidates; fixed approach-demand-per-lane green shares; four protected motor-arm stages; zero offsets",
+  "PUV_mapping": "passenger proxy pending source class clarification",
+  "pedestrian_demand": "not reconstructed; no person flows included",
+  "emergency_behavior": "source class counts retained; ordinary vehicle behavior and no preemption in this initial run",
+  "controller": "fixed-time reference; PASADA disabled",
+  "teleport_policy": "automatic gridlock teleports disabled; backlog retained and reported",
+  "motorcycle_representation": "lane-based proxy for first runs; filtering is not enabled or validated",
+  "simulation_end_s": 14400,
+  "baseline_scale": 1.0,
+  "source_load_sensitivity_scale": 0.5,
+  "authoritative_inputs": "data/reference_blueprints and data/reference_movements.json; rebuilding uses scripts/rebuild_baseline.py; settings here describe the release rather than overriding frozen blueprints"
+}

@@ -1,0 +1,211 @@
+{
+  "version": "puck-conservation-40-v1",
+  "input_count": 40,
+  "ordered_features": [
+    {
+      "index": 0,
+      "name": "stage_0.occupancy_5"
+    },
+    {
+      "index": 1,
+      "name": "stage_0.occupancy_30"
+    },
+    {
+      "index": 2,
+      "name": "stage_0.occupancy_60"
+    },
+    {
+      "index": 3,
+      "name": "stage_0.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 4,
+      "name": "stage_0.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 5,
+      "name": "stage_0.receiving_exit_occupancy"
+    },
+    {
+      "index": 6,
+      "name": "stage_0.time_since_green"
+    },
+    {
+      "index": 7,
+      "name": "stage_0.motor_lane_count"
+    },
+    {
+      "index": 8,
+      "name": "stage_1.occupancy_5"
+    },
+    {
+      "index": 9,
+      "name": "stage_1.occupancy_30"
+    },
+    {
+      "index": 10,
+      "name": "stage_1.occupancy_60"
+    },
+    {
+      "index": 11,
+      "name": "stage_1.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 12,
+      "name": "stage_1.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 13,
+      "name": "stage_1.receiving_exit_occupancy"
+    },
+    {
+      "index": 14,
+      "name": "stage_1.time_since_green"
+    },
+    {
+      "index": 15,
+      "name": "stage_1.motor_lane_count"
+    },
+    {
+      "index": 16,
+      "name": "stage_2.occupancy_5"
+    },
+    {
+      "index": 17,
+      "name": "stage_2.occupancy_30"
+    },
+    {
+      "index": 18,
+      "name": "stage_2.occupancy_60"
+    },
+    {
+      "index": 19,
+      "name": "stage_2.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 20,
+      "name": "stage_2.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 21,
+      "name": "stage_2.receiving_exit_occupancy"
+    },
+    {
+      "index": 22,
+      "name": "stage_2.time_since_green"
+    },
+    {
+      "index": 23,
+      "name": "stage_2.motor_lane_count"
+    },
+    {
+      "index": 24,
+      "name": "stage_3.occupancy_5"
+    },
+    {
+      "index": 25,
+      "name": "stage_3.occupancy_30"
+    },
+    {
+      "index": 26,
+      "name": "stage_3.occupancy_60"
+    },
+    {
+      "index": 27,
+      "name": "stage_3.arrival_rate_60_per_lane"
+    },
+    {
+      "index": 28,
+      "name": "stage_3.upstream_5m_passage_rate_per_lane"
+    },
+    {
+      "index": 29,
+      "name": "stage_3.receiving_exit_occupancy"
+    },
+    {
+      "index": 30,
+      "name": "stage_3.time_since_green"
+    },
+    {
+      "index": 31,
+      "name": "stage_3.motor_lane_count"
+    },
+    {
+      "index": 32,
+      "name": "current_stage_0"
+    },
+    {
+      "index": 33,
+      "name": "current_stage_1"
+    },
+    {
+      "index": 34,
+      "name": "current_stage_2"
+    },
+    {
+      "index": 35,
+      "name": "current_stage_3"
+    },
+    {
+      "index": 36,
+      "name": "elapsed_green_ratio_or_clearance_flag"
+    },
+    {
+      "index": 37,
+      "name": "counted_region_stock"
+    },
+    {
+      "index": 38,
+      "name": "region_net_flow"
+    },
+    {
+      "index": 39,
+      "name": "observer_trusted"
+    }
+  ],
+  "architecture": [
+    40,
+    32,
+    16,
+    2
+  ],
+  "parameter_count": 1874,
+  "float32_parameter_bytes": 7496,
+  "float32_working_activations_bytes": 200,
+  "activation_memory_note": "inference working arrays only; excludes features, supervisor, firmware, radio/RTC, stacks and logging",
+  "formulas": {
+    "occupancy": "lane-mean E1 point occupancy fraction; EMA time constant 5 s",
+    "rates": "unique passage pulses in previous 10 s, divided by 10 and served-approach motor lane count; capped at 2 veh/s/served lane",
+    "receiving_exit_occupancy": "maximum EMA across downstream rows reachable by the stage; no movement intentions supplied",
+    "time_since_green": "(time - last stage green start)/300, capped at 2",
+    "motor_lane_count": "lane count /4",
+    "elapsed_green_ratio_or_clearance_flag": "elapsed current green / reference green, capped at 2; -1 during clearance",
+    "counted_region_stock": "max(0, boundary inflow cumulative - boundary outflow cumulative)/documented stock scale; capped at 3; absolute estimate only valid with known initial inventory",
+    "region_net_flow": "(last-10s boundary inflow rate - boundary outflow rate)/5, clipped [-2,2]",
+    "observer_trusted": "1 for complete modeled boundary, known initialization, ideal-count assumption, no historical negative raw balance and fresh heartbeats; otherwise 0. Configured count noise sets trust to 0."
+  },
+  "counter_equation": "N(t)=N0+sum(all boundary entry pulses)-sum(all boundary exit pulses). Upstream 5/30/60 observations are overlapping evidence, not three independent inflows.",
+  "counter_scope": "total vehicles stored in the selected closed region, including moving vehicles; not per-approach queue length",
+  "initialization": "N0=0 is valid for these empty-start simulations only. Real startup requires independently established N0; do not silently initialize an occupied road to zero.",
+  "side_access": "extra side-boundary rows in catalog.json are required to close the region. Missing side flows are unknown, not zero.",
+  "identity_backend": "simulation IDs deduplicate ideal row passage events internally; no IDs, route intentions, speeds or exact queues are policy inputs. Real pulse generation/crosstalk/motorcycle resolution must be tested.",
+  "actions": {
+    "0": "keep current green until next decision or supervisor boundary",
+    "1": "request next cyclic green via 4 s yellow and 4 s all-red; accepted only after minimum green"
+  },
+  "supervisor": {
+    "decision_interval_s": 5,
+    "minimum_green_s": 10,
+    "maximum_green_s": "max(30,min(180,2*reference stage green))",
+    "yellow_s": 4,
+    "all_red_s": 4,
+    "heartbeat_timeout_s": 3,
+    "recovery_healthy_s": 60,
+    "scope": "motor-only pilot; no pedestrian/emergency demand implemented; timings are simulation assumptions, not field-approved"
+  },
+  "policy_data_boundary": "Only point occupancy, pulse counters and controller state enter inference. SUMO halting/pending/arrival truth is used for rewards and audit only.",
+  "field_validated": false,
+  "exact_board_verified": false,
+  "outage_inventory_rule": "A required puck stale for >3 s invalidates absolute N0 reconciliation for that site. Heartbeat recovery never rezeros or repairs lost counts. Raw balance remains logged; absolute-stock feature is withheld pending independent reconciliation.",
+  "passage_semantics": "A passage at the upstream nominal-5m row is near-stopline evidence, not confirmed intersection discharge. Confirmed departures are counted by the post-intersection rows. Actual shifted locations are in catalog.json."
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <edgeData id="J1_PM_MOTORCYCLE" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="MOTORCYCLE" file="../results/J1_PM/crossings_MOTORCYCLE.xml" excludeEmpty="false" />
+  <edgeData id="J1_PM_PUV" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="PUV" file="../results/J1_PM/crossings_PUV.xml" excludeEmpty="false" />
+  <edgeData id="J1_PM_PUJ" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="PUJ" file="../results/J1_PM/crossings_PUJ.xml" excludeEmpty="false" />
+  <edgeData id="J1_PM_PUB" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="PUB" file="../results/J1_PM/crossings_PUB.xml" excludeEmpty="false" />
+  <edgeData id="J1_PM_TRUCK" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="TRUCK" file="../results/J1_PM/crossings_TRUCK.xml" excludeEmpty="false" />
+  <edgeData id="J1_PM_CONTAINER_VAN" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="CONTAINER_VAN" file="../results/J1_PM/crossings_CONTAINER_VAN.xml" excludeEmpty="false" />
+  <edgeData id="J1_PM_WING_VAN" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="WING_VAN" file="../results/J1_PM/crossings_WING_VAN.xml" excludeEmpty="false" />
+  <edgeData id="J1_PM_EMERGENCY_VEHICLE" begin="600" end="4200" period="3600" edges="-97908348#1 52253090#0 921916210#1 97908344#0" vTypes="EMERGENCY_VEHICLE" file="../results/J1_PM/crossings_EMERGENCY_VEHICLE.xml" excludeEmpty="false" />
+</additional>
