@@ -2,6 +2,8 @@
 
 A working draft connecting installation planning, virtual device provisioning, a satellite C2C map, local controller behavior, synthetic experiments and SUMO replay import.
 
+**Live demo:** [Open the PASADA Traffic Command Center](https://elsigmatom.github.io/pasada-c2c/)
+
 The C2C now opens on a compact map-led operator view. **Emergency fleet** registers vehicles and binds one beacon to each; **Install beacon** carries that record into configuration and virtual readback. Use a shared firmware build with unique per-vehicle configuration. Read `docs/C2C_AND_FLEET.md` for the workflow, identity contract, UI references and remaining shared-registry/security integration.
 
 Start with `docs/IMPLEMENTATION_GUIDE.md` and `docs/CONTROLLERS_AND_BEACONS.md`. Technical drawings, firmware scaffolds and build notes remain in the source package for the development team. The operator website no longer includes a Technical handoff page. Review `docs/DRAWINGS_REVB.md` for the sheet register and open design details; the original PDF is included unchanged in `dist/drawings/`. All sheets remain concept / not for fabrication. All configuration and traffic in the bundled example is demonstration data. The map follows paper p.33: A.C. Cortes, D.M. Cortes, and A. Soriano/Ouano Avenue in Mandaue City. C2C has a T.E.A.M. concept theme. See `docs/LEAR_ALIGNMENT.md` for judging weights, dates and evidence still needed. Pucks follow individual road lane paths: 5/30/60 m upstream per incoming lane and one counter per outgoing lane. Signal references and lane widths remain provisional and editable. The map shows the two lane borders with pucks at their midpoint; **Centre between lane borders** aligns a selected row to two imagery picks. `docs/RESEARCH_BASIS.md` connects the attached Tubaishat et al. (2007) paper to the design and contribution statement.
@@ -66,10 +68,6 @@ The default map now uses flat Mandaue building footprints and road geometry, fol
 
 Clean view coverage now continues beyond the local extract using a regional Esri road basemap. Zooming out shows Metro Cebu; a study-area label returns to the detailed corridor. The local detail canvas does not cover the wider map with black. Regional context requires connectivity; see the map guide for provider lifecycle information.
 
-
-## Share with LEAR judges
-
-See [GITHUB_PAGES.md](GITHUB_PAGES.md) for the ready-to-use GitHub Pages workflow and project upload package. The public app includes a separate recorded SUMO results viewer at `study/`; the interactive C2C remains a browser queue-model demonstration. Physical firmware writing remains deferred.
 
 ## Recorded study playback
 
